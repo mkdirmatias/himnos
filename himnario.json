@@ -17919,7 +17919,7 @@
   "especiales": [
     {
       "numero": 1,
-      "titulo": "En las olas furiosas del mar",
+      "titulo": "En las olas furiosas",
       "nota": "",
       "compas": "",
       "coro": [
@@ -18050,7 +18050,7 @@
     },
     {
       "numero": 5,
-      "titulo": "Solo Dios lo pudo hacer",
+      "titulo": "Quién hizo los cielos",
       "nota": "",
       "compas": "",
       "coro": [
@@ -18090,7 +18090,7 @@
     },
     {
       "numero": 6,
-      "titulo": "Las vestiduras",
+      "titulo": "Quita esas manchas",
       "nota": "",
       "compas": "",
       "coro": [
@@ -18557,7 +18557,7 @@
     },
     {
       "numero": 19,
-      "titulo": "Al abrigo de Dios",
+      "titulo": "El que habita al abrigo de Dios",
       "nota": "",
       "compas": "",
       "coro": [
@@ -18591,7 +18591,7 @@
     },
     {
       "numero": 20,
-      "titulo": "Ciudad Santa",
+      "titulo": "La ciudad santa",
       "nota": "",
       "compas": "",
       "coro": [
@@ -18868,7 +18868,7 @@
     },
     {
       "numero": 27,
-      "titulo": "El Rey está volviendo",
+      "titulo": "El mercado",
       "nota": "",
       "compas": "",
       "coro": [
@@ -19048,7 +19048,7 @@
     },
     {
       "numero": 32,
-      "titulo": "El Amor de Cristo",
+      "titulo": "Amor de Cristo",
       "nota": "",
       "compas": "",
       "coro": [
@@ -19157,7 +19157,7 @@
     },
     {
       "numero": 35,
-      "titulo": "Como aquellos días tristes de Noé",
+      "titulo": "Como en aquellos días tristes",
       "nota": "",
       "compas": "",
       "coro": [
@@ -19315,39 +19315,36 @@
     },
     {
       "numero": 39,
-      "titulo": "Agradecimiento",
+      "titulo": "Divino Compañero del Camino",
       "nota": "",
       "compas": "",
       "coro": [
-        "Agradecimiento hay en mi corazón;",
-        "Canto de alegría elevo con mi voz.",
-        "Muchas son las cosas que mi Dios me ha dado,",
-        "Y en agradecimiento...",
-        "Y en agradecimiento le sirvo a mi Señor"
+        "Quédate, Señor, que se hace tarde",
+        "Te ofrezco el corazón para posar.",
+        "Hazlo tu morada permanente,",
+        "Acéptalo, acéptalo mi Salvador."
       ],
       "estrofas": [
         [
-          "Al meditar Dios mío en las cosas que me has dado",
-          "Mi corazón se inflama, lleno de emoción.",
-          "Pues no encuentro palabras con que expresar, mi Cristo",
-          "El agradecimiento de mi alma para Ti.",
-          "Cambiaste Tú mi vida, me diste la Esperanza",
-          "Y desde aquel momento mi alma recibió",
-          "Un gozo tan sublime, que al paso de los años",
-          "Ha sido cual la fuente de mi felicidad."
+          "Divino compañero del camino,",
+          "Tu presencia siento yo al transitar,",
+          "Tú has disipado toda sombra,",
+          "Ya tengo luz, la luz bendita de tu amor."
         ],
         [
-          "Las veces que la prueba has puesto en mi camino",
-          "En vez de ser derrota han sido bendición;",
-          "Pues ni por un instante Tú me has dejado solo,",
-          "Y así tu Santa Mano ha sido mi sostén.",
-          "Permita que mi vida yo ponga a tu servicio,",
-          "Que dentro de mi alma presente siempre estén",
-          "Tus múltiples favores y tus misericordias",
-          "Que aún sin merecerlo has hecho para mí."
+          "La sombra de la noche se aproxima",
+          "Y sobre ella el tentador acechará,",
+          "No me dejes solo en el camino,",
+          "Ayúdame, ayúdame hasta llegar."
+        ],
+        [
+          "Contigo la jornada se hace corta,",
+          "No habrá sed ni el sol fatigará,",
+          "En el mar las olas amenazan",
+          "Y sobre ellas majestuoso tú andarás."
         ]
       ],
-      "categoria": "Especiales"
+      "categoria": "Coritos"
     },
     {
       "numero": 40,
@@ -19713,7 +19710,7 @@
     },
     {
       "numero": 50,
-      "titulo": "Sufrió agonía el Señor",
+      "titulo": "Sufre agonía el Señor",
       "nota": "",
       "compas": "",
       "coro": [
@@ -19779,16 +19776,45 @@
     },
     {
       "numero": 52,
-      "titulo": "",
+      "titulo": "Ciudad Santa",
       "nota": "",
       "compas": "",
-      "coro": [],
-      "estrofas": [],
+      "coro": [
+        "Jerusalén, Jerusalén álzate a cantar",
+        "Oh, oh hosanna en las alturas",
+        "Oh, oh hosanna a tu Rey."
+      ],
+      "estrofas": [
+        [
+          "Un sueño muy hermoso",
+          "Anoche yo soñé",
+          "Me vi en Jerusalén",
+          "Y el templo contemplé",
+          "Oí cantar los niños",
+          "Canciones sin cesar",
+          "Los ángeles del cielo",
+          "Parecen contemplar",
+          "Los ángeles del cielo",
+          "Parecen contemplar."
+        ],
+        [
+          "De nuevo el sueño cambia",
+          "La calle enmudeció",
+          "Cesaron el hosanna",
+          "Pues su tumba silenció",
+          "El sol perdió su lumbre",
+          "La tarde obscureció",
+          "Las sombras de una cruz",
+          "En el calvario apareció",
+          "Las sombras de una cruz",
+          "En el calvario apareció."
+        ]
+      ],
       "categoria": "Especiales"
     },
     {
       "numero": 53,
-      "titulo": "Adorándote",
+      "titulo": "Mis manos adorándote",
       "nota": "",
       "compas": "",
       "coro": [
@@ -19902,7 +19928,7 @@
     },
     {
       "numero": 56,
-      "titulo": "Necesito de tí",
+      "titulo": "Necesito de tí Señor",
       "nota": "",
       "compas": "",
       "coro": [
@@ -20195,36 +20221,36 @@
     },
     {
       "numero": 65,
-      "titulo": "Oh tu fidelidad",
-      "nota": "E",
-      "compas": "3 tiempos",
+      "titulo": "Si en esta noche",
+      "nota": "",
+      "compas": "",
       "coro": [
-        "Oh tu fidelidad, oh tu fidelidad,",
-        "Cada momento la veo en mí.",
-        "Nada me falta pues todo provees,",
-        "Grande Señor es tu fidelidad."
+        "¿Ni aún así creerías en Él,",
+        "Ingrato pecador?",
+        "Él está aquí, si quieres creer:",
+        "Ven a tu Salvador."
       ],
       "estrofas": [
         [
-          "Oh Dios eterno, tu misericordia",
-          "Ni una sombra de duda tendrá",
-          "Tu compasión y bondad nunca fallan,",
-          "Y por los siglos el mismo serás."
+          "Si en esta noche vieras al Señor,",
+          "Sangrando aún la coronada sien,",
+          "Y te dijera con profundo amor:",
+          "\"Ven a tu Salvador, amigo, ven\"."
         ],
         [
-          "La noche oscura, el sol y la luna,",
-          "Las estaciones del año también,",
-          "Unen su canto cual fieles criaturas",
-          "Porque eres Bueno, por siempre eres fiel."
+          "Si aquí pudieras contemplar su faz,",
+          "De aquellos ojos la benigna luz;",
+          "Su voz oír de bendición y paz",
+          "Y ver en Él las marcas de la Cruz."
         ],
         [
-          "Tú me perdonas, me impartes el gozo,",
-          "Tierno me guías por sendas de paz;",
-          "Eres mi fuerza, mi fe, mi reposo",
-          "Y por los siglos mi Padre serás."
+          "Él habla ya contigo sin rumor,",
+          "Pues a tu lado se ha sentado aquí,",
+          "¿No sientes tú la llama de su amor",
+          "Cuando te dice: \"Todo fue por ti?\""
         ]
       ],
-      "categoria": "Especiales"
+      "categoria": "General"
     },
     {
       "numero": 66,
