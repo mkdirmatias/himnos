@@ -356,9 +356,11 @@
       "nota": "Sol mayor (G)",
       "compas": "",
       "coro": [
-        "Sí, sí ¡Venid, oh, venid!",
-        "Al cielo, nos llama,",
-        "Que es patria mejor."
+        [
+          "Sí, sí ¡Venid, oh, venid!",
+          "Al cielo, nos llama,",
+          "Que es patria mejor."
+        ]
       ],
       "estrofas": [
         [
@@ -400,10 +402,12 @@
       "nota": "Do mayor (C)",
       "compas": "",
       "coro": [
-        "Ven a Cristo, ven a Cristo,",
-        "Ven a Emmanuel;",
-        "Y la Vida, y la Vida,",
-        "Hallarás en Él."
+        [
+          "Ven a Cristo, ven a Cristo,",
+          "Ven a Emmanuel;",
+          "Y la Vida, y la Vida,",
+          "Hallarás en Él."
+        ]
       ],
       "estrofas": [
         [
@@ -501,10 +505,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "No os detengáis, no os detengáis",
-        "Nunca, nunca, nunca;",
-        "Cristo por salvarnos dio",
-        "Su sangre, cuando Él murió."
+        [
+          "No os detengáis, no os detengáis",
+          "Nunca, nunca, nunca;",
+          "Cristo por salvarnos dio",
+          "Su sangre, cuando Él murió."
+        ]
       ],
       "estrofas": [
         [
@@ -614,10 +620,12 @@
       "nota": "Re mayor (D)",
       "compas": "",
       "coro": [
-        "El Señor me ama a mí",
-        "Y también te ama a ti,",
-        "Vida dio en la Cruz por mí",
-        "Y por Él yo soy feliz."
+        [
+          "El Señor me ama a mí",
+          "Y también te ama a ti,",
+          "Vida dio en la Cruz por mí",
+          "Y por Él yo soy feliz."
+        ]
       ],
       "estrofas": [
         [
@@ -658,8 +666,10 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Llegará por la fe; la victoria y la gloria",
-        "Gozaré en la patria celestial."
+        [
+          "Llegará por la fe; la victoria y la gloria",
+          "Gozaré en la patria celestial."
+        ]
       ],
       "estrofas": [
         [
@@ -769,10 +779,12 @@
       "nota": "Do mayor (C)",
       "compas": "3 tiempos",
       "coro": [
-        "De amor la prueba, ¡he aquí!",
-        "El Salvador murió por mí,",
-        "Por mí, por mí,",
-        "Jesús murió por mí."
+        [
+          "De amor la prueba, ¡he aquí!",
+          "El Salvador murió por mí,",
+          "Por mí, por mí,",
+          "Jesús murió por mí."
+        ]
       ],
       "estrofas": [
         [
@@ -882,8 +894,10 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Murió por mí, murió por mí.",
-        "Jesús murió por mí."
+        [
+          "Murió por mí, murió por mí.",
+          "Jesús murió por mí."
+        ]
       ],
       "estrofas": [
         [
@@ -959,10 +973,12 @@
       "nota": "Mi mayor (E)",
       "compas": "3 tiempos",
       "coro": [
-        "Cristo dio por mí",
-        "Sangre carmesí,",
-        "Y por su muerte en la Cruz,",
-        "La Vida me dio Jesús."
+        [
+          "Cristo dio por mí",
+          "Sangre carmesí,",
+          "Y por su muerte en la Cruz,",
+          "La Vida me dio Jesús."
+        ]
       ],
       "estrofas": [
         [
@@ -1112,10 +1128,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Gloria, ángeles, cantad a Dios,",
-        "Gloria a Jesús alzad la voz;",
-        "Redentor de toda la humanidad;",
-        "A Jesús con júbilo cantad."
+        [
+          "Gloria, ángeles, cantad a Dios,",
+          "Gloria a Jesús alzad la voz;",
+          "Redentor de toda la humanidad;",
+          "A Jesús con júbilo cantad."
+        ]
       ],
       "estrofas": [
         [
@@ -1145,10 +1163,12 @@
       "nota": "La mayor (A)",
       "compas": "2 tiempos",
       "coro": [
-        "¡Gloria sea nuestro Dios!",
-        "¡Gloria! Sí, cantemos a una voz.",
-        "Y el cantar de Gloria que se oyó en Belén,",
-        "Sea nuestro cántico también."
+        [
+          "¡Gloria sea nuestro Dios!",
+          "¡Gloria! Sí, cantemos a una voz.",
+          "Y el cantar de Gloria que se oyó en Belén,",
+          "Sea nuestro cántico también."
+        ]
       ],
       "estrofas": [
         [
@@ -1326,8 +1346,10 @@
       "nota": "Re mayor (D)",
       "compas": "",
       "coro": [
-        "Voy al cielo -soy peregrino-",
-        "A vivir eternamente con Jesús."
+        [
+          "Voy al cielo -soy peregrino-",
+          "A vivir eternamente con Jesús."
+        ]
       ],
       "estrofas": [
         [
@@ -1397,10 +1419,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "En el mundo feliz,",
-        "Reinaremos con nuestro Señor.",
-        "En el mundo feliz",
-        "Reinaremos con nuestro Señor."
+        [
+          "En el mundo feliz,",
+          "Reinaremos con nuestro Señor.",
+          "En el mundo feliz",
+          "Reinaremos con nuestro Señor."
+        ]
       ],
       "estrofas": [
         [
@@ -1430,10 +1454,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Ven a Él, pecador,",
-        "Que te espera tu buen Salvador.",
-        "Ven a Él, pecador,",
-        "Que te espera tu buen Salvador."
+        [
+          "Ven a Él, pecador,",
+          "Que te espera tu buen Salvador.",
+          "Ven a Él, pecador,",
+          "Que te espera tu buen Salvador."
+        ]
       ],
       "estrofas": [
         [
@@ -1503,10 +1529,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Nombre digno de honor,",
-        "Nombre dulce de amor,",
-        "Nombre de mi Redentor,",
-        "Cristo, Jesucristo."
+        [
+          "Nombre digno de honor,",
+          "Nombre dulce de amor,",
+          "Nombre de mi Redentor,",
+          "Cristo, Jesucristo."
+        ]
       ],
       "estrofas": [
         [
@@ -1542,10 +1570,12 @@
       "nota": "Re mayor (D)",
       "compas": "3 tiempos",
       "coro": [
-        "Nunca los hombres cantarán,",
-        "Nunca los ángeles de luz",
-        "Mas, dulce nota entonarán,",
-        "Que el nombre de Jesús."
+        [
+          "Nunca los hombres cantarán,",
+          "Nunca los ángeles de luz",
+          "Mas, dulce nota entonarán,",
+          "Que el nombre de Jesús."
+        ]
       ],
       "estrofas": [
         [
@@ -1715,10 +1745,12 @@
       "nota": "Sol mayor (G)",
       "compas": "",
       "coro": [
-        "¡Oh, Padre Eterno!",
-        "¡Oh, Padre Eterno!",
-        "Perdón te pido",
-        "Por mis pecados."
+        [
+          "¡Oh, Padre Eterno!",
+          "¡Oh, Padre Eterno!",
+          "Perdón te pido",
+          "Por mis pecados."
+        ]
       ],
       "estrofas": [
         [
@@ -2374,10 +2406,12 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Como estrellas que brillan",
-        "Son los niños que le aman",
-        "Los tesoros que adoran",
-        "Su Rey y Señor."
+        [
+          "Como estrellas que brillan",
+          "Son los niños que le aman",
+          "Los tesoros que adoran",
+          "Su Rey y Señor."
+        ]
       ],
       "estrofas": [
         [
@@ -2507,10 +2541,12 @@
       "nota": "Sol mayor (G)",
       "compas": "",
       "coro": [
-        "De pie, soldados",
-        "De Cristo y de su Cruz,",
-        "Pendones desplegados",
-        "Os da el Rey Jesús."
+        [
+          "De pie, soldados",
+          "De Cristo y de su Cruz,",
+          "Pendones desplegados",
+          "Os da el Rey Jesús."
+        ]
       ],
       "estrofas": [
         [
@@ -2542,10 +2578,12 @@
       "nota": "Sol mayor (G)",
       "compas": "4 tiempos",
       "coro": [
-        "\"Gloria en las Alturas\",",
-        "Los de a bordo cantan dulcemente.",
-        "\"Gloria en las Alturas\"",
-        "A nuestro Capitán."
+        [
+          "\"Gloria en las Alturas\",",
+          "Los de a bordo cantan dulcemente.",
+          "\"Gloria en las Alturas\"",
+          "A nuestro Capitán."
+        ]
       ],
       "estrofas": [
         [
@@ -2597,10 +2635,12 @@
       "nota": "Re mayor (D)",
       "compas": "4 tiempos",
       "coro": [
-        "¡Oh, sí! nos congregaremos",
-        "En célica, hermosísima ribera",
-        "Del río de la Vida verdadera",
-        "Que nace del trono de Dios."
+        [
+          "¡Oh, sí! nos congregaremos",
+          "En célica, hermosísima ribera",
+          "Del río de la Vida verdadera",
+          "Que nace del trono de Dios."
+        ]
       ],
       "estrofas": [
         [
@@ -2849,12 +2889,14 @@
       "nota": "Sol mayor (G)",
       "compas": "3 tiempos",
       "coro": [
-        "¡Qué bellas son!",
-        "¡Qué bellas son!",
-        "Bellas palabras de Vida;",
-        "¡Qué bellas son!",
-        "¡Qué bellas son!",
-        "Bellas palabras de Vida;"
+        [
+          "¡Qué bellas son!",
+          "¡Qué bellas son!",
+          "Bellas palabras de Vida;",
+          "¡Qué bellas son!",
+          "¡Qué bellas son!",
+          "Bellas palabras de Vida;"
+        ]
       ],
       "estrofas": [
         [
@@ -3009,10 +3051,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Suave luz, manantial",
-        "De Esperanza, fe y amor;",
-        "Sumo bien celestial",
-        "Es Jesús, el Salvador."
+        [
+          "Suave luz, manantial",
+          "De Esperanza, fe y amor;",
+          "Sumo bien celestial",
+          "Es Jesús, el Salvador."
+        ]
       ],
       "estrofas": [
         [
@@ -3118,10 +3162,12 @@
       "nota": "Re mayor (D)",
       "compas": "4 tiempos",
       "coro": [
-        "Volveremos a cantar",
-        "Cristo acoge al pecador.",
-        "Claro hacedlo resonar,",
-        "Cristo acoge al pecador."
+        [
+          "Volveremos a cantar",
+          "Cristo acoge al pecador.",
+          "Claro hacedlo resonar,",
+          "Cristo acoge al pecador."
+        ]
       ],
       "estrofas": [
         [
@@ -3157,10 +3203,12 @@
       "nota": "La menor (Am)",
       "compas": "3 tiempos",
       "coro": [
-        "A Jesús pues, acude,",
-        "En sus brazos tu alma",
-        "Hallará dulce calma;",
-        "Él te hará vencedor."
+        [
+          "A Jesús pues, acude,",
+          "En sus brazos tu alma",
+          "Hallará dulce calma;",
+          "Él te hará vencedor."
+        ]
       ],
       "estrofas": [
         [
@@ -3190,10 +3238,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Salvo en los tiernos brazos",
-        "De mi Jesús seré;",
-        "Y en su amoroso pecho",
-        "Siempre reposaré."
+        [
+          "Salvo en los tiernos brazos",
+          "De mi Jesús seré;",
+          "Y en su amoroso pecho",
+          "Siempre reposaré."
+        ]
       ],
       "estrofas": [
         [
@@ -3245,13 +3295,15 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "¡Soy feliz! ¡soy feliz!",
-        "Y en tu favor me gozaré.",
-        "En libertad y luz me vi",
-        "Cuando triunfó en mi la fe,",
-        "Y el raudal carmesí",
-        "Salud de mi alma",
-        "Enferma fue."
+        [
+          "¡Soy feliz! ¡soy feliz!",
+          "Y en tu favor me gozaré.",
+          "En libertad y luz me vi",
+          "Cuando triunfó en mi la fe,",
+          "Y el raudal carmesí",
+          "Salud de mi alma",
+          "Enferma fue."
+        ]
       ],
       "estrofas": [
         [
@@ -3288,10 +3340,12 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "¡Trabajad! ¡Trabajad!",
-        "¡Esperad y velad!",
-        "¡Confiad! ¡Siempre orad!",
-        "Que el Maestro pronto volverá."
+        [
+          "¡Trabajad! ¡Trabajad!",
+          "¡Esperad y velad!",
+          "¡Confiad! ¡Siempre orad!",
+          "Que el Maestro pronto volverá."
+        ]
       ],
       "estrofas": [
         [
@@ -3321,10 +3375,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "¡Ven! ¡Ven! ¡buen Jesús!",
-        "Háblame, dulce bien,",
-        "En ti quiero reposar",
-        "Y tu dulce mirada gozar."
+        [
+          "¡Ven! ¡Ven! ¡buen Jesús!",
+          "Háblame, dulce bien,",
+          "En ti quiero reposar",
+          "Y tu dulce mirada gozar."
+        ]
       ],
       "estrofas": [
         [
@@ -3360,10 +3416,12 @@
       "nota": "Mi mayor (E)",
       "compas": "2 tiempos",
       "coro": [
-        "Firmes y adelante",
-        "Huestes de la fe.",
-        "Sin temor alguno,",
-        "Que Jesús nos ve."
+        [
+          "Firmes y adelante",
+          "Huestes de la fe.",
+          "Sin temor alguno,",
+          "Que Jesús nos ve."
+        ]
       ],
       "estrofas": [
         [
@@ -3455,8 +3513,10 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Cantan \"¡Gloria, gloria",
-        "Aleluya al Santo Dios!\""
+        [
+          "Cantan \"¡Gloria, gloria",
+          "Aleluya al Santo Dios!\""
+        ]
       ],
       "estrofas": [
         [
@@ -3498,10 +3558,12 @@
       "nota": "Sol mayor (G)",
       "compas": "",
       "coro": [
-        "Sí, allí será gratísimo",
-        "En el proceder pensar",
-        "Del Pastor fiel y benéfico",
-        "Que nos ayudó a llegar."
+        [
+          "Sí, allí será gratísimo",
+          "En el proceder pensar",
+          "Del Pastor fiel y benéfico",
+          "Que nos ayudó a llegar."
+        ]
       ],
       "estrofas": [
         [
@@ -3543,10 +3605,12 @@
       "nota": "Sol mayor (G)",
       "compas": "3 tiempos",
       "coro": [
-        "Es Jesús, mi Señor,",
-        "Es mi Gloria eterna;",
-        "Él me amo y me salvó",
-        "En su Gracia tierna."
+        [
+          "Es Jesús, mi Señor,",
+          "Es mi Gloria eterna;",
+          "Él me amo y me salvó",
+          "En su Gracia tierna."
+        ]
       ],
       "estrofas": [
         [
@@ -3582,10 +3646,12 @@
       "nota": "Do mayor (C)",
       "compas": "3 tiempos",
       "coro": [
-        "Vamos sembrando con vivo amor",
-        "Dulce Palabra del buen Salvador,",
-        "Obrando siempre con celo y con fe,",
-        "Para que rica cosecha nos dé."
+        [
+          "Vamos sembrando con vivo amor",
+          "Dulce Palabra del buen Salvador,",
+          "Obrando siempre con celo y con fe,",
+          "Para que rica cosecha nos dé."
+        ]
       ],
       "estrofas": [
         [
@@ -3629,10 +3695,12 @@
       "nota": "Re mayor (D)",
       "compas": "4 tiempos",
       "coro": [
-        "\"¡Firmes! ¡Firmes! Yo voy pronto\"",
-        "Clama el Salvador;",
-        "Estaremos por tu gracia",
-        "Firmes con valor."
+        [
+          "\"¡Firmes! ¡Firmes! Yo voy pronto\"",
+          "Clama el Salvador;",
+          "Estaremos por tu gracia",
+          "Firmes con valor."
+        ]
       ],
       "estrofas": [
         [
@@ -3696,12 +3764,14 @@
       "nota": "Do mayor (C)",
       "compas": "2 tiempos",
       "coro": [
-        "¡Oh, cuán grata",
-        "Es nuestra reunión!,",
-        "Cuando allá,",
-        "Señor, en tu mansión",
-        "Contigo estemos es comunión,",
-        "Gozando eterno bien."
+        [
+          "¡Oh, cuán grata",
+          "Es nuestra reunión!,",
+          "Cuando allá,",
+          "Señor, en tu mansión",
+          "Contigo estemos es comunión,",
+          "Gozando eterno bien."
+        ]
       ],
       "estrofas": [
         [
@@ -3861,14 +3931,16 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Su ruta al cielo,",
-        "La enseña Jesús,",
-        "Ya leva el áncora",
-        "La nave \"Salud\";",
-        "Todos subid a bordo",
-        "Sin temer al mar;",
-        "Que Jesús la manda,",
-        "El mejor Capitán."
+        [
+          "Su ruta al cielo,",
+          "La enseña Jesús,",
+          "Ya leva el áncora",
+          "La nave \"Salud\";",
+          "Todos subid a bordo",
+          "Sin temer al mar;",
+          "Que Jesús la manda,",
+          "El mejor Capitán."
+        ]
       ],
       "estrofas": [
         [
@@ -4019,10 +4091,12 @@
       "nota": "Sol mayor (G)",
       "compas": "",
       "coro": [
-        "¡Ven, oh niño! Ven, con Él feliz serás:",
-        "Nuevo corazón de Él recibirás.",
-        "Cristo te guarda, quiere tu bien,",
-        "A Jesucristo, niño ven."
+        [
+          "¡Ven, oh niño! Ven, con Él feliz serás:",
+          "Nuevo corazón de Él recibirás.",
+          "Cristo te guarda, quiere tu bien,",
+          "A Jesucristo, niño ven."
+        ]
       ],
       "estrofas": [
         [
@@ -4058,10 +4132,12 @@
       "nota": "Sol mayor (G)",
       "compas": "3 tiempos",
       "coro": [
-        "Con alegría yo cantaré",
-        "Al Redentor, tierno Pastor",
-        "Que en el Calvario por mí murió",
-        "Sí, sí, por mí murió."
+        [
+          "Con alegría yo cantaré",
+          "Al Redentor, tierno Pastor",
+          "Que en el Calvario por mí murió",
+          "Sí, sí, por mí murió."
+        ]
       ],
       "estrofas": [
         [
@@ -4091,9 +4167,11 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "¡Oh, bendito Dios!",
-        "Gloria a ti, Señor,",
-        "Por Jesús, el Salvador."
+        [
+          "¡Oh, bendito Dios!",
+          "Gloria a ti, Señor,",
+          "Por Jesús, el Salvador."
+        ]
       ],
       "estrofas": [
         [
@@ -4135,10 +4213,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Es Jesús la viva fuente",
-        "Donde ha apagado yo",
-        "Esa sed, que consumía",
-        "Mi acuitado corazón."
+        [
+          "Es Jesús la viva fuente",
+          "Donde ha apagado yo",
+          "Esa sed, que consumía",
+          "Mi acuitado corazón."
+        ]
       ],
       "estrofas": [
         [
@@ -4308,10 +4388,12 @@
       "nota": "Mi mayor (E)",
       "compas": "3 tiempos",
       "coro": [
-        "Ensalce nuestro canto",
-        "Su sacrosanta historia;",
-        "Es nuestro anhelo Santo",
-        "Mirar, Jesús, tu gloria."
+        [
+          "Ensalce nuestro canto",
+          "Su sacrosanta historia;",
+          "Es nuestro anhelo Santo",
+          "Mirar, Jesús, tu gloria."
+        ]
       ],
       "estrofas": [
         [
@@ -4479,10 +4561,30 @@
       "nota": "Sol mayor (G)",
       "compas": "3 tiempos",
       "coro": [
-        "En su seno Divino",
-        "Hay lugar para ti;",
-        "Y seguro destino",
-        "Alma tienes allí."
+        [
+          "Él la carga terrible",
+          "De mis hombros quitó,",
+          "Y su voz apacible",
+          "Mi dolor disipó."
+        ],
+        [
+          "El desierto miramos",
+          "Que se torna vergel",
+          "Cuando peregrinamos",
+          "Apoyados en Él"
+        ],
+        [
+          "Tengo en Él mi consuelo,",
+          "Es mi guía, mi Luz.",
+          "Y vivir en el cielo",
+          "Es vivir con Jesús."
+        ],
+        [
+          "En su seno Divino",
+          "Hay lugar para ti;",
+          "Y seguro destino",
+          "Alma tienes allí."
+        ]
       ],
       "estrofas": [
         [
@@ -4558,10 +4660,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "¡Salud!, ¡salud! cantad a nuestro Dios:",
-        "La paz nos da; clamad en alta voz:",
-        "Salvación ya tengo y descanso dulce en Él.",
-        "¡Yo soy salvado en Cristo!"
+        [
+          "¡Salud!, ¡salud! cantad a nuestro Dios:",
+          "La paz nos da; clamad en alta voz:",
+          "Salvación ya tengo y descanso dulce en Él.",
+          "¡Yo soy salvado en Cristo!"
+        ]
       ],
       "estrofas": [
         [
@@ -4681,10 +4785,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Ven a mi corazón, ¡oh, Cristo!",
-        "Pues, en Él hay un lugar para ti;",
-        "Ven a mi corazón, ¡oh, Cristo, ven",
-        "Pues, en Él hay un lugar para ti."
+        [
+          "Ven a mi corazón, ¡oh, Cristo!",
+          "Pues, en Él hay un lugar para ti;",
+          "Ven a mi corazón, ¡oh, Cristo, ven",
+          "Pues, en Él hay un lugar para ti."
+        ]
       ],
       "estrofas": [
         [
@@ -4760,10 +4866,12 @@
       "nota": "Do mayor (C)",
       "compas": "3 tiempos",
       "coro": [
-        "Hoy te convida",
-        "Hoy te convida",
-        "Voz bendecida",
-        "Benigna convídate hoy."
+        [
+          "Hoy te convida",
+          "Hoy te convida",
+          "Voz bendecida",
+          "Benigna convídate hoy."
+        ]
       ],
       "estrofas": [
         [
@@ -4916,10 +5024,12 @@
       "nota": "Mi mayor (E)",
       "compas": "2 tiempos",
       "coro": [
-        "Y cara a cara le veré",
-        "Y allá la historia contaré",
-        "De cómo me dio Jesús",
-        "La Vida eterna en la Cruz."
+        [
+          "Y cara a cara le veré",
+          "Y allá la historia contaré",
+          "De cómo me dio Jesús",
+          "La Vida eterna en la Cruz."
+        ]
       ],
       "estrofas": [
         [
@@ -4955,10 +5065,12 @@
       "nota": "Do mayor (C)",
       "compas": "",
       "coro": [
-        "En fraterno amor nos veremos",
-        "A los pies de nuestro Salvador,",
-        "En fraterno amor vinculados",
-        "Un redil con nuestro buen Pastor."
+        [
+          "En fraterno amor nos veremos",
+          "A los pies de nuestro Salvador,",
+          "En fraterno amor vinculados",
+          "Un redil con nuestro buen Pastor."
+        ]
       ],
       "estrofas": [
         [
@@ -5072,10 +5184,12 @@
       "nota": "La mayor (A)",
       "compas": "2 tiempos",
       "coro": [
-        "Esperando, esperando,",
-        "Otra Vida sin dolor,",
-        "Do me den la bienvenida",
-        "De Jesús mi Salvador."
+        [
+          "Esperando, esperando,",
+          "Otra Vida sin dolor,",
+          "Do me den la bienvenida",
+          "De Jesús mi Salvador."
+        ]
       ],
       "estrofas": [
         [
@@ -5111,10 +5225,12 @@
       "nota": "Sol mayor (G)",
       "compas": "3 tiempos",
       "coro": [
-        "Te busca el Salvador,",
-        "Te llama hoy en amor;",
-        "Oh, ven a Él sin más vacilar,",
-        "Te quiere perdonar."
+        [
+          "Te busca el Salvador,",
+          "Te llama hoy en amor;",
+          "Oh, ven a Él sin más vacilar,",
+          "Te quiere perdonar."
+        ]
       ],
       "estrofas": [
         [
@@ -5150,10 +5266,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "¡Gloria en las alturas!",
-        "¡Gloria en las alturas!",
-        "Yo soy lavado de mi maldad,",
-        "¡Gloria a mi Jesús."
+        [
+          "¡Gloria en las alturas!",
+          "¡Gloria en las alturas!",
+          "Yo soy lavado de mi maldad,",
+          "¡Gloria a mi Jesús."
+        ]
       ],
       "estrofas": [
         [
@@ -5183,10 +5301,12 @@
       "nota": "Sol mayor (G)",
       "compas": "3 tiempos",
       "coro": [
-        "Soy Hijo del Rey,",
-        "Soy Hijo del Rey,",
-        "Con Cristo Jesús,",
-        "Soy Hijo del Rey."
+        [
+          "Soy Hijo del Rey,",
+          "Soy Hijo del Rey,",
+          "Con Cristo Jesús,",
+          "Soy Hijo del Rey."
+        ]
       ],
       "estrofas": [
         [
@@ -5228,12 +5348,14 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "¡Despertad!, ¡despertad! y pelead con valor;",
-        "¡Con Jesús, ¡con Jesús tendremos victoria!",
-        "¡Adelante, vamos! con el Salvador",
-        "A salvar del mal a todo pecador,",
-        "Proclamad perdón por su inmenso amor;",
-        "Adelante, sin temor."
+        [
+          "¡Despertad!, ¡despertad! y pelead con valor;",
+          "¡Con Jesús, ¡con Jesús tendremos victoria!",
+          "¡Adelante, vamos! con el Salvador",
+          "A salvar del mal a todo pecador,",
+          "Proclamad perdón por su inmenso amor;",
+          "Adelante, sin temor."
+        ]
       ],
       "estrofas": [
         [
@@ -5269,8 +5391,10 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Es el lirio de los valles, la estrella del amor,",
-        "A mi alma el más bello de un millar."
+        [
+          "Es el lirio de los valles, la estrella del amor,",
+          "A mi alma el más bello de un millar."
+        ]
       ],
       "estrofas": [
         [
@@ -5306,10 +5430,12 @@
       "nota": "Sol mayor (G)",
       "compas": "",
       "coro": [
-        "¡Oh! La muerte viene, viene.",
-        "Y el día final;",
-        "Huyan, clamen, pidan, busquen",
-        "Vida inmortal."
+        [
+          "¡Oh! La muerte viene, viene.",
+          "Y el día final;",
+          "Huyan, clamen, pidan, busquen",
+          "Vida inmortal."
+        ]
       ],
       "estrofas": [
         [
@@ -5341,10 +5467,12 @@
       "nota": "Sol mayor (G)",
       "compas": "",
       "coro": [
-        "Ni es la carrera de los ligeros,",
-        "Ni de los fuertes la paz;",
-        "Mas de los fieles en Cristo,",
-        "Es el Eterno solaz."
+        [
+          "Ni es la carrera de los ligeros,",
+          "Ni de los fuertes la paz;",
+          "Mas de los fieles en Cristo,",
+          "Es el Eterno solaz."
+        ]
       ],
       "estrofas": [
         [
@@ -5426,10 +5554,12 @@
       "nota": "La mayor (A)",
       "compas": "3 tiempos",
       "coro": [
-        "Salud, salud,",
-        "Salud me ha dado Jesús;",
-        "Salud, salud,",
-        "Por siempre soy Hijo de luz."
+        [
+          "Salud, salud,",
+          "Salud me ha dado Jesús;",
+          "Salud, salud,",
+          "Por siempre soy Hijo de luz."
+        ]
       ],
       "estrofas": [
         [
@@ -5465,10 +5595,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "¡Aleluya, Gloria a Cristo!",
-        "¡Te alabamos, Jesús!",
-        "¡Aleluya, Gloria a Cristo!",
-        "Te alabamos, Amén."
+        [
+          "¡Aleluya, Gloria a Cristo!",
+          "¡Te alabamos, Jesús!",
+          "¡Aleluya, Gloria a Cristo!",
+          "Te alabamos, Amén."
+        ]
       ],
       "estrofas": [
         [
@@ -5498,10 +5630,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Va bien, va bien,",
-        "Va bien con los salvos; bien.",
-        "Yo sé por cierto es así;",
-        "Va bien por los salvos; bien."
+        [
+          "Va bien, va bien,",
+          "Va bien con los salvos; bien.",
+          "Yo sé por cierto es así;",
+          "Va bien por los salvos; bien."
+        ]
       ],
       "estrofas": [
         [
@@ -5537,10 +5671,12 @@
       "nota": "Do mayor (C)",
       "compas": "3 tiempos",
       "coro": [
-        "No se ha contado jamás,",
-        "No se ha contado jamás,",
-        "La mitad de las glorias del cielo",
-        "No se ha contado jamás."
+        [
+          "No se ha contado jamás,",
+          "No se ha contado jamás,",
+          "La mitad de las glorias del cielo",
+          "No se ha contado jamás."
+        ]
       ],
       "estrofas": [
         [
@@ -5592,10 +5728,12 @@
       "nota": "La mayor (A)",
       "compas": "",
       "coro": [
-        "Gloria será, sí, para mí,",
-        "Sí, para mí, sí, para mí.",
-        "Cuando en la luz contemplare a Jesús,",
-        "Gloria eterna será para mí."
+        [
+          "Gloria será, sí, para mí,",
+          "Sí, para mí, sí, para mí.",
+          "Cuando en la luz contemplare a Jesús,",
+          "Gloria eterna será para mí."
+        ]
       ],
       "estrofas": [
         [
@@ -5625,10 +5763,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Deja penetrar la luz,",
-        "Deja penetrar la luz,",
-        "Que la hermosa luz de Dios fulgure en ti",
-        "Y serás feliz así."
+        [
+          "Deja penetrar la luz,",
+          "Deja penetrar la luz,",
+          "Que la hermosa luz de Dios fulgure en ti",
+          "Y serás feliz así."
+        ]
       ],
       "estrofas": [
         [
@@ -5680,10 +5820,12 @@
       "nota": "Do mayor (C)",
       "compas": "3 tiempos",
       "coro": [
-        "¿A quién, Señor, acudiré?",
-        "Sé tú mi purificador;",
-        "Pues sólo así podré tener",
-        "Un puro y limpio corazón."
+        [
+          "¿A quién, Señor, acudiré?",
+          "Sé tú mi purificador;",
+          "Pues sólo así podré tener",
+          "Un puro y limpio corazón."
+        ]
       ],
       "estrofas": [
         [
@@ -5719,10 +5861,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "En las luchas de cada día",
-        "El es siempre un amigo fiel;",
-        "Jesús es nuestro seguro guía,",
-        "Sólo Él -sólo Él."
+        [
+          "En las luchas de cada día",
+          "El es siempre un amigo fiel;",
+          "Jesús es nuestro seguro guía,",
+          "Sólo Él -sólo Él."
+        ]
       ],
       "estrofas": [
         [
@@ -5810,11 +5954,13 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Ven Señor, ven Señor.",
-        "Ven, Señor, con los tuyos a reinar.",
-        "Que a tu grata aparición",
-        "Cesará nuestra aflicción,",
-        "Ven, Señor, con los tuyos a reinar"
+        [
+          "Ven Señor, ven Señor.",
+          "Ven, Señor, con los tuyos a reinar.",
+          "Que a tu grata aparición",
+          "Cesará nuestra aflicción,",
+          "Ven, Señor, con los tuyos a reinar"
+        ]
       ],
       "estrofas": [
         [
@@ -5884,10 +6030,36 @@
       "nota": "Sol mayor (G)",
       "compas": "3 tiempos",
       "coro": [
-        "Vida eterna de Dios segarás",
-        "Vida eterna de Dios segarás.",
-        "De cierto vendrá",
-        "La cosecha y de Vida la tuya será."
+        [
+          "Lo que siembres también segarás;",
+          "Lo que siembres también segarás;",
+          "De cierto vendrá la cosecha,",
+          "Y de abrojos la tuya será."
+        ],
+        [
+          "Lo que siembres también segarás;",
+          "Lo que siembres también segarás;",
+          "De cierto vendrá la cosecha,",
+          "Y de engaño la tuya será."
+        ],
+        [
+          "Lo que siembres también segarás;",
+          "Lo que siembres también segarás;",
+          "De cierto vendrá la cosecha,",
+          "Y de encono la tuya será."
+        ],
+        [
+          "Y con gozo la mies segarás;",
+          "Y con gozo la mies segarás;",
+          "De cierto vendrá la cosecha,",
+          "Y de gozo la tuya será."
+        ],
+        [
+          "Vida eterna de Dios segarás;",
+          "Vida eterna de Dios segarás;",
+          "De cierto vendrá la cosecha,",
+          "Y de Vida la tuya será."
+        ]
       ],
       "estrofas": [
         [
@@ -5929,10 +6101,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "¿Ni aún así creerías en Él,",
-        "Ingrato pecador?",
-        "Él está aquí, si quieres creer:",
-        "Ven a tu Salvador."
+        [
+          "¿Ni aún así creerías en Él,",
+          "Ingrato pecador?",
+          "Él está aquí, si quieres creer:",
+          "Ven a tu Salvador."
+        ]
       ],
       "estrofas": [
         [
@@ -5962,10 +6136,12 @@
       "nota": "Sol mayor (G)",
       "compas": "3 tiempos",
       "coro": [
-        "De las cadenas de Satán",
-        "Con su poder me liberó,",
-        "Y es hoy gozo proclamar",
-        "Que por su Gracia salvo soy."
+        [
+          "De las cadenas de Satán",
+          "Con su poder me liberó,",
+          "Y es hoy gozo proclamar",
+          "Que por su Gracia salvo soy."
+        ]
       ],
       "estrofas": [
         [
@@ -6001,10 +6177,12 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Heme aquí, Señor,",
-        "A tus plantas hoy,",
-        "Consagrado a tu servicio",
-        "Todo lo que soy."
+        [
+          "Heme aquí, Señor,",
+          "A tus plantas hoy,",
+          "Consagrado a tu servicio",
+          "Todo lo que soy."
+        ]
       ],
       "estrofas": [
         [
@@ -6046,11 +6224,13 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Sólo por Gracia salvo soy,",
-        "Sólo por Gracia salvo soy;",
-        "Esa es mi historia.",
-        "¡De Dios es la gloria!",
-        "Sólo por Gracia salvo soy."
+        [
+          "Sólo por Gracia salvo soy,",
+          "Sólo por Gracia salvo soy;",
+          "Esa es mi historia.",
+          "¡De Dios es la gloria!",
+          "Sólo por Gracia salvo soy."
+        ]
       ],
       "estrofas": [
         [
@@ -6126,10 +6306,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Cara a cara será visto",
-        "En su pronta aparición,",
-        "De los que en Él han creído",
-        "Para eterna Redención."
+        [
+          "Cara a cara será visto",
+          "En su pronta aparición,",
+          "De los que en Él han creído",
+          "Para eterna Redención."
+        ]
       ],
       "estrofas": [
         [
@@ -6165,8 +6347,10 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Con Jesús, por doquier sin temor iré;",
-        "Si Jesús me guía nada temeré."
+        [
+          "Con Jesús, por doquier sin temor iré;",
+          "Si Jesús me guía nada temeré."
+        ]
       ],
       "estrofas": [
         [
@@ -6197,14 +6381,16 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Cuenta las promesas",
-        "De tu Dios;",
-        "Mira las riquezas",
-        "De su amor,",
-        "Pon los ojos,",
-        "Donde Cristo está,",
-        "Y tu mente guarde",
-        "La divina paz."
+        [
+          "Cuenta las promesas",
+          "De tu Dios;",
+          "Mira las riquezas",
+          "De su amor,",
+          "Pon los ojos,",
+          "Donde Cristo está,",
+          "Y tu mente guarde",
+          "La divina paz."
+        ]
       ],
       "estrofas": [
         [
@@ -6256,11 +6442,13 @@
       "nota": "Re mayor (D)",
       "compas": "",
       "coro": [
-        "La Gracia de Dios me bastará;",
-        "Su ayuda jamás me faltará;",
-        "Consolado por su amor,",
-        "Que echa fuera mi temor,",
-        "Confiaré yo en mi Señor."
+        [
+          "La Gracia de Dios me bastará;",
+          "Su ayuda jamás me faltará;",
+          "Consolado por su amor,",
+          "Que echa fuera mi temor,",
+          "Confiaré yo en mi Señor."
+        ]
       ],
       "estrofas": [
         [
@@ -6290,18 +6478,20 @@
       "nota": "Do mayor (C)",
       "compas": "3 tiempos",
       "coro": [
-        "Mira, alma turbada, tu Salvador,",
-        "Cerca está, cerca está;",
-        "Vio tu peligro, y en su bondad",
-        "Acude a librarte de ruina y dolor;",
-        "Domina los vientos,",
-        "Las nubes, el mar,",
-        "Y al puerto te lleva",
-        "Del bienestar.",
-        "Su voz potente, en la tempestad",
-        "Trae paz, dulce paz.",
-        "Su nombre invoca y Él te dará",
-        "Eterna paz."
+        [
+          "Mira, alma turbada, tu Salvador,",
+          "Cerca está, cerca está;",
+          "Vio tu peligro, y en su bondad",
+          "Acude a librarte de ruina y dolor;",
+          "Domina los vientos,",
+          "Las nubes, el mar,",
+          "Y al puerto te lleva",
+          "Del bienestar.",
+          "Su voz potente, en la tempestad",
+          "Trae paz, dulce paz.",
+          "Su nombre invoca y Él te dará",
+          "Eterna paz."
+        ]
       ],
       "estrofas": [
         [
@@ -6343,10 +6533,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "A Jesús loor -a Jesús loor,",
-        "A Jesús loor porque Él es digno;",
-        "A Jesús loor -a Jesús loor,",
-        "A Jesús loor porque Él es digno."
+        [
+          "A Jesús loor -a Jesús loor,",
+          "A Jesús loor porque Él es digno;",
+          "A Jesús loor -a Jesús loor,",
+          "A Jesús loor porque Él es digno."
+        ]
       ],
       "estrofas": [
         [
@@ -6376,13 +6568,15 @@
       "nota": "La mayor (A)",
       "compas": "2 tiempos",
       "coro": [
-        "Ven tras mí,",
-        "Siguiendo mis pisadas;",
-        "Del redil",
-        "La puerta franca está.",
-        "Oye, pues,",
-        "La voz del que te llama;",
-        "Ven a Él y el cielo gozarás."
+        [
+          "Ven tras mí,",
+          "Siguiendo mis pisadas;",
+          "Del redil",
+          "La puerta franca está.",
+          "Oye, pues,",
+          "La voz del que te llama;",
+          "Ven a Él y el cielo gozarás."
+        ]
       ],
       "estrofas": [
         [
@@ -6452,11 +6646,13 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Yo me levantaré,",
-        "Iré a mi Padre y le diré",
-        "\"contrito, heme aquí,",
-        "Yo he pecado contra el cielo",
-        "Y también contra ti\"."
+        [
+          "Yo me levantaré,",
+          "Iré a mi Padre y le diré",
+          "\"contrito, heme aquí,",
+          "Yo he pecado contra el cielo",
+          "Y también contra ti\"."
+        ]
       ],
       "estrofas": [
         [
@@ -6498,13 +6694,15 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Ved el mensaje",
-        "Que os traigo aquí:",
-        "\"Que os reconciliéis",
-        "Con Dios\".",
-        "Embajador yo soy",
-        "De mi Señor el Rey;",
-        "Oíd, ¡oh pueblos! a mi voz."
+        [
+          "Ved el mensaje",
+          "Que os traigo aquí:",
+          "\"Que os reconciliéis",
+          "Con Dios\".",
+          "Embajador yo soy",
+          "De mi Señor el Rey;",
+          "Oíd, ¡oh pueblos! a mi voz."
+        ]
       ],
       "estrofas": [
         [
@@ -6544,14 +6742,16 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Y en el fuego de noche fue,",
-        "Y en la nube de día está",
-        "El Señor que le libró",
-        "De la cruel esclavitud:",
-        "Devolviendo la libertad",
-        "A su pueblo que escogió",
-        "Que a la voz de su gran libertador",
-        "Venció sin ningún temor."
+        [
+          "Y en el fuego de noche fue,",
+          "Y en la nube de día está",
+          "El Señor que le libró",
+          "De la cruel esclavitud:",
+          "Devolviendo la libertad",
+          "A su pueblo que escogió",
+          "Que a la voz de su gran libertador",
+          "Venció sin ningún temor."
+        ]
       ],
       "estrofas": [
         [
@@ -6637,8 +6837,10 @@
       "nota": "Re mayor (D)",
       "compas": "4 tiempos",
       "coro": [
-        "Nuevas alegres al mundo dad",
-        "Nuevas de Redención, de amor y libertad."
+        [
+          "Nuevas alegres al mundo dad",
+          "Nuevas de Redención, de amor y libertad."
+        ]
       ],
       "estrofas": [
         [
@@ -6680,10 +6882,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Tu Dios te llama a su lado",
-        "El quiere oír tu triste historia;",
-        "Te limpiará de tus pecados,",
-        "Y Gloria eterna gozarás."
+        [
+          "Tu Dios te llama a su lado",
+          "El quiere oír tu triste historia;",
+          "Te limpiará de tus pecados,",
+          "Y Gloria eterna gozarás."
+        ]
       ],
       "estrofas": [
         [
@@ -6719,11 +6923,13 @@
       "nota": "Do mayor (C)",
       "compas": "2 tiempos",
       "coro": [
-        "Id, a trabajar allá en los campos del Señor",
-        "Que para la siega se presentan blancos hoy,",
-        "Oh, fieles siervos de Dios,",
-        "A quien debéis todo honor",
-        "Oíd su voz, salid a trabajar."
+        [
+          "Id, a trabajar allá en los campos del Señor",
+          "Que para la siega se presentan blancos hoy,",
+          "Oh, fieles siervos de Dios,",
+          "A quien debéis todo honor",
+          "Oíd su voz, salid a trabajar."
+        ]
       ],
       "estrofas": [
         [
@@ -6809,10 +7015,12 @@
       "nota": "Sol mayor (G)",
       "compas": "3 tiempos",
       "coro": [
-        "Lluvias de gracia",
-        "Lluvia pedimos, Señor,",
-        "Mándanos lluvia copiosas,",
-        "Lluvias del consolador."
+        [
+          "Lluvias de gracia",
+          "Lluvia pedimos, Señor,",
+          "Mándanos lluvia copiosas,",
+          "Lluvias del consolador."
+        ]
       ],
       "estrofas": [
         [
@@ -6848,11 +7056,13 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "¡Aleluya! salvo soy;",
-        "Redimido soy por Él;",
-        "Su poder y gran virtud",
-        "Cautivó la esclavitud;",
-        "Redimido soy por Él: ¡Aleluya!"
+        [
+          "¡Aleluya! salvo soy;",
+          "Redimido soy por Él;",
+          "Su poder y gran virtud",
+          "Cautivó la esclavitud;",
+          "Redimido soy por Él: ¡Aleluya!"
+        ]
       ],
       "estrofas": [
         [
@@ -6892,10 +7102,12 @@
       "nota": "Sol mayor (G)",
       "compas": "3 tiempos",
       "coro": [
-        "Llena hoy, llena hoy;",
-        "Llena hoy mi corazón;",
-        "Santo Espíritu desciende",
-        "Y haz en Él tu habitación."
+        [
+          "Llena hoy, llena hoy;",
+          "Llena hoy mi corazón;",
+          "Santo Espíritu desciende",
+          "Y haz en Él tu habitación."
+        ]
       ],
       "estrofas": [
         [
@@ -6931,10 +7143,12 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Dios me sostendrá,",
-        "Dios me sostendrá,",
-        "Porque soy de Cristo amado,",
-        "Dios me sostendrá."
+        [
+          "Dios me sostendrá,",
+          "Dios me sostendrá,",
+          "Porque soy de Cristo amado,",
+          "Dios me sostendrá."
+        ]
       ],
       "estrofas": [
         [
@@ -6970,10 +7184,12 @@
       "nota": "Sol mayor (G)",
       "compas": "3 tiempos",
       "coro": [
-        "¡Oh! Manda otro Pentecostés,",
-        "Potente Salvador,",
-        "Y con fuego otra vez",
-        "Avívanos, Señor."
+        [
+          "¡Oh! Manda otro Pentecostés,",
+          "Potente Salvador,",
+          "Y con fuego otra vez",
+          "Avívanos, Señor."
+        ]
       ],
       "estrofas": [
         [
@@ -7015,9 +7231,11 @@
       "nota": "Mi mayor (E)",
       "compas": "2 tiempos",
       "coro": [
-        "Muy pronto vendrá,",
-        "Muy pronto vendrá.",
-        "Y no tardará y no tardará."
+        [
+          "Muy pronto vendrá,",
+          "Muy pronto vendrá.",
+          "Y no tardará y no tardará."
+        ]
       ],
       "estrofas": [
         [
@@ -7105,10 +7323,12 @@
       "nota": "Sol mayor (G)",
       "compas": "",
       "coro": [
-        "Él es Pastor, enviado,",
-        "Y Divino Emmanuel,",
-        "Él me conduce por sendas de paz",
-        "Como a su oveja fiel."
+        [
+          "Él es Pastor, enviado,",
+          "Y Divino Emmanuel,",
+          "Él me conduce por sendas de paz",
+          "Como a su oveja fiel."
+        ]
       ],
       "estrofas": [
         [
@@ -7138,10 +7358,12 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "De toda mi maldad",
-        "Por ella limpio soy,",
-        "Ni a otra fuente voy,",
-        "Sólo de Jesús la sangre."
+        [
+          "De toda mi maldad",
+          "Por ella limpio soy,",
+          "Ni a otra fuente voy,",
+          "Sólo de Jesús la sangre."
+        ]
       ],
       "estrofas": [
         [
@@ -7177,11 +7399,13 @@
       "nota": "Sol mayor (G)",
       "compas": "",
       "coro": [
-        "Hay salud en Cristo,",
-        "Vida en Cristo; hay salud en Cristo.",
-        "Para el alma desdichada.",
-        "¡Oh, Aleluya, Aleluya!",
-        "¡Oh, Aleluya salvado soy por Él!"
+        [
+          "Hay salud en Cristo,",
+          "Vida en Cristo; hay salud en Cristo.",
+          "Para el alma desdichada.",
+          "¡Oh, Aleluya, Aleluya!",
+          "¡Oh, Aleluya salvado soy por Él!"
+        ]
       ],
       "estrofas": [
         [
@@ -7259,12 +7483,14 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Que permanezca no pidáis",
-        "Entre el bullicio y el vaivén;",
-        "El mundo alegre hoy dejara,",
-        "Aun cuando fuese algún Edén;",
-        "La cita nada mas aguardo",
-        "Que el Rey me diga: Hijo, ven."
+        [
+          "Que permanezca no pidáis",
+          "Entre el bullicio y el vaivén;",
+          "El mundo alegre hoy dejara,",
+          "Aun cuando fuese algún Edén;",
+          "La cita nada mas aguardo",
+          "Que el Rey me diga: Hijo, ven."
+        ]
       ],
       "estrofas": [
         [
@@ -7300,9 +7526,11 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Sé que sólo así me emblanqueceré.",
-        "Lávame en su sangre Jesús;",
-        "Y la nívea blancura me dé."
+        [
+          "Sé que sólo así me emblanqueceré.",
+          "Lávame en su sangre Jesús;",
+          "Y la nívea blancura me dé."
+        ]
       ],
       "estrofas": [
         [
@@ -7418,10 +7646,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Cristo Santo, heme aquí,",
-        "Dame de la fuente carmesí:",
-        "Yo buscaré y llegaré",
-        "El gran mensaje del Señor."
+        [
+          "Cristo Santo, heme aquí,",
+          "Dame de la fuente carmesí:",
+          "Yo buscaré y llegaré",
+          "El gran mensaje del Señor."
+        ]
       ],
       "estrofas": [
         [
@@ -7463,10 +7693,12 @@
       "nota": "La mayor (A)",
       "compas": "3 tiempos",
       "coro": [
-        "Con llanto y duelo entonces",
-        "Los perdidos su cuenta darán;",
-        "Clamarán a las rocas: \"cubridnos\"",
-        "Orarán, pero tarde será."
+        [
+          "Con llanto y duelo entonces",
+          "Los perdidos su cuenta darán;",
+          "Clamarán a las rocas: \"cubridnos\"",
+          "Orarán, pero tarde será."
+        ]
       ],
       "estrofas": [
         [
@@ -7508,10 +7740,12 @@
       "nota": "La mayor (A)",
       "compas": "2 tiempos",
       "coro": [
-        "¡Lávame! ¡Lávame!",
-        "En tu sangre cordero de Dios;",
-        "Y con alma limpia me presentaré",
-        "Ante tu tribunal de luz."
+        [
+          "¡Lávame! ¡Lávame!",
+          "En tu sangre cordero de Dios;",
+          "Y con alma limpia me presentaré",
+          "Ante tu tribunal de luz."
+        ]
       ],
       "estrofas": [
         [
@@ -7547,10 +7781,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Cuando el ángel pase lista",
-        "Cuando el ángel pase lista",
-        "Cuando Él ángel pase lista",
-        "Al llamar mi nombre yo responderé."
+        [
+          "Cuando el ángel pase lista",
+          "Cuando el ángel pase lista",
+          "Cuando Él ángel pase lista",
+          "Al llamar mi nombre yo responderé."
+        ]
       ],
       "estrofas": [
         [
@@ -7586,10 +7822,12 @@
       "nota": "Re mayor (D)",
       "compas": "3 tiempos",
       "coro": [
-        "La sangre de Jesús te salvará de pecar,",
-        "La sangre de Jesús te salvará de pecar,",
-        "En Él feliz estoy, porque salvado soy",
-        "De todos mis pecado y maldad."
+        [
+          "La sangre de Jesús te salvará de pecar,",
+          "La sangre de Jesús te salvará de pecar,",
+          "En Él feliz estoy, porque salvado soy",
+          "De todos mis pecado y maldad."
+        ]
       ],
       "estrofas": [
         [
@@ -7678,16 +7916,18 @@
       "nota": "La mayor (A)",
       "compas": "2 tiempos",
       "coro": [
-        "¡A la batalla!; ¡oh cristianos!",
-        "Con el escudo de la fe;",
-        "Sé fiel soldado,",
-        "Pues a tu lado",
-        "Está el príncipe Jesús.",
-        "El con su Gracia te sostiene.",
-        "Y con potencia sin igual",
-        "Su brazo extiende",
-        "Y te defiende",
-        "En esta lucha contra el mal."
+        [
+          "¡A la batalla!; ¡oh cristianos!",
+          "Con el escudo de la fe;",
+          "Sé fiel soldado,",
+          "Pues a tu lado",
+          "Está el príncipe Jesús.",
+          "El con su Gracia te sostiene.",
+          "Y con potencia sin igual",
+          "Su brazo extiende",
+          "Y te defiende",
+          "En esta lucha contra el mal."
+        ]
       ],
       "estrofas": [
         [
@@ -7728,10 +7968,12 @@
       "nota": "Mi mayor (E)",
       "compas": "2 tiempos",
       "coro": [
-        "Debéis nacer otra vez,",
-        "Debéis nacer otra vez,",
-        "De cierto, de cierto os vuelvo a decir,",
-        "Debéis nacer otra vez."
+        [
+          "Debéis nacer otra vez,",
+          "Debéis nacer otra vez,",
+          "De cierto, de cierto os vuelvo a decir,",
+          "Debéis nacer otra vez."
+        ]
       ],
       "estrofas": [
         [
@@ -7767,10 +8009,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "En la Cruz, en la Cruz, do primero vi la luz,",
-        "Y las manchas de mi alma lavé,",
-        "Fue allí por fe que vi a Jesús",
-        "Y siempre feliz con Él seré."
+        [
+          "En la Cruz, en la Cruz, do primero vi la luz,",
+          "Y las manchas de mi alma lavé,",
+          "Fue allí por fe que vi a Jesús",
+          "Y siempre feliz con Él seré."
+        ]
       ],
       "estrofas": [
         [
@@ -7812,12 +8056,14 @@
       "nota": "Sol mayor (G)",
       "compas": "4 tiempos",
       "coro": [
-        "Más que victoria,",
-        "Más que victoria,",
-        "Más que victoria,",
-        "Tenemos en ti;",
-        "Todo es puesto debajo de tus pies",
-        "Y más que victoria tenemos en ti."
+        [
+          "Más que victoria,",
+          "Más que victoria,",
+          "Más que victoria,",
+          "Tenemos en ti;",
+          "Todo es puesto debajo de tus pies",
+          "Y más que victoria tenemos en ti."
+        ]
       ],
       "estrofas": [
         [
@@ -7853,10 +8099,12 @@
       "nota": "Sol mayor (G)",
       "compas": "",
       "coro": [
-        "Coronadle, santos todos,",
-        "Coronad al Rey de reyes",
-        "Coronadle, santos todos,",
-        "Coronad al Salvador."
+        [
+          "Coronadle, santos todos,",
+          "Coronad al Rey de reyes",
+          "Coronadle, santos todos,",
+          "Coronad al Salvador."
+        ]
       ],
       "estrofas": [
         [
@@ -7972,14 +8220,16 @@
       "nota": "Do mayor (C)",
       "compas": "2 tiempos",
       "coro": [
-        "Vestido blanco, arpa y",
-        "Corona áurea hay para mí;",
-        "Laurel de triunfo y un hogar",
-        "En el Edén sin par.",
-        "Jesús me ha salvado de iniquidad",
-        "Su Espíritu mi alma sacia,",
-        "Soy feliz en su amor, vivo en santidad",
-        "Sí, vivo y triunfo por su gracia."
+        [
+          "Vestido blanco, arpa y",
+          "Corona áurea hay para mí;",
+          "Laurel de triunfo y un hogar",
+          "En el Edén sin par.",
+          "Jesús me ha salvado de iniquidad",
+          "Su Espíritu mi alma sacia,",
+          "Soy feliz en su amor, vivo en santidad",
+          "Sí, vivo y triunfo por su gracia."
+        ]
       ],
       "estrofas": [
         [
@@ -8015,10 +8265,12 @@
       "nota": "La mayor (A)",
       "compas": "3 tiempos",
       "coro": [
-        "Por el desierto errabundas",
-        "Vense sufrir penas mil,",
-        "Y al encontrarlas, en hombros",
-        "Tráelas gozoso al redil."
+        [
+          "Por el desierto errabundas",
+          "Vense sufrir penas mil,",
+          "Y al encontrarlas, en hombros",
+          "Tráelas gozoso al redil."
+        ]
       ],
       "estrofas": [
         [
@@ -8070,10 +8322,12 @@
       "nota": "La mayor (A)",
       "compas": "4 tiempos",
       "coro": [
-        "Lo mismo, pues, hoy día es su poder,",
-        "Aunque el mundo no lo pueda comprender.",
-        "Habiendo Él prometido, lo pudo Dios hacer",
-        "Lo mismo, pues, hoy día es su poder."
+        [
+          "Lo mismo, pues, hoy día es su poder,",
+          "Aunque el mundo no lo pueda comprender.",
+          "Habiendo Él prometido, lo pudo Dios hacer",
+          "Lo mismo, pues, hoy día es su poder."
+        ]
       ],
       "estrofas": [
         [
@@ -8133,10 +8387,12 @@
       "nota": "Sol mayor (G)",
       "compas": "3 tiempos",
       "coro": [
-        "Yo soy feliz en Él,",
-        "Yo soy feliz en Él;",
-        "El gozo y la paz inunda mi ser",
-        "Pues yo soy feliz con Él."
+        [
+          "Yo soy feliz en Él,",
+          "Yo soy feliz en Él;",
+          "El gozo y la paz inunda mi ser",
+          "Pues yo soy feliz con Él."
+        ]
       ],
       "estrofas": [
         [
@@ -8172,10 +8428,12 @@
       "nota": "Sol mayor (G)",
       "compas": "3 tiempos",
       "coro": [
-        "Ven, Jesús, del cielo,",
-        "Con poder y virtud",
-        "Para que mi alma",
-        "Sea como tú."
+        [
+          "Ven, Jesús, del cielo,",
+          "Con poder y virtud",
+          "Para que mi alma",
+          "Sea como tú."
+        ]
       ],
       "estrofas": [
         [
@@ -8211,13 +8469,15 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "¡Oh! soldados, sin temor",
-        "Vamos a luchar,",
-        "Con Jesús por Capitán",
-        "Hemos de triunfar.",
-        "La espada empuñad,",
-        "El pendón alzad.",
-        "¡Adelante! ¡a la victoria!"
+        [
+          "¡Oh! soldados, sin temor",
+          "Vamos a luchar,",
+          "Con Jesús por Capitán",
+          "Hemos de triunfar.",
+          "La espada empuñad,",
+          "El pendón alzad.",
+          "¡Adelante! ¡a la victoria!"
+        ]
       ],
       "estrofas": [
         [
@@ -8259,10 +8519,12 @@
       "nota": "Re mayor (D)",
       "compas": "",
       "coro": [
-        "Ven, Señor Jesús, ven pronto.",
-        "Claman todos con ardor:",
-        "\"He aquí yo vengo presto\"",
-        "Nos promete el Salvador."
+        [
+          "Ven, Señor Jesús, ven pronto.",
+          "Claman todos con ardor:",
+          "\"He aquí yo vengo presto\"",
+          "Nos promete el Salvador."
+        ]
       ],
       "estrofas": [
         [
@@ -8304,11 +8566,13 @@
       "nota": "Re mayor (D)",
       "compas": "4 tiempos",
       "coro": [
-        "¡Lávame en tu sangre, Salvador!",
-        "Límpiame de toda mi maldad",
-        "Traigo a ti mi Vida,",
-        "Para ser Señor,",
-        "Tuya por la eternidad."
+        [
+          "¡Lávame en tu sangre, Salvador!",
+          "Límpiame de toda mi maldad",
+          "Traigo a ti mi Vida,",
+          "Para ser Señor,",
+          "Tuya por la eternidad."
+        ]
       ],
       "estrofas": [
         [
@@ -8350,10 +8614,12 @@
       "nota": "Sol mayor (G)",
       "compas": "3 tiempos",
       "coro": [
-        "Cantaré la bella historia",
-        "De Jesús mi Salvador",
-        "Y con santos en la gloria",
-        "A Jesús daré loor."
+        [
+          "Cantaré la bella historia",
+          "De Jesús mi Salvador",
+          "Y con santos en la gloria",
+          "A Jesús daré loor."
+        ]
       ],
       "estrofas": [
         [
@@ -8389,10 +8655,30 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Confía a Cristo, confía a Cristo,",
-        "El es tu amigo más fiel:",
-        "No hay otro amigo como Cristo.",
-        "Dilo tan sólo a Él."
+        [
+          "Dilo a Cristo, dilo a Cristo,",
+          "Él es tu amigo más fiel:",
+          "No hay otro amigo como Cristo.",
+          "Dilo tan sólo a él."
+        ],
+        [
+          "Mira a Cristo, mira a Cristo,",
+          "Él es tu amigo más fiel:",
+          "No hay otro amigo como Cristo.",
+          "Dilo tan sólo a él."
+        ],
+        [
+          "Sigue a Cristo, sigue a Cristo,",
+          "Él es tu amigo más fiel:",
+          "No hay otro amigo como Cristo.",
+          "Dilo tan sólo a él."
+        ],
+        [
+          "Confía en Cristo, confía en Cristo,",
+          "Él es tu amigo más fiel:",
+          "No hay otro amigo como Cristo.",
+          "Dilo tan sólo a él."
+        ]
       ],
       "estrofas": [
         [
@@ -8428,10 +8714,12 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "A los hijos de Dios pertenece el cantar.",
-        "Pues vendrá el Salvador y nos arrebatará;",
-        "Del palacio celestial gozaremos más allá.",
-        "Loores a Dios, ¡Aleluya!"
+        [
+          "A los hijos de Dios pertenece el cantar.",
+          "Pues vendrá el Salvador y nos arrebatará;",
+          "Del palacio celestial gozaremos más allá.",
+          "Loores a Dios, ¡Aleluya!"
+        ]
       ],
       "estrofas": [
         [
@@ -8467,10 +8755,12 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Brilla en el sitio donde estás;",
-        "Brilla en el sitio donde estás;",
-        "Algún extraviado tu luz puede guiar.",
-        "Brilla en el sitio donde estás."
+        [
+          "Brilla en el sitio donde estás;",
+          "Brilla en el sitio donde estás;",
+          "Algún extraviado tu luz puede guiar.",
+          "Brilla en el sitio donde estás."
+        ]
       ],
       "estrofas": [
         [
@@ -8500,13 +8790,15 @@
       "nota": "Sol mayor (G)",
       "compas": "",
       "coro": [
-        "Después de la guerra seremos coronados:",
-        "Seremos coronados, seremos coronados;",
-        "Después de la guerra seremos coronados",
-        "En la nueva Jerusalén.",
-        "Coronados, coronados, coronados, coronados.",
-        "Después de la guerra seremos coronados",
-        "En la nueva Jerusalén."
+        [
+          "Después de la guerra seremos coronados:",
+          "Seremos coronados, seremos coronados;",
+          "Después de la guerra seremos coronados",
+          "En la nueva Jerusalén.",
+          "Coronados, coronados, coronados, coronados.",
+          "Después de la guerra seremos coronados",
+          "En la nueva Jerusalén."
+        ]
       ],
       "estrofas": [
         [
@@ -8593,10 +8885,12 @@
       "nota": "Mi mayor (E)",
       "compas": "2 tiempos",
       "coro": [
-        "Sí, sí venid, Jesús refugio ofrece",
-        "Al pecador, cansado de pecar;",
-        "Oye su voz, no temas te desprecie:",
-        "\"Ven pecador, te haré yo descansar\"."
+        [
+          "Sí, sí venid, Jesús refugio ofrece",
+          "Al pecador, cansado de pecar;",
+          "Oye su voz, no temas te desprecie:",
+          "\"Ven pecador, te haré yo descansar\"."
+        ]
       ],
       "estrofas": [
         [
@@ -8638,10 +8932,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "¡Paz! ¡Paz! dulcísima paz",
-        "Es aquella que el Padre me da;",
-        "Yo le ruego que inunde por siempre mi ser",
-        "En sus ondas de amor celestial."
+        [
+          "¡Paz! ¡Paz! dulcísima paz",
+          "Es aquella que el Padre me da;",
+          "Yo le ruego que inunde por siempre mi ser",
+          "En sus ondas de amor celestial."
+        ]
       ],
       "estrofas": [
         [
@@ -8677,10 +8973,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Heme aquí, Señor, te espero,",
-        "Mi alma de anhelo henchida",
-        "A gozar de tu hermosura",
-        "En tu segunda venida."
+        [
+          "Heme aquí, Señor, te espero,",
+          "Mi alma de anhelo henchida",
+          "A gozar de tu hermosura",
+          "En tu segunda venida."
+        ]
       ],
       "estrofas": [
         [
@@ -8716,10 +9014,12 @@
       "nota": "Re menor (Dm)",
       "compas": "3 tiempos",
       "coro": [
-        "Gloria cantemos al Redentor",
-        "Que por nosotros quiso morir,",
-        "Y que la Gracia del Salvador",
-        "Dirija siempre nuestro vivir."
+        [
+          "Gloria cantemos al Redentor",
+          "Que por nosotros quiso morir,",
+          "Y que la Gracia del Salvador",
+          "Dirija siempre nuestro vivir."
+        ]
       ],
       "estrofas": [
         [
@@ -8749,10 +9049,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Mensajeros del Maestro",
-        "Vuestra voz haced oír,",
-        "Y los hombres que la escuchen",
-        "Vida puedan recibir."
+        [
+          "Mensajeros del Maestro",
+          "Vuestra voz haced oír,",
+          "Y los hombres que la escuchen",
+          "Vida puedan recibir."
+        ]
       ],
       "estrofas": [
         [
@@ -8788,10 +9090,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Él vino a mi corazón,",
-        "Él vino a mi corazón,",
-        "Soy feliz con la Vida que Cristo me dio,",
-        "Cuando Él vino a mi corazón."
+        [
+          "Él vino a mi corazón,",
+          "Él vino a mi corazón,",
+          "Soy feliz con la Vida que Cristo me dio,",
+          "Cuando Él vino a mi corazón."
+        ]
       ],
       "estrofas": [
         [
@@ -8863,14 +9167,16 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "¿Quién seguirle quiere?",
-        "¿Quién responderá",
-        "Al buen Redentor:",
-        "\"Heme aquí, yo iré\"?",
-        "Quien doquier que fuere",
-        "Tras su huella irá.",
-        "¿Quién dirá al Señor:",
-        "\"Yo te seguiré\"?"
+        [
+          "¿Quién seguirle quiere?",
+          "¿Quién responderá",
+          "Al buen Redentor:",
+          "\"Heme aquí, yo iré\"?",
+          "Quien doquier que fuere",
+          "Tras su huella irá.",
+          "¿Quién dirá al Señor:",
+          "\"Yo te seguiré\"?"
+        ]
       ],
       "estrofas": [
         [
@@ -8912,13 +9218,15 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Busca a Dios, busca a Dios,",
-        "Entretanto tengas tiempo,",
-        "Busca a Dios.",
-        "Si te atreves a esperar,",
-        "Dios la puerta cerrará;",
-        "Te dirá: - \"Es tarde ya\",",
-        "Busca a Dios."
+        [
+          "Busca a Dios, busca a Dios,",
+          "Entretanto tengas tiempo,",
+          "Busca a Dios.",
+          "Si te atreves a esperar,",
+          "Dios la puerta cerrará;",
+          "Te dirá: - \"Es tarde ya\",",
+          "Busca a Dios."
+        ]
       ],
       "estrofas": [
         [
@@ -8960,9 +9268,11 @@
       "nota": "Do mayor (C)",
       "compas": "2 tiempos",
       "coro": [
-        "El verano acabó, la siega pasó,",
-        "Y tenemos que ir a la cuenta rendir",
-        "Delante del trono de Dios."
+        [
+          "El verano acabó, la siega pasó,",
+          "Y tenemos que ir a la cuenta rendir",
+          "Delante del trono de Dios."
+        ]
       ],
       "estrofas": [
         [
@@ -8998,10 +9308,12 @@
       "nota": "Mi mayor (E)",
       "compas": "",
       "coro": [
-        "Hay quien vele mis pisadas",
-        "Y mi senda trazará",
-        "A las célicas moradas,",
-        "Es Jesús quien me guiará."
+        [
+          "Hay quien vele mis pisadas",
+          "Y mi senda trazará",
+          "A las célicas moradas,",
+          "Es Jesús quien me guiará."
+        ]
       ],
       "estrofas": [
         [
@@ -9043,11 +9355,13 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Dinos otra vez la historia",
-        "Del amor del Salvador;",
-        "Tan bendita y grata historia",
-        "Nos hará cantar su gloria.",
-        "Dinos otra vez la historia de su amor."
+        [
+          "Dinos otra vez la historia",
+          "Del amor del Salvador;",
+          "Tan bendita y grata historia",
+          "Nos hará cantar su gloria.",
+          "Dinos otra vez la historia de su amor."
+        ]
       ],
       "estrofas": [
         [
@@ -9089,10 +9403,12 @@
       "nota": "Sol mayor (G)",
       "compas": "3 tiempos",
       "coro": [
-        "Brillando, brillando,",
-        "Queremos que Chile brille;",
-        "Brillando, brillando.",
-        "Chile pedimos a Dios."
+        [
+          "Brillando, brillando,",
+          "Queremos que Chile brille;",
+          "Brillando, brillando.",
+          "Chile pedimos a Dios."
+        ]
       ],
       "estrofas": [
         [
@@ -9128,12 +9444,14 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Los que sirven a Jesús",
-        "Y son fieles a su Rey,",
-        "\"Ven buen siervo y fiel\", les dirá;",
-        "\"Sobre poco has sido fiel,",
-        "Sobre mucho te pondré",
-        "Y en mi gozo tú entrarás\"."
+        [
+          "Los que sirven a Jesús",
+          "Y son fieles a su Rey,",
+          "\"Ven buen siervo y fiel\", les dirá;",
+          "\"Sobre poco has sido fiel,",
+          "Sobre mucho te pondré",
+          "Y en mi gozo tú entrarás\"."
+        ]
       ],
       "estrofas": [
         [
@@ -9169,14 +9487,16 @@
       "nota": "Do mayor (C)",
       "compas": "",
       "coro": [
-        "Id, id, por el mundo;",
-        "Id, id y predicad el Evangelio.",
-        "Id, id, va adelante",
-        "El Todopoderoso Salvador.",
-        "¡Gloria, gloria, Aleluya a Jesús!",
-        "Nuestras almas Él salvó,",
-        "Nuestras manchas Él lavó,",
-        "Proclamemos, pues, a todos su amor."
+        [
+          "Id, id, por el mundo;",
+          "Id, id y predicad el Evangelio.",
+          "Id, id, va adelante",
+          "El Todopoderoso Salvador.",
+          "¡Gloria, gloria, Aleluya a Jesús!",
+          "Nuestras almas Él salvó,",
+          "Nuestras manchas Él lavó,",
+          "Proclamemos, pues, a todos su amor."
+        ]
       ],
       "estrofas": [
         [
@@ -9212,10 +9532,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "\"Todo aquel que quiera\" acuda a oír.",
-        "Sí, las buenas nuevas venga a recibir;",
-        "Es el Padre quien te llama a venir;",
-        "\"Todo aquel que quiera, ven\"."
+        [
+          "\"Todo aquel que quiera\" acuda a oír.",
+          "Sí, las buenas nuevas venga a recibir;",
+          "Es el Padre quien te llama a venir;",
+          "\"Todo aquel que quiera, ven\"."
+        ]
       ],
       "estrofas": [
         [
@@ -9245,10 +9567,12 @@
       "nota": "La mayor (A)",
       "compas": "3 tiempos",
       "coro": [
-        "Trabajad, trabajad;",
-        "Uno por uno al Señor llevad.",
-        "Trabajad, trabajad",
-        "Con fe y amor."
+        [
+          "Trabajad, trabajad;",
+          "Uno por uno al Señor llevad.",
+          "Trabajad, trabajad",
+          "Con fe y amor."
+        ]
       ],
       "estrofas": [
         [
@@ -9300,10 +9624,12 @@
       "nota": "Sol mayor (G)",
       "compas": "3 tiempos",
       "coro": [
-        "Cada momento la Vida me da,",
-        "Cada momento conmigo Él está",
-        "Hasta que llegue su Gloria a ver,",
-        "Cada momento le entrego mi ser."
+        [
+          "Cada momento la Vida me da,",
+          "Cada momento conmigo Él está",
+          "Hasta que llegue su Gloria a ver,",
+          "Cada momento le entrego mi ser."
+        ]
       ],
       "estrofas": [
         [
@@ -9333,15 +9659,17 @@
       "nota": "Do mayor (C)",
       "compas": "2 tiempos",
       "coro": [
-        "Sion, hermoso lugar",
-        "Do mi hogar tendré;",
-        "Feliz yo voy a estar",
-        "Cuando a ti veré.",
-        "Santos esperan allá;",
-        "Pronto con ellos estaré;",
-        "No habrá tristeza,",
-        "No habrá más muerte",
-        "En mi hogar."
+        [
+          "Sion, hermoso lugar",
+          "Do mi hogar tendré;",
+          "Feliz yo voy a estar",
+          "Cuando a ti veré.",
+          "Santos esperan allá;",
+          "Pronto con ellos estaré;",
+          "No habrá tristeza,",
+          "No habrá más muerte",
+          "En mi hogar."
+        ]
       ],
       "estrofas": [
         [
@@ -9373,14 +9701,16 @@
       "nota": "Do mayor (C)",
       "compas": "2 tiempos",
       "coro": [
-        "A proclamar",
-        "\"Muy cerca el reino está\"",
-        "\"¡Aún más allá!\"",
-        "\"¡Muy cerca el reino está!\"",
-        "Henos aquí, oh, pecador;",
-        "La voz de amor oíd:",
-        "Dejad el mal, volved al bien,",
-        "Y Vida recibid."
+        [
+          "A proclamar",
+          "\"Muy cerca el reino está\"",
+          "\"¡Aún más allá!\"",
+          "\"¡Muy cerca el reino está!\"",
+          "Henos aquí, oh, pecador;",
+          "La voz de amor oíd:",
+          "Dejad el mal, volved al bien,",
+          "Y Vida recibid."
+        ]
       ],
       "estrofas": [
         [
@@ -9422,12 +9752,14 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "¡Oh, excelsa Gracia del amor!",
-        "Que Dios perdona al pecador,",
-        "Si presto está a confesar",
-        "Su culpa y en Jesús confiar.",
-        "No hay otro autor de Salvación,",
-        "Pues Cristo obró la Redención."
+        [
+          "¡Oh, excelsa Gracia del amor!",
+          "Que Dios perdona al pecador,",
+          "Si presto está a confesar",
+          "Su culpa y en Jesús confiar.",
+          "No hay otro autor de Salvación,",
+          "Pues Cristo obró la Redención."
+        ]
       ],
       "estrofas": [
         [
@@ -9457,14 +9789,16 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Oíd el son marcial de los soldados,",
-        "Al son del triunfo derrotaremos.",
-        "Oíd que pasan ya los alistados,",
-        "Van vencer a Satán.",
-        "Como soldado me he enrolado;",
-        "El Dios de los ejércitos es mi ayuda,",
-        "Cual fiel soldado me he presentado",
-        "Con Jesús en las luchas venceremos."
+        [
+          "Oíd el son marcial de los soldados,",
+          "Al son del triunfo derrotaremos.",
+          "Oíd que pasan ya los alistados,",
+          "Van vencer a Satán.",
+          "Como soldado me he enrolado;",
+          "El Dios de los ejércitos es mi ayuda,",
+          "Cual fiel soldado me he presentado",
+          "Con Jesús en las luchas venceremos."
+        ]
       ],
       "estrofas": [
         [
@@ -9494,11 +9828,13 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Diré a todos mi historia;",
-        "Feliz y libre estoy,",
-        "Feliz y libre estoy,",
-        "A Dios loor, a Dios loor",
-        "Por su gloriosa libertad."
+        [
+          "Diré a todos mi historia;",
+          "Feliz y libre estoy,",
+          "Feliz y libre estoy,",
+          "A Dios loor, a Dios loor",
+          "Por su gloriosa libertad."
+        ]
       ],
       "estrofas": [
         [
@@ -9534,9 +9870,11 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Y al llegar al cielo así cantaré yo;",
-        "Yo era vil indigno, yo era vil indigno,",
-        "Yo era indigno, mas Cristo me salvó."
+        [
+          "Y al llegar al cielo así cantaré yo;",
+          "Yo era vil indigno, yo era vil indigno,",
+          "Yo era indigno, mas Cristo me salvó."
+        ]
       ],
       "estrofas": [
         [
@@ -9580,10 +9918,12 @@
       "nota": "Do mayor (C)",
       "compas": "2 tiempos",
       "coro": [
-        "Feliz cantando alegre,",
-        "Yo vivo siempre aquí:",
-        "¡Si Él cuida de las aves",
-        "Cuidará también de mí!"
+        [
+          "Feliz cantando alegre,",
+          "Yo vivo siempre aquí:",
+          "¡Si Él cuida de las aves",
+          "Cuidará también de mí!"
+        ]
       ],
       "estrofas": [
         [
@@ -9625,10 +9965,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Sí yo sé, sí yo sé,",
-        "Que la sangre de Jesús es eficaz;",
-        "Que Jesús con su sangre",
-        "Limpia al pecador más vil, y paz le da."
+        [
+          "Sí yo sé, sí yo sé,",
+          "Que la sangre de Jesús es eficaz;",
+          "Que Jesús con su sangre",
+          "Limpia al pecador más vil, y paz le da."
+        ]
       ],
       "estrofas": [
         [
@@ -9664,10 +10006,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Me sacó de las tinieblas a la luz,",
-        "De tinieblas a la luz",
-        "Me sacó de las tinieblas mi Jesús;",
-        "Gloriosa luz de Dios."
+        [
+          "Me sacó de las tinieblas a la luz,",
+          "De tinieblas a la luz",
+          "Me sacó de las tinieblas mi Jesús;",
+          "Gloriosa luz de Dios."
+        ]
       ],
       "estrofas": [
         [
@@ -9703,10 +10047,12 @@
       "nota": "Mi mayor (E)",
       "compas": "3 tiempos",
       "coro": [
-        "Vamos todos, vamos sí,",
-        "A vivir con el Señor,",
-        "Adorando y alabando",
-        "Para siempre al Salvador."
+        [
+          "Vamos todos, vamos sí,",
+          "A vivir con el Señor,",
+          "Adorando y alabando",
+          "Para siempre al Salvador."
+        ]
       ],
       "estrofas": [
         [
@@ -9742,10 +10088,12 @@
       "nota": "Do mayor (C)",
       "compas": "4 tiempos",
       "coro": [
-        "Vamos a Jesús, compañeros, sin temor.",
-        "Vamos a la lid, inflamados de valor.",
-        "Jóvenes, luchemos todos contra el mal;",
-        "En Jesús llevamos nuestro general."
+        [
+          "Vamos a Jesús, compañeros, sin temor.",
+          "Vamos a la lid, inflamados de valor.",
+          "Jóvenes, luchemos todos contra el mal;",
+          "En Jesús llevamos nuestro general."
+        ]
       ],
       "estrofas": [
         [
@@ -9787,10 +10135,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Partiremos de aquí, más allá nos veremos,",
-        "Delante del trono de nuestro Señor;",
-        "Por siglos sin fin, nunca más separarnos",
-        "Morando con Cristo en Eterno esplendor."
+        [
+          "Partiremos de aquí, más allá nos veremos,",
+          "Delante del trono de nuestro Señor;",
+          "Por siglos sin fin, nunca más separarnos",
+          "Morando con Cristo en Eterno esplendor."
+        ]
       ],
       "estrofas": [
         [
@@ -9820,10 +10170,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Gozo indecible hallo en Cristo",
-        "Nombre Divino lleno de amor,",
-        "¡Aleluya!, sigo cantando",
-        "Salmos e himnos a mi Señor."
+        [
+          "Gozo indecible hallo en Cristo",
+          "Nombre Divino lleno de amor,",
+          "¡Aleluya!, sigo cantando",
+          "Salmos e himnos a mi Señor."
+        ]
       ],
       "estrofas": [
         [
@@ -9853,11 +10205,13 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Acudid todos los seres tristes,",
-        "Pronto venid, Jesús insiste,",
-        "Sólo en el tendrá pleno perdón",
-        "Todo aquel que le quiera aceptar;",
-        "Sólo en Jesús hay Salvación y libertad."
+        [
+          "Acudid todos los seres tristes,",
+          "Pronto venid, Jesús insiste,",
+          "Sólo en el tendrá pleno perdón",
+          "Todo aquel que le quiera aceptar;",
+          "Sólo en Jesús hay Salvación y libertad."
+        ]
       ],
       "estrofas": [
         [
@@ -9893,10 +10247,12 @@
       "nota": "Re mayor (D)",
       "compas": "3 tiempos",
       "coro": [
-        "Es sin igual su infinito amor,",
-        "Y en una horrenda Cruz su Vida dio por mí.",
-        "Yo cantaré su dulce nombre, sí.",
-        "Oh, Salvador Eterno, loores doy a ti."
+        [
+          "Es sin igual su infinito amor,",
+          "Y en una horrenda Cruz su Vida dio por mí.",
+          "Yo cantaré su dulce nombre, sí.",
+          "Oh, Salvador Eterno, loores doy a ti."
+        ]
       ],
       "estrofas": [
         [
@@ -9929,10 +10285,12 @@
       "nota": "Do mayor (C)",
       "compas": "2 tiempos",
       "coro": [
-        "Sembraré, sembraré",
-        "Mientras viva simiente de amor.",
-        "Segaré, segaré,",
-        "Al hallarme en la casa de Dios."
+        [
+          "Sembraré, sembraré",
+          "Mientras viva simiente de amor.",
+          "Segaré, segaré,",
+          "Al hallarme en la casa de Dios."
+        ]
       ],
       "estrofas": [
         [
@@ -9962,10 +10320,12 @@
       "nota": "Mi mayor (E)",
       "compas": "2 tiempos",
       "coro": [
-        "Yo le diré a mi Señor,",
-        "Lo malo que he sido aquí;",
-        "Y le diré: mi buen Señor,",
-        "Ten hoy compasión de mí."
+        [
+          "Yo le diré a mi Señor,",
+          "Lo malo que he sido aquí;",
+          "Y le diré: mi buen Señor,",
+          "Ten hoy compasión de mí."
+        ]
       ],
       "estrofas": [
         [
@@ -10001,10 +10361,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Haz tu luz resplandecer.",
-        "Haz tu luz resplandecer.",
-        "Brille Cristo solamente en nuestra Vida",
-        "Haz tu luz resplandecer."
+        [
+          "Haz tu luz resplandecer.",
+          "Haz tu luz resplandecer.",
+          "Brille Cristo solamente en nuestra Vida",
+          "Haz tu luz resplandecer."
+        ]
       ],
       "estrofas": [
         [
@@ -10040,10 +10402,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "No, nosotros, nunca, nunca, cederemos al mal,",
-        "Nunca, no, no, no. nunca, no, no.",
-        "No, nosotros, nunca, nunca, cederemos al mal.",
-        "Nos espera la corona en el cielo."
+        [
+          "No, nosotros, nunca, nunca, cederemos al mal,",
+          "Nunca, no, no, no. nunca, no, no.",
+          "No, nosotros, nunca, nunca, cederemos al mal.",
+          "Nos espera la corona en el cielo."
+        ]
       ],
       "estrofas": [
         [
@@ -10085,10 +10449,12 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Y allá Jesús me dará corona",
-        "Si hasta el fin soy fiel en su camino,",
-        "Y sé que al fin de mi carrera",
-        "Con Jesús allá viviré por la eternidad."
+        [
+          "Y allá Jesús me dará corona",
+          "Si hasta el fin soy fiel en su camino,",
+          "Y sé que al fin de mi carrera",
+          "Con Jesús allá viviré por la eternidad."
+        ]
       ],
       "estrofas": [
         [
@@ -10124,10 +10490,12 @@
       "nota": "La mayor (A)",
       "compas": "2 tiempos",
       "coro": [
-        "Hay poder, poder, sin igual poder,",
-        "En Jesús, quien murió,",
-        "Hay poder, poder, sin igual poder",
-        "En la sangre, que Él vertió."
+        [
+          "Hay poder, poder, sin igual poder,",
+          "En Jesús, quien murió,",
+          "Hay poder, poder, sin igual poder",
+          "En la sangre, que Él vertió."
+        ]
       ],
       "estrofas": [
         [
@@ -10157,10 +10525,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Bienvenidos sois, hermanos,",
-        "En la Iglesia del Señor,",
-        "Todos juntos congregados",
-        "Al Señor damos loor."
+        [
+          "Bienvenidos sois, hermanos,",
+          "En la Iglesia del Señor,",
+          "Todos juntos congregados",
+          "Al Señor damos loor."
+        ]
       ],
       "estrofas": [
         [
@@ -10190,10 +10560,12 @@
       "nota": "Mi menor (Em)",
       "compas": "4 tiempos",
       "coro": [
-        "Allí no habrá tribulación,",
-        "Ningún pesar, ningún dolor.",
-        "Y cuando esté morando allá",
-        "Diré que no hay tribulación."
+        [
+          "Allí no habrá tribulación,",
+          "Ningún pesar, ningún dolor.",
+          "Y cuando esté morando allá",
+          "Diré que no hay tribulación."
+        ]
       ],
       "estrofas": [
         [
@@ -10229,10 +10601,12 @@
       "nota": "Do mayor (C)",
       "compas": "2 tiempos",
       "coro": [
-        "Yo me abrazo a esa Cruz con amor",
-        "Hasta el día de mi mutación,",
-        "Cuando a Cristo mi cuenta le dé",
-        "Por Jesús yo corona tendré."
+        [
+          "Yo me abrazo a esa Cruz con amor",
+          "Hasta el día de mi mutación,",
+          "Cuando a Cristo mi cuenta le dé",
+          "Por Jesús yo corona tendré."
+        ]
       ],
       "estrofas": [
         [
@@ -10268,10 +10642,12 @@
       "nota": "La mayor (A)",
       "compas": "2 tiempos",
       "coro": [
-        "Oye, pues, la gratas nuevas",
-        "\"El Señor te salvará,",
-        "Es el mismo Jesucristo",
-        "Que esperando está\"."
+        [
+          "Oye, pues, la gratas nuevas",
+          "\"El Señor te salvará,",
+          "Es el mismo Jesucristo",
+          "Que esperando está\"."
+        ]
       ],
       "estrofas": [
         [
@@ -10323,10 +10699,12 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "No puede el mundo ser mi hogar,",
-        "No puede el mundo ser mi hogar,",
-        "En Gloria tengo mi mansión,",
-        "No puede el mundo ser mi hogar."
+        [
+          "No puede el mundo ser mi hogar,",
+          "No puede el mundo ser mi hogar,",
+          "En Gloria tengo mi mansión,",
+          "No puede el mundo ser mi hogar."
+        ]
       ],
       "estrofas": [
         [
@@ -10402,10 +10780,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Háblame, háblame",
-        "Y tu voz yo presto acataré.",
-        "Háblame, ¡oh, Señor!",
-        "Y tu voz yo presto acataré."
+        [
+          "Háblame, háblame",
+          "Y tu voz yo presto acataré.",
+          "Háblame, ¡oh, Señor!",
+          "Y tu voz yo presto acataré."
+        ]
       ],
       "estrofas": [
         [
@@ -10441,10 +10821,12 @@
       "nota": "Mi menor (Em)",
       "compas": "2 tiempos",
       "coro": [
-        "Muchas cosas habrá, muchas cosas tendrán.",
-        "Muchas cosas veremos allá,",
-        "¡Oh, qué felicidad! cuando estemos allí",
-        "Cuántas cosas serán para mí."
+        [
+          "Muchas cosas habrá, muchas cosas tendrán.",
+          "Muchas cosas veremos allá,",
+          "¡Oh, qué felicidad! cuando estemos allí",
+          "Cuántas cosas serán para mí."
+        ]
       ],
       "estrofas": [
         [
@@ -10511,14 +10893,16 @@
       "nota": "Do mayor (C)",
       "compas": "2 tiempos",
       "coro": [
-        "Voy subiendo en áurea escalera,",
-        "Voy subiendo do corona me espera,",
-        "Voy subiendo en la luz, voy subiendo con Jesús.",
-        "Alabanzas cantaré a Dios allá.",
-        "Voy subiendo en áurea escalera,",
-        "Voy subiendo do corona me espera.",
-        "Voy subiendo en la luz, voy subiendo con Jesús.",
-        "Voy subiendo a mi celeste hogar."
+        [
+          "Voy subiendo en áurea escalera,",
+          "Voy subiendo do corona me espera,",
+          "Voy subiendo en la luz, voy subiendo con Jesús.",
+          "Alabanzas cantaré a Dios allá.",
+          "Voy subiendo en áurea escalera,",
+          "Voy subiendo do corona me espera.",
+          "Voy subiendo en la luz, voy subiendo con Jesús.",
+          "Voy subiendo a mi celeste hogar."
+        ]
       ],
       "estrofas": [
         [
@@ -10548,10 +10932,12 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "¡Oh! que brillen allí como estrellas de luz",
-        "Redimidos que a Cristo guié.",
-        "Cuando allá corona me entregue Jesús,",
-        "La corona que Cristo me dé."
+        [
+          "¡Oh! que brillen allí como estrellas de luz",
+          "Redimidos que a Cristo guié.",
+          "Cuando allá corona me entregue Jesús,",
+          "La corona que Cristo me dé."
+        ]
       ],
       "estrofas": [
         [
@@ -10615,10 +11001,12 @@
       "nota": "Re mayor (D)",
       "compas": "",
       "coro": [
-        "¿Quién de Cristo al lado quiere caminar?",
-        "¿Quién contra el pecado quiere ya luchar?",
-        "Quien esté agobiado o sufra aflicción,",
-        "Venga a Cristo que le llama hoy con amor."
+        [
+          "¿Quién de Cristo al lado quiere caminar?",
+          "¿Quién contra el pecado quiere ya luchar?",
+          "Quien esté agobiado o sufra aflicción,",
+          "Venga a Cristo que le llama hoy con amor."
+        ]
       ],
       "estrofas": [
         [
@@ -10654,11 +11042,13 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Trabajad y orad",
-        "En la viña, en la viña del Señor.",
-        "Sí, mi anhelo es orar",
-        "Y ocupado siempre estar",
-        "En la viña del Señor."
+        [
+          "Trabajad y orad",
+          "En la viña, en la viña del Señor.",
+          "Sí, mi anhelo es orar",
+          "Y ocupado siempre estar",
+          "En la viña del Señor."
+        ]
       ],
       "estrofas": [
         [
@@ -10691,10 +11081,12 @@
       "nota": "Sol mayor (G)",
       "compas": "3 tiempos",
       "coro": [
-        "Viene otra vez, viene otra vez",
-        "En Gloria viene al mundo otra vez",
-        "Viene otra vez, viene otra vez,",
-        "El viene prono a reinar."
+        [
+          "Viene otra vez, viene otra vez",
+          "En Gloria viene al mundo otra vez",
+          "Viene otra vez, viene otra vez,",
+          "El viene prono a reinar."
+        ]
       ],
       "estrofas": [
         [
@@ -10730,10 +11122,12 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Ven, pues, a beber te llama",
-        "Agua de la viva fuente;",
-        "No esperes el mañana,",
-        "Hoy te invita Jesús dulcemente."
+        [
+          "Ven, pues, a beber te llama",
+          "Agua de la viva fuente;",
+          "No esperes el mañana,",
+          "Hoy te invita Jesús dulcemente."
+        ]
       ],
       "estrofas": [
         [
@@ -10769,10 +11163,12 @@
       "nota": "Sol mayor (G)",
       "compas": "3 tiempos",
       "coro": [
-        "Ángeles blancos me llevarán",
-        "A la presencia de mi Señor,",
-        "Y yo con júbilo cantaría",
-        "Con los salvados por su amor."
+        [
+          "Ángeles blancos me llevarán",
+          "A la presencia de mi Señor,",
+          "Y yo con júbilo cantaría",
+          "Con los salvados por su amor."
+        ]
       ],
       "estrofas": [
         [
@@ -10808,12 +11204,14 @@
       "nota": "Do mayor (C)",
       "compas": "2 tiempos",
       "coro": [
-        "Como nos conocerán,",
-        "Llegaremos a tener",
-        "Pleno y recto entendimiento",
-        "Paz, tranquilidad, placer:",
-        "Juzgaremos justamente",
-        "Sin las nieblas del ayer."
+        [
+          "Como nos conocerán,",
+          "Llegaremos a tener",
+          "Pleno y recto entendimiento",
+          "Paz, tranquilidad, placer:",
+          "Juzgaremos justamente",
+          "Sin las nieblas del ayer."
+        ]
       ],
       "estrofas": [
         [
@@ -10855,10 +11253,12 @@
       "nota": "Re menor (Dm)",
       "compas": "2 tiempos",
       "coro": [
-        "Pronto viene Jesús y nos lleva",
-        "A la hermosa mansión celestial,",
-        "Pronto viene Jesús a la Tierra;",
-        "Nos iremos con Él a gozar."
+        [
+          "Pronto viene Jesús y nos lleva",
+          "A la hermosa mansión celestial,",
+          "Pronto viene Jesús a la Tierra;",
+          "Nos iremos con Él a gozar."
+        ]
       ],
       "estrofas": [
         [
@@ -10894,10 +11294,12 @@
       "nota": "Re mayor (D)",
       "compas": "3 tiempos",
       "coro": [
-        "Yo creo sí, yo creo sí,",
-        "Jesús murió, murió por mi,",
-        "Y en la Cruz vertida fue",
-        "Su sangre carmesí."
+        [
+          "Yo creo sí, yo creo sí,",
+          "Jesús murió, murió por mi,",
+          "Y en la Cruz vertida fue",
+          "Su sangre carmesí."
+        ]
       ],
       "estrofas": [
         [
@@ -10939,10 +11341,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Ellos alzan la bandera,",
-        "Do la lucha arde ya;",
-        "Ya no ceden al peligro,",
-        "Pues su Rey con ellos va."
+        [
+          "Ellos alzan la bandera,",
+          "Do la lucha arde ya;",
+          "Ya no ceden al peligro,",
+          "Pues su Rey con ellos va."
+        ]
       ],
       "estrofas": [
         [
@@ -10984,10 +11388,12 @@
       "nota": "La mayor (A)",
       "compas": "2 tiempos",
       "coro": [
-        "Oh, qué triste es el morir,",
-        "Oh, qué dicha es el pensar,",
-        "Ver que Cristo nos redime",
-        "Para su Gloria reinar."
+        [
+          "Oh, qué triste es el morir,",
+          "Oh, qué dicha es el pensar,",
+          "Ver que Cristo nos redime",
+          "Para su Gloria reinar."
+        ]
       ],
       "estrofas": [
         [
@@ -11039,11 +11445,13 @@
       "nota": "Do mayor (C)",
       "compas": "2 tiempos (*)",
       "coro": [
-        "Bendito el Señor, bendito es su amor,",
-        "Que tuvo de mí compasión;",
-        "Enfermo me encontraba,",
-        "Desamparado me hallaba",
-        "Cuando vino mi bendito Salvador."
+        [
+          "Bendito el Señor, bendito es su amor,",
+          "Que tuvo de mí compasión;",
+          "Enfermo me encontraba,",
+          "Desamparado me hallaba",
+          "Cuando vino mi bendito Salvador."
+        ]
       ],
       "estrofas": [
         [
@@ -11079,11 +11487,13 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "En las nubes se verá",
-        "En aquel día final;",
-        "Cristo el Salvador",
-        "Muy pronto volverá,",
-        "Por aquellos que Él amó."
+        [
+          "En las nubes se verá",
+          "En aquel día final;",
+          "Cristo el Salvador",
+          "Muy pronto volverá,",
+          "Por aquellos que Él amó."
+        ]
       ],
       "estrofas": [
         [
@@ -11119,10 +11529,12 @@
       "nota": "Do mayor (C)",
       "compas": "2 tiempos",
       "coro": [
-        "Te llama con un tierno acento,",
-        "Tu Vida quiere redimir;",
-        "Oye de Jesús el tierno llamamiento;",
-        "Ven a Él, ven a Él."
+        [
+          "Te llama con un tierno acento,",
+          "Tu Vida quiere redimir;",
+          "Oye de Jesús el tierno llamamiento;",
+          "Ven a Él, ven a Él."
+        ]
       ],
       "estrofas": [
         [
@@ -11152,16 +11564,18 @@
       "nota": "La mayor (A)",
       "compas": "3 tiempos",
       "coro": [
-        "Nuestro estandarte flamea el viento,",
-        "Somos gigantes de la verdad,",
-        "Nuestros mensajes son el acento,",
-        "Con que las almas se salvarán.",
-        " ",
-        "CORO 2 (después de Verso 2):",
-        "Adiós amigos, adiós hermanos,",
-        "Ustedes quedan en oración,",
-        "Yo voy en busca de almas perdidas",
-        "Para traerlas al Salvador."
+        [
+          "Nuestro estandarte flamea el viento,",
+          "Somos gigantes de la verdad,",
+          "Nuestros mensajes son el acento,",
+          "Con que las almas se salvarán."
+        ],
+        [
+          "Adiós amigos, adiós hermanos,",
+          "Ustedes quedan en oración,",
+          "Yo voy en busca de almas perdidas",
+          "Para traerlas al Salvador."
+        ]
       ],
       "estrofas": [
         [
@@ -11193,11 +11607,13 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Oh, la sangre divina,",
-        "Oh, la sangre eficaz,",
-        "Derramada fue por ti.",
-        "El murió por mí, pecador, por ti.",
-        "Mi Jesús murió por mí."
+        [
+          "Oh, la sangre divina,",
+          "Oh, la sangre eficaz,",
+          "Derramada fue por ti.",
+          "El murió por mí, pecador, por ti.",
+          "Mi Jesús murió por mí."
+        ]
       ],
       "estrofas": [
         [
@@ -11227,10 +11643,12 @@
       "nota": "Mi mayor (E)",
       "compas": "2 tiempos",
       "coro": [
-        "Gozo Eterno hay en el cielo.",
-        "Allí cantan de alegría",
-        "Los Salvador por Jesús",
-        "Que han sido fieles en la Vida."
+        [
+          "Gozo Eterno hay en el cielo.",
+          "Allí cantan de alegría",
+          "Los Salvador por Jesús",
+          "Que han sido fieles en la Vida."
+        ]
       ],
       "estrofas": [
         [
@@ -11300,10 +11718,12 @@
       "nota": "Mi mayor (E)",
       "compas": "2 tiempos",
       "coro": [
-        "En la Cruz, en la Cruz mis pecados lavó",
-        "Cuando quiso por mí padecer.",
-        "Con angustias en la Cruz fue el benigno Jesús",
-        "Que por siempre mis culpas borró."
+        [
+          "En la Cruz, en la Cruz mis pecados lavó",
+          "Cuando quiso por mí padecer.",
+          "Con angustias en la Cruz fue el benigno Jesús",
+          "Que por siempre mis culpas borró."
+        ]
       ],
       "estrofas": [
         [
@@ -11333,10 +11753,12 @@
       "nota": "Mi mayor (E)",
       "compas": "2 tiempos",
       "coro": [
-        "Mi hogar, mi hogar,",
-        "Mi dulce hogar.",
-        "No hay sitio bajo el cielo",
-        "Más dulce que le hogar."
+        [
+          "Mi hogar, mi hogar,",
+          "Mi dulce hogar.",
+          "No hay sitio bajo el cielo",
+          "Más dulce que le hogar."
+        ]
       ],
       "estrofas": [
         [
@@ -11378,10 +11800,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Cristo, Cristo, Cristo,",
-        "Nombre sin igual.",
-        "Llena siempre mi alma",
-        "De esa nota celestial."
+        [
+          "Cristo, Cristo, Cristo,",
+          "Nombre sin igual.",
+          "Llena siempre mi alma",
+          "De esa nota celestial."
+        ]
       ],
       "estrofas": [
         [
@@ -11454,10 +11878,12 @@
       "nota": "Re mayor (D)",
       "compas": "4 tiempos",
       "coro": [
-        "Para entrar al cielo",
-        "Y estar con el Señor",
-        "Se le previene al hombre",
-        "Limpiar su corazón."
+        [
+          "Para entrar al cielo",
+          "Y estar con el Señor",
+          "Se le previene al hombre",
+          "Limpiar su corazón."
+        ]
       ],
       "estrofas": [
         [
@@ -11499,10 +11925,18 @@
       "nota": "La mayor (A)",
       "compas": "3 tiempos",
       "coro": [
-        "Humillados a tus pies, buen Señor,",
-        "Implorando tu dulce perdón",
-        "Y confiamos en el Dios de amor",
-        "Que oirá nuestra humilde oración."
+        [
+          "Humillados a tus pies, buen Señor,",
+          "Implorando tu dulce perdón",
+          "Y confiamos en el Dios de amor",
+          "Que oirá nuestra humilde oración."
+        ],
+        [
+          "Humillados a tus pies, buen Señor,",
+          "Implorando tu dulce perdón",
+          "Y confiamos en el Dios de amor",
+          "Que oirá nuestra humilde oración."
+        ]
       ],
       "estrofas": [
         [
@@ -11534,10 +11968,12 @@
       "nota": "Sol mayor (G)",
       "compas": "",
       "coro": [
-        "Yo voy con Jesús, Aleluya,",
-        "Yo ando con Cristo el Rey;",
-        "No vago ya más: yo quiero seguir",
-        "A Cristo mi Rey y Señor."
+        [
+          "Yo voy con Jesús, Aleluya,",
+          "Yo ando con Cristo el Rey;",
+          "No vago ya más: yo quiero seguir",
+          "A Cristo mi Rey y Señor."
+        ]
       ],
       "estrofas": [
         [
@@ -11567,12 +12003,14 @@
       "nota": "Re mayor (D)",
       "compas": "",
       "coro": [
-        "Diezmos sí, de amor y servicio",
-        "Y también de oro y plata;",
-        "Si traemos nuestros diezmos,",
-        "Si traemos nuestros diezmos,",
-        "Bendiciones grandes abundarán",
-        "Si traemos nuestros diezmos"
+        [
+          "Diezmos sí, de amor y servicio",
+          "Y también de oro y plata;",
+          "Si traemos nuestros diezmos,",
+          "Si traemos nuestros diezmos,",
+          "Bendiciones grandes abundarán",
+          "Si traemos nuestros diezmos"
+        ]
       ],
       "estrofas": [
         [
@@ -11602,10 +12040,16 @@
       "nota": "Sol mayor (G)",
       "compas": "3 tiempos",
       "coro": [
+        [
+          "Ve, ve, ve, sembrador,",
+          "Ve, ve, siembra la Paz",
+          "Habla doquiera del Señor,",
+          "Y de su santa Paz."
+        ],
         "Voy, voy, voy, Salvador.",
-        "Voy, voy, siembro la paz,",
+        "Voy, voy, siembro la Paz,",
         "Hablando siempre del Señor,",
-        "Y de su santa paz."
+        "Y de su santa Paz."
       ],
       "estrofas": [
         [
@@ -11641,10 +12085,12 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Creo en Dios, en Dios espero,",
-        "Amo a Dios mi Redentor.",
-        "Creo en Dios que me salvó,",
-        "En el cual hay Salvación."
+        [
+          "Creo en Dios, en Dios espero,",
+          "Amo a Dios mi Redentor.",
+          "Creo en Dios que me salvó,",
+          "En el cual hay Salvación."
+        ]
       ],
       "estrofas": [
         [
@@ -11730,10 +12176,12 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Señor, te imploro la paz a mi alma,",
-        "Y quema el pecado de mi corazón,",
-        "Yo quiero la dicha, la paz y el consuelo,",
-        "Y vivir tranquilo en tu Santo amor."
+        [
+          "Señor, te imploro la paz a mi alma,",
+          "Y quema el pecado de mi corazón,",
+          "Yo quiero la dicha, la paz y el consuelo,",
+          "Y vivir tranquilo en tu Santo amor."
+        ]
       ],
       "estrofas": [
         [
@@ -11769,12 +12217,14 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Humildes como el Señor,",
-        "Valientes como Sansón,",
-        "Prediquemos sin temor,",
-        "Digamos al pecador",
-        "En la Cruz murió el Señor",
-        "Por darnos la Redención."
+        [
+          "Humildes como el Señor,",
+          "Valientes como Sansón,",
+          "Prediquemos sin temor,",
+          "Digamos al pecador",
+          "En la Cruz murió el Señor",
+          "Por darnos la Redención."
+        ]
       ],
       "estrofas": [
         [
@@ -11825,10 +12275,12 @@
       "nota": "Sol mayor (G)",
       "compas": "3 tiempos",
       "coro": [
-        "La sangre de Jesús me dio la sanidad,",
-        "La muerte en la Cruz la debo yo pagar,",
-        "Y nunca más ingrato te seré,",
-        "Yo quiero serte fiel, mi Padre celestial."
+        [
+          "La sangre de Jesús me dio la sanidad,",
+          "La muerte en la Cruz la debo yo pagar,",
+          "Y nunca más ingrato te seré,",
+          "Yo quiero serte fiel, mi Padre celestial."
+        ]
       ],
       "estrofas": [
         [
@@ -11864,11 +12316,13 @@
       "nota": "Mi menor (Em)",
       "compas": "3 tiempos",
       "coro": [
-        "Por el amor del Salvador,",
-        "Iré al cielo a disfrutar,",
-        "De la mansión celestial,",
-        "Que para los salvados fue a preparar",
-        "Nuestro Señor Jesús allá."
+        [
+          "Por el amor del Salvador,",
+          "Iré al cielo a disfrutar,",
+          "De la mansión celestial,",
+          "Que para los salvados fue a preparar",
+          "Nuestro Señor Jesús allá."
+        ]
       ],
       "estrofas": [
         [
@@ -11898,10 +12352,12 @@
       "nota": "Mi mayor (E)",
       "compas": "3 tiempos",
       "coro": [
-        "Cristo, ven más cerca:",
-        "Dame paz, gozo, perdón,",
-        "Cerca, sí, más cerca",
-        "De mi corazón."
+        [
+          "Cristo, ven más cerca:",
+          "Dame paz, gozo, perdón,",
+          "Cerca, sí, más cerca",
+          "De mi corazón."
+        ]
       ],
       "estrofas": [
         [
@@ -11943,10 +12399,12 @@
       "nota": "La mayor (A)",
       "compas": "2 tiempos",
       "coro": [
-        "Oh, sí, yo quiero andar con Cristo",
-        "Oh, sí, yo quiero vivir con Cristo,",
-        "Oh, sí, yo quiero morir con Cristo,",
-        "Quiero serle un testigo fiel."
+        [
+          "Oh, sí, yo quiero andar con Cristo",
+          "Oh, sí, yo quiero vivir con Cristo,",
+          "Oh, sí, yo quiero morir con Cristo,",
+          "Quiero serle un testigo fiel."
+        ]
       ],
       "estrofas": [
         [
@@ -11988,11 +12446,13 @@
       "nota": "Do mayor (C)",
       "compas": "2 tiempos",
       "coro": [
-        "Y es por eso que yo digo al mundo",
-        "Que en tu sangre hay Salvación",
-        "Y remisión de pecados,",
-        "Que tú diste tu Vida allí en la Cruz",
-        "Por el justo y por el malvado."
+        [
+          "Y es por eso que yo digo al mundo",
+          "Que en tu sangre hay Salvación",
+          "Y remisión de pecados,",
+          "Que tú diste tu Vida allí en la Cruz",
+          "Por el justo y por el malvado."
+        ]
       ],
       "estrofas": [
         [
@@ -12022,14 +12482,16 @@
       "nota": "Re mayor (D)",
       "compas": "3 tiempos",
       "coro": [
-        "En este mundo vagaba yo",
-        "Cansado y triste y con desvelo,",
-        "Entre los hombres no hay consuelo,",
-        "Tan sólo en Cristo allí hay amor.",
-        "Él te conoce tu corazón",
-        "Y lo que guardas más escondido,",
-        "¡Ay de los seres que son impíos!",
-        "Buscan el mundo y su perdición."
+        [
+          "En este mundo vagaba yo",
+          "Cansado y triste y con desvelo,",
+          "Entre los hombres no hay consuelo,",
+          "Tan sólo en Cristo allí hay amor.",
+          "Él te conoce tu corazón",
+          "Y lo que guardas más escondido,",
+          "¡Ay de los seres que son impíos!",
+          "Buscan el mundo y su perdición."
+        ]
       ],
       "estrofas": [
         [
@@ -12065,10 +12527,12 @@
       "nota": "Re mayor (D)",
       "compas": "",
       "coro": [
-        "Nos será el país de beulah,",
-        "País feliz de luz y gozo",
-        "Donde cantan Aleluya",
-        "A Jesús, quien nos salvó."
+        [
+          "Nos será el país de beulah,",
+          "País feliz de luz y gozo",
+          "Donde cantan Aleluya",
+          "A Jesús, quien nos salvó."
+        ]
       ],
       "estrofas": [
         [
@@ -12120,10 +12584,12 @@
       "nota": "La mayor (A)",
       "compas": "2 tiempos",
       "coro": [
-        "Allá en Belén, nació la luz,",
-        "Trajo también la paz Jesús.",
-        "De Israel el guiador",
-        "Llegó con el amor."
+        [
+          "Allá en Belén, nació la luz,",
+          "Trajo también la paz Jesús.",
+          "De Israel el guiador",
+          "Llegó con el amor."
+        ]
       ],
       "estrofas": [
         [
@@ -12159,10 +12625,12 @@
       "nota": "Sol mayor (G)",
       "compas": "3 tiempos",
       "coro": [
-        "Él me salvo y me llenó",
-        "De grande gozo que rebosa el corazón.",
-        "Te seguiré y llegaré",
-        "A tu gran célica mansión."
+        [
+          "Él me salvo y me llenó",
+          "De grande gozo que rebosa el corazón.",
+          "Te seguiré y llegaré",
+          "A tu gran célica mansión."
+        ]
       ],
       "estrofas": [
         [
@@ -12192,10 +12660,12 @@
       "nota": "La mayor (A)",
       "compas": "2 tiempos",
       "coro": [
-        "Muy pronto, sí, Jesús vendrá",
-        "Y alegre le verá su pueblo.",
-        "Velad, orad, el Rey vendrá,",
-        "Los suyos arrebatará."
+        [
+          "Muy pronto, sí, Jesús vendrá",
+          "Y alegre le verá su pueblo.",
+          "Velad, orad, el Rey vendrá,",
+          "Los suyos arrebatará."
+        ]
       ],
       "estrofas": [
         [
@@ -12231,10 +12701,12 @@
       "nota": "Do mayor (C)",
       "compas": "3 tiempos",
       "coro": [
-        "Dios te ilumina que dejes el pecado,",
-        "Que te arrepientas y vuelvas a tu lado",
-        "Y así saldrás de aquel oscuro abismo",
-        "Y serás coronado."
+        [
+          "Dios te ilumina que dejes el pecado,",
+          "Que te arrepientas y vuelvas a tu lado",
+          "Y así saldrás de aquel oscuro abismo",
+          "Y serás coronado."
+        ]
       ],
       "estrofas": [
         [
@@ -12264,12 +12736,14 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Gozo y luz tengo en mi alma hoy,",
-        "Gozo y luz hoy, ya que salvo soy,",
-        "Desde que vi a mi Jesús",
-        "He sentido gozo de su amor en mí,",
-        "Gozo y luz tengo en mi alma hoy.",
-        "Gozo y luz hoy, ya que salvo soy."
+        [
+          "Gozo y luz tengo en mi alma hoy,",
+          "Gozo y luz hoy, ya que salvo soy,",
+          "Desde que vi a mi Jesús",
+          "He sentido gozo de su amor en mí,",
+          "Gozo y luz tengo en mi alma hoy.",
+          "Gozo y luz hoy, ya que salvo soy."
+        ]
       ],
       "estrofas": [
         [
@@ -12321,10 +12795,12 @@
       "nota": "Mi mayor (E)",
       "compas": "2 tiempos",
       "coro": [
-        "Lo veré en un cercano día",
-        "Cuando deje el mundo de dolor,",
-        "Cara cara, sólo verle anhelo",
-        "Y vivir guardado por su amor."
+        [
+          "Lo veré en un cercano día",
+          "Cuando deje el mundo de dolor,",
+          "Cara cara, sólo verle anhelo",
+          "Y vivir guardado por su amor."
+        ]
       ],
       "estrofas": [
         [
@@ -12414,10 +12890,12 @@
       "nota": "Mi mayor (E)",
       "compas": "2 tiempos",
       "coro": [
-        "No tengo plata ni oro,",
-        "Mas lo que tengo te doy",
-        "En el nombre de Jesús de Nazareth",
-        "Levántate y anda y alaba a tu Dios."
+        [
+          "No tengo plata ni oro,",
+          "Mas lo que tengo te doy",
+          "En el nombre de Jesús de Nazareth",
+          "Levántate y anda y alaba a tu Dios."
+        ]
       ],
       "estrofas": [
         [
@@ -12537,10 +13015,12 @@
       "nota": "Sol mayor (G)",
       "compas": "4 tiempos",
       "coro": [
-        "Cielo y Tierra canten al Señor de las naciones,",
-        "Cielo y Tierra canten al Señor de las naciones,",
-        "Y los hombres todos, con alegres corazones,",
-        "Sirvan al Señor que Vida y paz siempre les da."
+        [
+          "Cielo y Tierra canten al Señor de las naciones,",
+          "Cielo y Tierra canten al Señor de las naciones,",
+          "Y los hombres todos, con alegres corazones,",
+          "Sirvan al Señor que Vida y paz siempre les da."
+        ]
       ],
       "estrofas": [
         [
@@ -12572,10 +13052,12 @@
       "nota": "Do mayor (C)",
       "compas": "3 tiempos",
       "coro": [
-        "Jesús, Jesús el Salvador",
-        "El dulce nombre del Señor;",
-        "Él me rodea con Santo amor,",
-        "¡Gloria, gloria!, a mi Jesús."
+        [
+          "Jesús, Jesús el Salvador",
+          "El dulce nombre del Señor;",
+          "Él me rodea con Santo amor,",
+          "¡Gloria, gloria!, a mi Jesús."
+        ]
       ],
       "estrofas": [
         [
@@ -12611,10 +13093,12 @@
       "nota": "Re mayor (D)",
       "compas": "3 tiempos",
       "coro": [
-        "¡Oh, amor de Dios! brotando está",
-        "Inmensurable, eternal,",
-        "Por las edades durará",
-        "Inagotable raudal."
+        [
+          "¡Oh, amor de Dios! brotando está",
+          "Inmensurable, eternal,",
+          "Por las edades durará",
+          "Inagotable raudal."
+        ]
       ],
       "estrofas": [
         [
@@ -12656,10 +13140,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Gratitud, gratitud",
-        "Gratitud, a nuestro Dios",
-        "Por la salud, por la salud",
-        "Que a mi alma Jesús le dio."
+        [
+          "Gratitud, gratitud",
+          "Gratitud, a nuestro Dios",
+          "Por la salud, por la salud",
+          "Que a mi alma Jesús le dio."
+        ]
       ],
       "estrofas": [
         [
@@ -12689,12 +13175,14 @@
       "nota": "Sol mayor (G)",
       "compas": "",
       "coro": [
-        "Soldado valiente de Cristo yo soy;",
-        "Pues llevo en el alma celestial valor",
-        "Y cantando llegaré a la gloria.",
-        "Alabando al cordero de Dios.",
-        "Porque Cristo me dio, porque Cristo me dio",
-        "Con su muerte el más puro vivir."
+        [
+          "Soldado valiente de Cristo yo soy;",
+          "Pues llevo en el alma celestial valor",
+          "Y cantando llegaré a la gloria.",
+          "Alabando al cordero de Dios.",
+          "Porque Cristo me dio, porque Cristo me dio",
+          "Con su muerte el más puro vivir."
+        ]
       ],
       "estrofas": [
         [
@@ -12718,10 +13206,12 @@
       "nota": "La menor (Am)",
       "compas": "2 tiempos",
       "coro": [
-        "Con dulzura hoy día te dice,",
-        "Hijo mío, ya no sufras más,",
-        "Con mi sangre tú puedes lavarte",
-        "Y entrarás en el cielo a gozar."
+        [
+          "Con dulzura hoy día te dice,",
+          "Hijo mío, ya no sufras más,",
+          "Con mi sangre tú puedes lavarte",
+          "Y entrarás en el cielo a gozar."
+        ]
       ],
       "estrofas": [
         [
@@ -12757,10 +13247,12 @@
       "nota": "La mayor (A)",
       "compas": "2 tiempos",
       "coro": [
-        "¡Adelante, es la orden del Señor!",
-        "¡Adelante, vamos sin temor!",
-        "¡Adelante, canta ya su grey!",
-        "¡La victoria es cierta con el Rey!"
+        [
+          "¡Adelante, es la orden del Señor!",
+          "¡Adelante, vamos sin temor!",
+          "¡Adelante, canta ya su grey!",
+          "¡La victoria es cierta con el Rey!"
+        ]
       ],
       "estrofas": [
         [
@@ -12796,10 +13288,12 @@
       "nota": "Mi mayor (E)",
       "compas": "3 tiempos",
       "coro": [
-        "Dulce Evangelio inmaculado",
-        "Del cual emana felicidad;",
-        "Que de los cielos ha sido enviado",
-        "A dar al mundo la claridad."
+        [
+          "Dulce Evangelio inmaculado",
+          "Del cual emana felicidad;",
+          "Que de los cielos ha sido enviado",
+          "A dar al mundo la claridad."
+        ]
       ],
       "estrofas": [
         [
@@ -12835,10 +13329,12 @@
       "nota": "Do mayor (C)",
       "compas": "3 tiempos",
       "coro": [
-        "Acuérdate, Señor Jesús,",
-        "Acuérdate de mí.",
-        "Memorias ten de tu pasión",
-        "Y ten piedad de mí."
+        [
+          "Acuérdate, Señor Jesús,",
+          "Acuérdate de mí.",
+          "Memorias ten de tu pasión",
+          "Y ten piedad de mí."
+        ]
       ],
       "estrofas": [
         [
@@ -12874,12 +13370,14 @@
       "nota": "La mayor (A)",
       "compas": "3 tiempos",
       "coro": [
-        "¡Cristo, Cristo! Tú eres mi Salvador",
-        "¡Cristo, Cristo! Tuyo seré Señor",
-        "Te seguiré donde quieras",
-        "Si tú guiándome vas",
-        "Y al terminar mi carrera,",
-        "En Gloria, veré tu faz."
+        [
+          "¡Cristo, Cristo! Tú eres mi Salvador",
+          "¡Cristo, Cristo! Tuyo seré Señor",
+          "Te seguiré donde quieras",
+          "Si tú guiándome vas",
+          "Y al terminar mi carrera,",
+          "En Gloria, veré tu faz."
+        ]
       ],
       "estrofas": [
         [
@@ -12921,10 +13419,12 @@
       "nota": "Do mayor (C)",
       "compas": "",
       "coro": [
-        "¡Gloria, gloria! Gozo sin fin traerá,",
-        "¡Gloria, gloria! Al coronarle Rey;",
-        "¡Gloria, gloria! La senda preparad,",
-        "¡Gloria, gloria! Fuerte viene otra vez."
+        [
+          "¡Gloria, gloria! Gozo sin fin traerá,",
+          "¡Gloria, gloria! Al coronarle Rey;",
+          "¡Gloria, gloria! La senda preparad,",
+          "¡Gloria, gloria! Fuerte viene otra vez."
+        ]
       ],
       "estrofas": [
         [
@@ -12966,11 +13466,13 @@
       "nota": "La mayor (A)",
       "compas": "3 tiempos",
       "coro": [
-        "Allá quiero estar, allá quiero estar,",
-        "Ver a Jesús el Salvador y con Él morar,",
-        "Con Él morar.",
-        "Allá quiero estar, allá quiero estar",
-        "Allí alabanzas a Jesús podré entonar."
+        [
+          "Allá quiero estar, allá quiero estar,",
+          "Ver a Jesús el Salvador y con Él morar,",
+          "Con Él morar.",
+          "Allá quiero estar, allá quiero estar",
+          "Allí alabanzas a Jesús podré entonar."
+        ]
       ],
       "estrofas": [
         [
@@ -13010,10 +13512,12 @@
       "nota": "Sol mayor (G)",
       "compas": "3 tiempos",
       "coro": [
-        "Ha de venir, sí, ha de venir,",
-        "El avivamiento tendrá que venir.",
-        "Obedezcamos, tengamos fe,",
-        "Que el avivamiento tendrá que venir."
+        [
+          "Ha de venir, sí, ha de venir,",
+          "El avivamiento tendrá que venir.",
+          "Obedezcamos, tengamos fe,",
+          "Que el avivamiento tendrá que venir."
+        ]
       ],
       "estrofas": [
         [
@@ -13098,11 +13602,13 @@
       "nota": "Mi menor (Em)",
       "compas": "2 tiempos",
       "coro": [
-        "Obedece, amigo, al llamado del Señor,",
-        "No digas, no digas: mañana iré;",
-        "Ven ahora mismo, te llama el Salvador,",
-        "Decídete y dice: del Señor seré;",
-        "Y en brazos gozarás de su amor."
+        [
+          "Obedece, amigo, al llamado del Señor,",
+          "No digas, no digas: mañana iré;",
+          "Ven ahora mismo, te llama el Salvador,",
+          "Decídete y dice: del Señor seré;",
+          "Y en brazos gozarás de su amor."
+        ]
       ],
       "estrofas": [
         [
@@ -13151,10 +13657,12 @@
       "nota": "Do mayor (C)",
       "compas": "3 tiempos",
       "coro": [
-        "¡Gloria a Jesús, Gloria a Jesús!",
-        "¡Oh! pecador, vuelve al Dios de amor;",
-        "¡Gloria a Jesús, Gloria a Jesús!",
-        "Por su sangre limpio soy, ¡Gloria a Jesús!"
+        [
+          "¡Gloria a Jesús, Gloria a Jesús!",
+          "¡Oh! pecador, vuelve al Dios de amor;",
+          "¡Gloria a Jesús, Gloria a Jesús!",
+          "Por su sangre limpio soy, ¡Gloria a Jesús!"
+        ]
       ],
       "estrofas": [
         [
@@ -13190,10 +13698,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Quiero ver aquella Tierra",
-        "Donde sombras ya no habrá;",
-        "Quiero estar en las moradas",
-        "De Jesús, mi Salvador."
+        [
+          "Quiero ver aquella Tierra",
+          "Donde sombras ya no habrá;",
+          "Quiero estar en las moradas",
+          "De Jesús, mi Salvador."
+        ]
       ],
       "estrofas": [
         [
@@ -13235,10 +13745,12 @@
       "nota": "Do mayor (C)",
       "compas": "2 tiempos",
       "coro": [
-        "\"Ven a Mí, ven a Mí, quiero hacerte descansar\";",
-        "Dice Cristo, invitando al pecador;",
-        "\"Si tu carga es tan pesada y no puedes,",
-        "Hijo mío, dame hoy tu corazón\"."
+        [
+          "\"Ven a Mí, ven a Mí, quiero hacerte descansar\";",
+          "Dice Cristo, invitando al pecador;",
+          "\"Si tu carga es tan pesada y no puedes,",
+          "Hijo mío, dame hoy tu corazón\"."
+        ]
       ],
       "estrofas": [
         [
@@ -13274,10 +13786,12 @@
       "nota": "Mi mayor (E)",
       "compas": "2 tiempos",
       "coro": [
-        "Confía en Jesús, Él la roca es,",
-        "La roca es, la roca es:",
-        "Confía en Jesús, Él la roca es,",
-        "La fuerte roca en tempestad."
+        [
+          "Confía en Jesús, Él la roca es,",
+          "La roca es, la roca es:",
+          "Confía en Jesús, Él la roca es,",
+          "La fuerte roca en tempestad."
+        ]
       ],
       "estrofas": [
         [
@@ -13313,10 +13827,12 @@
       "nota": "La mayor (A)",
       "compas": "3 tiempos",
       "coro": [
-        "Peregrino soy aquí,",
-        "Mi patria lejos está;",
-        "Pero un día sé que allí",
-        "Gozaré por la eternidad."
+        [
+          "Peregrino soy aquí,",
+          "Mi patria lejos está;",
+          "Pero un día sé que allí",
+          "Gozaré por la eternidad."
+        ]
       ],
       "estrofas": [
         [
@@ -13346,10 +13862,12 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "¡Oh! qué bello y dulce es",
-        "El amor de mi Jesús;",
-        "El amor que de mí tuvo,",
-        "Gratamente alabaré."
+        [
+          "¡Oh! qué bello y dulce es",
+          "El amor de mi Jesús;",
+          "El amor que de mí tuvo,",
+          "Gratamente alabaré."
+        ]
       ],
       "estrofas": [
         [
@@ -13379,10 +13897,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Feliz año nuevo, hermanos,",
-        "Con Cristo les deseamos",
-        "Y muy grandes bendiciones,",
-        "Para vuestros corazones."
+        [
+          "Feliz año nuevo, hermanos,",
+          "Con Cristo les deseamos",
+          "Y muy grandes bendiciones,",
+          "Para vuestros corazones."
+        ]
       ],
       "estrofas": [
         [
@@ -13412,12 +13932,14 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Lo de más valor para el Salvador,",
-        "Es llevar el mundo entero",
-        "A los pies del Señor.",
-        "Repitamos sí, por todo lugar",
-        "Que Jesucristo murió",
-        "Por rescatar al pecador."
+        [
+          "Lo de más valor para el Salvador,",
+          "Es llevar el mundo entero",
+          "A los pies del Señor.",
+          "Repitamos sí, por todo lugar",
+          "Que Jesucristo murió",
+          "Por rescatar al pecador."
+        ]
       ],
       "estrofas": [
         [
@@ -13459,10 +13981,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "De ti separada, vagando alejada",
-        "Por valle de muerte, pecado y desgracia;",
-        "Sin pensar en Jesucristo,",
-        "Estrella de la mañana."
+        [
+          "De ti separada, vagando alejada",
+          "Por valle de muerte, pecado y desgracia;",
+          "Sin pensar en Jesucristo,",
+          "Estrella de la mañana."
+        ]
       ],
       "estrofas": [
         [
@@ -13538,10 +14062,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "¡Escuchad!, ved ahí",
-        "La barca que va a naufragar;",
-        "¡Escuchad, id allí!",
-        "El pronto socorro a prestar."
+        [
+          "¡Escuchad!, ved ahí",
+          "La barca que va a naufragar;",
+          "¡Escuchad, id allí!",
+          "El pronto socorro a prestar."
+        ]
       ],
       "estrofas": [
         [
@@ -13583,10 +14109,12 @@
       "nota": "La mayor (A)",
       "compas": "2 tiempos",
       "coro": [
-        "Si, fue por mí.",
-        "Sí, fue por mí,",
-        "Fue por mí; murió Jesús",
-        "En la vergonzosa Cruz."
+        [
+          "Si, fue por mí.",
+          "Sí, fue por mí,",
+          "Fue por mí; murió Jesús",
+          "En la vergonzosa Cruz."
+        ]
       ],
       "estrofas": [
         [
@@ -13628,10 +14156,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Heraldos de Cristo, nuestro nombre es",
-        "Y las nuevas damos de Jesús el Rey,",
-        "Que ofrece a las almas grata Salvación;",
-        "Somos los heraldos de la Redención."
+        [
+          "Heraldos de Cristo, nuestro nombre es",
+          "Y las nuevas damos de Jesús el Rey,",
+          "Que ofrece a las almas grata Salvación;",
+          "Somos los heraldos de la Redención."
+        ]
       ],
       "estrofas": [
         [
@@ -13667,12 +14197,14 @@
       "nota": "Mi mayor (E)",
       "compas": "2 tiempos",
       "coro": [
-        "Y estarás allá",
-        "Cuando las canciones en la gloria",
-        "Como ruido de agua fuerte, sonarán;",
-        "Y estarás allá",
-        "Cuando los redimidos entrarán",
-        "En el cielo y cantarán a Dios."
+        [
+          "Y estarás allá",
+          "Cuando las canciones en la gloria",
+          "Como ruido de agua fuerte, sonarán;",
+          "Y estarás allá",
+          "Cuando los redimidos entrarán",
+          "En el cielo y cantarán a Dios."
+        ]
       ],
       "estrofas": [
         [
@@ -13808,10 +14340,12 @@
       "nota": "Do mayor (C)",
       "compas": "2 tiempos",
       "coro": [
-        "Pon tu Espíritu en mi alma,",
-        "Hazme lo que ser debiera;",
-        "Hazme puro en todo, limpio de pecado,",
-        "Pon tu Espíritu en mí."
+        [
+          "Pon tu Espíritu en mi alma,",
+          "Hazme lo que ser debiera;",
+          "Hazme puro en todo, limpio de pecado,",
+          "Pon tu Espíritu en mí."
+        ]
       ],
       "estrofas": [
         [
@@ -13841,10 +14375,12 @@
       "nota": "La mayor (A)",
       "compas": "3 tiempos",
       "coro": [
-        "Dios cuidará de ti",
-        "Y por doquier contigo irá;",
-        "Dios cuidará de ti",
-        "Nada te faltará."
+        [
+          "Dios cuidará de ti",
+          "Y por doquier contigo irá;",
+          "Dios cuidará de ti",
+          "Nada te faltará."
+        ]
       ],
       "estrofas": [
         [
@@ -13880,10 +14416,12 @@
       "nota": "Do mayor (C)",
       "compas": "2 tiempos",
       "coro": [
-        "Toma mi ser, tan sólo tuyo es;",
-        "Todo, toma mi ser, lo doy, Señor, a ti,",
-        "Mi corazón imploro limpies, sí.",
-        "Heme aquí, soy tuyo por la eternidad."
+        [
+          "Toma mi ser, tan sólo tuyo es;",
+          "Todo, toma mi ser, lo doy, Señor, a ti,",
+          "Mi corazón imploro limpies, sí.",
+          "Heme aquí, soy tuyo por la eternidad."
+        ]
       ],
       "estrofas": [
         [
@@ -13913,11 +14451,13 @@
       "nota": "Do mayor (C)",
       "compas": "3 tiempos",
       "coro": [
-        "Ven mortal, cantad al Señor Dios,",
-        "Ven al Hijo, load con vuestra voz;",
-        "Gozo trajo al mundo, paz y amor,",
-        "Alabadle, ¡gloria! dadle",
-        "¡Gloria al Rey!"
+        [
+          "Ven mortal, cantad al Señor Dios,",
+          "Ven al Hijo, load con vuestra voz;",
+          "Gozo trajo al mundo, paz y amor,",
+          "Alabadle, ¡gloria! dadle",
+          "¡Gloria al Rey!"
+        ]
       ],
       "estrofas": [
         [
@@ -14003,14 +14543,16 @@
       "nota": "Do mayor (C)",
       "compas": "4 tiempos",
       "coro": [
-        "Ven y ve los campos blancos como están,",
-        "Aguardando manos que los segarán;",
-        "Joven despierta, hazlo pronto, y alerta;",
-        "Sé el primero en decirle: ¡heme aquí, Señor!",
-        "Por doquier se inclina la madura mies,",
-        "Que las auras mueven y qué bella es.",
-        "Joven, despierta, hazlo pronto y alerta;",
-        "Pocos días hay que restan para el segador."
+        [
+          "Ven y ve los campos blancos como están,",
+          "Aguardando manos que los segarán;",
+          "Joven despierta, hazlo pronto, y alerta;",
+          "Sé el primero en decirle: ¡heme aquí, Señor!",
+          "Por doquier se inclina la madura mies,",
+          "Que las auras mueven y qué bella es.",
+          "Joven, despierta, hazlo pronto y alerta;",
+          "Pocos días hay que restan para el segador."
+        ]
       ],
       "estrofas": [
         [
@@ -14040,10 +14582,12 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Me redimió; mas no con plata",
-        "Me compró el Salvador;",
-        "Con oro no; mas con su sangre;",
-        "Grande precio de su amor."
+        [
+          "Me redimió; mas no con plata",
+          "Me compró el Salvador;",
+          "Con oro no; mas con su sangre;",
+          "Grande precio de su amor."
+        ]
       ],
       "estrofas": [
         [
@@ -14129,10 +14673,12 @@
       "nota": "Mi mayor (E)",
       "compas": "3 tiempos",
       "coro": [
-        "No zozobrará;",
-        "¡No zozobrará!",
-        "Aunque porfié la dificultad;",
-        "Cristo al timón va."
+        [
+          "No zozobrará;",
+          "¡No zozobrará!",
+          "Aunque porfié la dificultad;",
+          "Cristo al timón va."
+        ]
       ],
       "estrofas": [
         [
@@ -14168,10 +14714,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "No rechaces la voz tan amante",
-        "De Jesús tu benigno Señor,",
-        "A la paz y pureza Él te llama;",
-        "Al Edén del celeste fulgor."
+        [
+          "No rechaces la voz tan amante",
+          "De Jesús tu benigno Señor,",
+          "A la paz y pureza Él te llama;",
+          "Al Edén del celeste fulgor."
+        ]
       ],
       "estrofas": [
         [
@@ -14261,14 +14809,16 @@
       "nota": "Mi mayor (E)",
       "compas": "3 tiempos",
       "coro": [
-        "Yo voy a la patria del alma,",
-        "Do Cristo prepara mi hogar;",
-        "Do todos los santificados",
-        "Irán para siempre a gozar.",
-        "El día feliz ya se acerca",
-        "En que el sol para mí se pondrá",
-        "¡Oh, qué gozo será cuando mire al Señor",
-        "En aquella hermosa ciudad!"
+        [
+          "Yo voy a la patria del alma,",
+          "Do Cristo prepara mi hogar;",
+          "Do todos los santificados",
+          "Irán para siempre a gozar.",
+          "El día feliz ya se acerca",
+          "En que el sol para mí se pondrá",
+          "¡Oh, qué gozo será cuando mire al Señor",
+          "En aquella hermosa ciudad!"
+        ]
       ],
       "estrofas": [
         [
@@ -14388,10 +14938,12 @@
       "nota": "Re mayor (D)",
       "compas": "3 tiempos",
       "coro": [
-        "Si queréis, pues, disfrutar,",
-        "Si queréis gozar, reír;",
-        "Sigue el bien y deja el mal",
-        "Y tendrás Vida sin fin."
+        [
+          "Si queréis, pues, disfrutar,",
+          "Si queréis gozar, reír;",
+          "Sigue el bien y deja el mal",
+          "Y tendrás Vida sin fin."
+        ]
       ],
       "estrofas": [
         [
@@ -14427,10 +14979,12 @@
       "nota": "Mi mayor (E)",
       "compas": "2 tiempos",
       "coro": [
-        "Tu promesa nos dice Señor,",
-        "Que por siempre nos ayudarás;",
-        "Que ninguno vació se irá",
-        "Que en tu templo esta noche estarás."
+        [
+          "Tu promesa nos dice Señor,",
+          "Que por siempre nos ayudarás;",
+          "Que ninguno vació se irá",
+          "Que en tu templo esta noche estarás."
+        ]
       ],
       "estrofas": [
         [
@@ -14460,10 +15014,12 @@
       "nota": "La mayor (A)",
       "compas": "2 tiempos",
       "coro": [
-        "Que yo no te cause tan grande dolor",
-        "Y ande extraviado muy lejos de tí",
-        "Que yo no te haga correr y correr",
-        "Por lugares solos porque me perdí."
+        [
+          "Que yo no te cause tan grande dolor",
+          "Y ande extraviado muy lejos de tí",
+          "Que yo no te haga correr y correr",
+          "Por lugares solos porque me perdí."
+        ]
       ],
       "estrofas": [
         [
@@ -14499,10 +15055,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Llámate hoy a ti",
-        "Cansado pródigo, ven",
-        "Llámate hoy a ti",
-        "Cansado pródigo, ven."
+        [
+          "Llámate hoy a ti",
+          "Cansado pródigo, ven",
+          "Llámate hoy a ti",
+          "Cansado pródigo, ven."
+        ]
       ],
       "estrofas": [
         [
@@ -14541,10 +15099,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Caminaremos y lucharemos",
-        "Hasta llegar a la presencia del Señor.",
-        "Obedeciendo el mandato que Él nos dejó",
-        "Triunfaremos con el Salvador."
+        [
+          "Caminaremos y lucharemos",
+          "Hasta llegar a la presencia del Señor.",
+          "Obedeciendo el mandato que Él nos dejó",
+          "Triunfaremos con el Salvador."
+        ]
       ],
       "estrofas": [
         [
@@ -14572,13 +15132,15 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Cantemos siempre, sí, al gran Señor.",
-        "Nuestros labios propaguen",
-        "La Esperanza, la fe y el amor.",
-        "Por los campos, por los montes",
-        "Cantaremos sin cesar;",
-        "Glorias al gran Señor",
-        "Por siempre serán."
+        [
+          "Cantemos siempre, sí, al gran Señor.",
+          "Nuestros labios propaguen",
+          "La Esperanza, la fe y el amor.",
+          "Por los campos, por los montes",
+          "Cantaremos sin cesar;",
+          "Glorias al gran Señor",
+          "Por siempre serán."
+        ]
       ],
       "estrofas": [
         [
@@ -14688,10 +15250,12 @@
       "nota": "Do mayor (C)",
       "compas": "2 tiempos",
       "coro": [
-        "Yo guiaré, yo guiaré",
-        "Al sediento de Vida y de luz;",
-        "Yo guiaré, yo guiaré",
-        "Al perdido; a los pies de Jesús."
+        [
+          "Yo guiaré, yo guiaré",
+          "Al sediento de Vida y de luz;",
+          "Yo guiaré, yo guiaré",
+          "Al perdido; a los pies de Jesús."
+        ]
       ],
       "estrofas": [
         [
@@ -14721,10 +15285,12 @@
       "nota": "La mayor (A)",
       "compas": "",
       "coro": [
-        "¡Sí, resuena; sí resuena!",
-        "El Evangelio del buen Jesús",
-        "Para que todo el que en Él crea,",
-        "Aunque esté ciego, vea la luz."
+        [
+          "¡Sí, resuena; sí resuena!",
+          "El Evangelio del buen Jesús",
+          "Para que todo el que en Él crea,",
+          "Aunque esté ciego, vea la luz."
+        ]
       ],
       "estrofas": [
         [
@@ -14754,8 +15320,10 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Oye la voz del Salvador",
-        "Y no endurezcas tu corazón."
+        [
+          "Oye la voz del Salvador",
+          "Y no endurezcas tu corazón."
+        ]
       ],
       "estrofas": [
         [
@@ -14791,10 +15359,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Inspirados en amor cristiano",
-        "Os venimos hoy a visitar",
-        "Y que ese fuego del Santo cielo,",
-        "A todos nos venga a bautizar."
+        [
+          "Inspirados en amor cristiano",
+          "Os venimos hoy a visitar",
+          "Y que ese fuego del Santo cielo,",
+          "A todos nos venga a bautizar."
+        ]
       ],
       "estrofas": [
         [
@@ -14826,10 +15396,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Danzar hermanos, danzar al Señor",
-        "Todos de rodillas, pidamos perdón",
-        "Para que miremos",
-        "La Gloria de Dios."
+        [
+          "Danzar hermanos, danzar al Señor",
+          "Todos de rodillas, pidamos perdón",
+          "Para que miremos",
+          "La Gloria de Dios."
+        ]
       ],
       "estrofas": [
         [
@@ -14859,10 +15431,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Triunfarán, triunfarán,",
-        "Las armas divinas la lid ganarán.",
-        "Es invencible la hueste de Sion,",
-        "¡Adelante con valor, Iglesia del Señor!"
+        [
+          "Triunfarán, triunfarán,",
+          "Las armas divinas la lid ganarán.",
+          "Es invencible la hueste de Sion,",
+          "¡Adelante con valor, Iglesia del Señor!"
+        ]
       ],
       "estrofas": [
         [
@@ -14892,9 +15466,11 @@
       "nota": "Do mayor (C)",
       "compas": "3 tiempos",
       "coro": [
-        "¡Gloria a ti, Gloria a ti! ¡oh! Salvador.",
-        "Fuente de amor. ¡Gloria a ti, Gloria a ti!",
-        "Gracia que Jesús nos da ¡Gloria a ti!"
+        [
+          "¡Gloria a ti, Gloria a ti! ¡oh! Salvador.",
+          "Fuente de amor. ¡Gloria a ti, Gloria a ti!",
+          "Gracia que Jesús nos da ¡Gloria a ti!"
+        ]
       ],
       "estrofas": [
         [
@@ -14930,10 +15506,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Si Cristo conmigo va, yo iré y no temeré.",
-        "Con gozo iré contigo.",
-        "Es grato servir a Jesús, llevar la Cruz;",
-        "Si Cristo conmigo va, yo iré."
+        [
+          "Si Cristo conmigo va, yo iré y no temeré.",
+          "Con gozo iré contigo.",
+          "Es grato servir a Jesús, llevar la Cruz;",
+          "Si Cristo conmigo va, yo iré."
+        ]
       ],
       "estrofas": [
         [
@@ -14957,10 +15535,12 @@
       "nota": "Re mayor (D)",
       "compas": "3 tiempos",
       "coro": [
-        "Un Dios, un Dios,",
-        "Un Dios por galardón;",
-        "Un Dios, un Dios,",
-        "Un Dios por galardón."
+        [
+          "Un Dios, un Dios,",
+          "Un Dios por galardón;",
+          "Un Dios, un Dios,",
+          "Un Dios por galardón."
+        ]
       ],
       "estrofas": [
         [
@@ -15002,10 +15582,12 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Evangelista, siempre adelante,",
-        "Nuestro estandarte flameando está",
-        "Y el enemigo, será vencido",
-        "Y la victoria, nuestra será."
+        [
+          "Evangelista, siempre adelante,",
+          "Nuestro estandarte flameando está",
+          "Y el enemigo, será vencido",
+          "Y la victoria, nuestra será."
+        ]
       ],
       "estrofas": [
         [
@@ -15075,10 +15657,12 @@
       "nota": "Mi menor (Em)",
       "compas": "3 tiempos",
       "coro": [
-        "¿Cómo no he de",
-        "Cantarte a ti,",
-        "Canción nueva",
-        "De gratitud?"
+        [
+          "¿Cómo no he de",
+          "Cantarte a ti,",
+          "Canción nueva",
+          "De gratitud?"
+        ]
       ],
       "estrofas": [
         [
@@ -15114,14 +15698,16 @@
       "nota": "La mayor (A)",
       "compas": "2 tiempos",
       "coro": [
-        "¡Oh! firmes con Él",
-        "Al sin igual país de Canaán marchemos.",
-        "¡Oh! firmes con Él,",
-        "Su dirección no nos ha de faltar jamás.",
-        "¡Oh! firmes con Él",
-        "Al sin igual país de Canaán marchemos.",
-        "¡Oh! firmes con Él",
-        "Y ya con Él caminaremos más y más."
+        [
+          "¡Oh! firmes con Él",
+          "Al sin igual país de Canaán marchemos.",
+          "¡Oh! firmes con Él,",
+          "Su dirección no nos ha de faltar jamás.",
+          "¡Oh! firmes con Él",
+          "Al sin igual país de Canaán marchemos.",
+          "¡Oh! firmes con Él",
+          "Y ya con Él caminaremos más y más."
+        ]
       ],
       "estrofas": [
         [
@@ -15163,10 +15749,12 @@
       "nota": "La mayor (A)",
       "compas": "2 tiempos",
       "coro": [
-        "Nos veremos, nos veremos.",
-        "Nos veremos de la Tierra más allá.",
-        "Nos veremos, nos veremos",
-        "Junto al río cristalino más allá."
+        [
+          "Nos veremos, nos veremos.",
+          "Nos veremos de la Tierra más allá.",
+          "Nos veremos, nos veremos",
+          "Junto al río cristalino más allá."
+        ]
       ],
       "estrofas": [
         [
@@ -15202,12 +15790,14 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Por un mundo de justicia;",
-        "¡Adelante, ganaremos victoria!",
-        "Anunciad el mundo nuevo,",
-        "Depurado de pecado.",
-        "¡Firmes, que Jesús nos guía,",
-        "Escuchad su voz!"
+        [
+          "Por un mundo de justicia;",
+          "¡Adelante, ganaremos victoria!",
+          "Anunciad el mundo nuevo,",
+          "Depurado de pecado.",
+          "¡Firmes, que Jesús nos guía,",
+          "Escuchad su voz!"
+        ]
       ],
       "estrofas": [
         [
@@ -15336,10 +15926,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Cristo, Cristo reina,",
-        "Cristo, Cristo reina",
-        "¡Gloria, gloria! entonad al Rey,",
-        "¡Gloria, gloria! a nuestro Dios de amor."
+        [
+          "Cristo, Cristo reina,",
+          "Cristo, Cristo reina",
+          "¡Gloria, gloria! entonad al Rey,",
+          "¡Gloria, gloria! a nuestro Dios de amor."
+        ]
       ],
       "estrofas": [
         [
@@ -15419,10 +16011,12 @@
       "nota": "",
       "compas": "2 tiempos",
       "coro": [
-        "Muy cerca de mi Redentor",
-        "Seguro asilo encontraré;",
-        "Me guardará del tentador",
-        "Y yo de nada temeré."
+        [
+          "Muy cerca de mi Redentor",
+          "Seguro asilo encontraré;",
+          "Me guardará del tentador",
+          "Y yo de nada temeré."
+        ]
       ],
       "estrofas": [
         [
@@ -15452,10 +16046,12 @@
       "nota": "Mi menor (Em)",
       "compas": "3 tiempos",
       "coro": [
-        "Gracias te doy, Señor,",
-        "Gracias te doy, Señor;",
-        "Me lavaste, me perdonaste;",
-        "Me limpiaste mi corazón."
+        [
+          "Gracias te doy, Señor,",
+          "Gracias te doy, Señor;",
+          "Me lavaste, me perdonaste;",
+          "Me limpiaste mi corazón."
+        ]
       ],
       "estrofas": [
         [
@@ -15488,11 +16084,13 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "En el principio era el verbo",
-        "Y el verbo estaba con Dios;",
-        "Todas las cosas se hicieron por Él.",
-        "En Él estaba la Vida",
-        "Y la luz de los hombres también."
+        [
+          "En el principio era el verbo",
+          "Y el verbo estaba con Dios;",
+          "Todas las cosas se hicieron por Él.",
+          "En Él estaba la Vida",
+          "Y la luz de los hombres también."
+        ]
       ],
       "estrofas": [
         [
@@ -15544,10 +16142,12 @@
       "nota": "Do mayor (C)",
       "compas": "2 tiempos",
       "coro": [
-        "Cuando Dios la sangre ve,",
-        "Cuando Dios la sangre ve",
-        "En la cual el pecador",
-        "Se lavó, le verá con favor."
+        [
+          "Cuando Dios la sangre ve,",
+          "Cuando Dios la sangre ve",
+          "En la cual el pecador",
+          "Se lavó, le verá con favor."
+        ]
       ],
       "estrofas": [
         [
@@ -15661,10 +16261,12 @@
       "nota": "Do mayor (C)",
       "compas": "2 tiempos",
       "coro": [
-        "Bajo el olivar, bajo el olivar,",
-        "Fue mi Cristo a solas a orar.",
-        "Sea tu voluntad, oh Padre celestial",
-        "Cuando oró bajo el olivar."
+        [
+          "Bajo el olivar, bajo el olivar,",
+          "Fue mi Cristo a solas a orar.",
+          "Sea tu voluntad, oh Padre celestial",
+          "Cuando oró bajo el olivar."
+        ]
       ],
       "estrofas": [
         [
@@ -15698,9 +16300,11 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Más allá del sol, más allá del sol",
-        "Yo tengo un hogar, hogar, bello hogar,",
-        "Más allá del sol."
+        [
+          "Más allá del sol, más allá del sol",
+          "Yo tengo un hogar, hogar, bello hogar,",
+          "Más allá del sol."
+        ]
       ],
       "estrofas": [
         [
@@ -15782,10 +16386,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Vamos marchando, tengamos valor",
-        "Armas no sobran, nos manda el Señor,",
-        "Conflicto terrible Satán provocó",
-        "Las armas tomemos, que ya comenzó."
+        [
+          "Vamos marchando, tengamos valor",
+          "Armas no sobran, nos manda el Señor,",
+          "Conflicto terrible Satán provocó",
+          "Las armas tomemos, que ya comenzó."
+        ]
       ],
       "estrofas": [
         [
@@ -15821,10 +16427,12 @@
       "nota": "Do mayor (C)",
       "compas": "",
       "coro": [
-        "Seguiré siempre adelante",
-        "Escudado por mi Dios,",
-        "A las órdenes del jefe",
-        "Que me guía con su santa voz."
+        [
+          "Seguiré siempre adelante",
+          "Escudado por mi Dios,",
+          "A las órdenes del jefe",
+          "Que me guía con su santa voz."
+        ]
       ],
       "estrofas": [
         [
@@ -15854,11 +16462,13 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Viva la Gracia que el Señor me ha dado.",
-        "Viva su reino para siempre jamás.",
-        "Seré soldado fiel hasta la muerte,",
-        "Porque en Jesús he encontrado paz.",
-        "Porque en Jesús he encontrado paz."
+        [
+          "Viva la Gracia que el Señor me ha dado.",
+          "Viva su reino para siempre jamás.",
+          "Seré soldado fiel hasta la muerte,",
+          "Porque en Jesús he encontrado paz.",
+          "Porque en Jesús he encontrado paz."
+        ]
       ],
       "estrofas": [
         [
@@ -15888,10 +16498,12 @@
       "nota": "Do mayor (C)",
       "compas": "2 tiempos",
       "coro": [
-        "Mi corazón entona la canción",
-        "Cuán grande es Él, cuán grande es Él.",
-        "Mi corazón entona la canción",
-        "Cuán grande es Él, cuán grande es Él."
+        [
+          "Mi corazón entona la canción",
+          "Cuán grande es Él, cuán grande es Él.",
+          "Mi corazón entona la canción",
+          "Cuán grande es Él, cuán grande es Él."
+        ]
       ],
       "estrofas": [
         [
@@ -15927,11 +16539,13 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "No habrá necesidad de la luz y el resplandor,",
-        "Ni el sol dará su luz ni tampoco su calor.",
-        "Allí llanto no habrá, ni tristeza ni dolor",
-        "Porque entonces Jesús el Rey del cielo,",
-        "Para siempre será el consolador."
+        [
+          "No habrá necesidad de la luz y el resplandor,",
+          "Ni el sol dará su luz ni tampoco su calor.",
+          "Allí llanto no habrá, ni tristeza ni dolor",
+          "Porque entonces Jesús el Rey del cielo,",
+          "Para siempre será el consolador."
+        ]
       ],
       "estrofas": [
         [
@@ -15961,10 +16575,12 @@
       "nota": "La menor (Am)",
       "compas": "3 tiempos",
       "coro": [
-        "Animo hermanos, miremos a Jesús,",
-        "No desmayemos Cristo aquí está;",
-        "Lleno de sangre dispuesto ya está",
-        "Para dar ánimo al que desmayó."
+        [
+          "Animo hermanos, miremos a Jesús,",
+          "No desmayemos Cristo aquí está;",
+          "Lleno de sangre dispuesto ya está",
+          "Para dar ánimo al que desmayó."
+        ]
       ],
       "estrofas": [
         [
@@ -15994,10 +16610,12 @@
       "nota": "La mayor (A)",
       "compas": "3 tiempos",
       "coro": [
-        "Venid... venid... a mi",
-        "Si estás cansados venid,",
-        "¡Cuán tiernamente nos está llamando!",
-        "¡Oh, pecadores, venid!"
+        [
+          "Venid... venid... a mi",
+          "Si estás cansados venid,",
+          "¡Cuán tiernamente nos está llamando!",
+          "¡Oh, pecadores, venid!"
+        ]
       ],
       "estrofas": [
         [
@@ -16059,10 +16677,12 @@
       "nota": "La mayor (A)",
       "compas": "2 tiempos",
       "coro": [
-        "Saludemos la nueva alborada",
-        "Inundando las almas de amor",
-        "Nos dará en su mansión estrellada",
-        "La promesa de un mundo mejor."
+        [
+          "Saludemos la nueva alborada",
+          "Inundando las almas de amor",
+          "Nos dará en su mansión estrellada",
+          "La promesa de un mundo mejor."
+        ]
       ],
       "estrofas": [
         [
@@ -16098,14 +16718,16 @@
       "nota": "La mayor (A)",
       "compas": "2 tiempos",
       "coro": [
-        "A Dios sea la gloria",
-        "Los ángeles cantaron",
-        "Y paz sobre la Tierra,",
-        "Al hombre ha visitado.",
-        "Jesús al Hijo Eterno",
-        "Del Dios que es todo amor,",
-        "Jesús que vino a dar",
-        "Salud al pecador."
+        [
+          "A Dios sea la gloria",
+          "Los ángeles cantaron",
+          "Y paz sobre la Tierra,",
+          "Al hombre ha visitado.",
+          "Jesús al Hijo Eterno",
+          "Del Dios que es todo amor,",
+          "Jesús que vino a dar",
+          "Salud al pecador."
+        ]
       ],
       "estrofas": [
         [
@@ -16141,12 +16763,14 @@
       "nota": "La mayor (A)",
       "compas": "4 tiempos",
       "coro": [
-        "¡Libre...! ¡salvo...!",
-        "(libre de penas, salvo de dudas)",
-        "De cuidados y temor.",
-        "¡Libre...! ¡salvo...!",
-        "(libre de penas, salvo de dudas)",
-        "En los brazos de mi Salvador."
+        [
+          "¡Libre...! ¡salvo...!",
+          "(libre de penas, salvo de dudas)",
+          "De cuidados y temor.",
+          "¡Libre...! ¡salvo...!",
+          "(libre de penas, salvo de dudas)",
+          "En los brazos de mi Salvador."
+        ]
       ],
       "estrofas": [
         [
@@ -16176,10 +16800,12 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Esa roca es Jesucristo,",
-        "El fundamento en la fe.",
-        "Vengan ríos, soplen vientos,",
-        "La casa no ha de caer."
+        [
+          "Esa roca es Jesucristo,",
+          "El fundamento en la fe.",
+          "Vengan ríos, soplen vientos,",
+          "La casa no ha de caer."
+        ]
       ],
       "estrofas": [
         [
@@ -16215,10 +16841,12 @@
       "nota": "La mayor (A)",
       "compas": "2 tiempos",
       "coro": [
-        "Sólo seguiremos al Señor Jesús",
-        "Que pertenecemos, solamente a Él.",
-        "Somos los heraldos, de la excelsa Cruz,",
-        "Y el nos reserva, celestial laurel."
+        [
+          "Sólo seguiremos al Señor Jesús",
+          "Que pertenecemos, solamente a Él.",
+          "Somos los heraldos, de la excelsa Cruz,",
+          "Y el nos reserva, celestial laurel."
+        ]
       ],
       "estrofas": [
         [
@@ -16300,10 +16928,12 @@
       "nota": "Re mayor (D)",
       "compas": "4 tiempos",
       "coro": [
-        "Velad, velad, velad, no sabemos",
-        "En la hora que Él vendrá.",
-        "Orad, orad, orad, pronto viene",
-        "Jesús a reinar."
+        [
+          "Velad, velad, velad, no sabemos",
+          "En la hora que Él vendrá.",
+          "Orad, orad, orad, pronto viene",
+          "Jesús a reinar."
+        ]
       ],
       "estrofas": [
         [
@@ -16327,16 +16957,18 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "¡Oh, qué feliz! ¡oh, qué feliz!",
-        "Cuando estemos allá,",
-        "¡Oh, qué feliz!",
-        "En las calles de oro.",
-        "Qué contento estaré.",
-        "¡Oh, qué feliz! ¡oh, qué feliz!",
-        "Cuando estemos allá,",
-        "¡Oh, qué feliz!",
-        "Todos juntos alabando",
-        "Al cordero de Dios."
+        [
+          "¡Oh, qué feliz! ¡oh, qué feliz!",
+          "Cuando estemos allá,",
+          "¡Oh, qué feliz!",
+          "En las calles de oro.",
+          "Qué contento estaré.",
+          "¡Oh, qué feliz! ¡oh, qué feliz!",
+          "Cuando estemos allá,",
+          "¡Oh, qué feliz!",
+          "Todos juntos alabando",
+          "Al cordero de Dios."
+        ]
       ],
       "estrofas": [
         [
@@ -16366,10 +16998,12 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Nada, Señor, hemos hecho hasta hoy",
-        "Nada, Señor, hemos hecho hasta hoy,",
-        "Sólo queremos servirte",
-        "Con un limpio corazón."
+        [
+          "Nada, Señor, hemos hecho hasta hoy",
+          "Nada, Señor, hemos hecho hasta hoy,",
+          "Sólo queremos servirte",
+          "Con un limpio corazón."
+        ]
       ],
       "estrofas": [
         [
@@ -16399,12 +17033,14 @@
       "nota": "La mayor (A)",
       "compas": "2 tiempos",
       "coro": [
-        "A sembrar, con gozo hagámoslo,",
-        "Con alegría de corazón,",
-        "Aunque ruja el vendaval y se opongan los del mal,",
-        "A sembrar iremos sin temor,",
-        "Aunque ruja el vendaval y se opongan los del mal,",
-        "A sembrar nos manda el Salvador."
+        [
+          "A sembrar, con gozo hagámoslo,",
+          "Con alegría de corazón,",
+          "Aunque ruja el vendaval y se opongan los del mal,",
+          "A sembrar iremos sin temor,",
+          "Aunque ruja el vendaval y se opongan los del mal,",
+          "A sembrar nos manda el Salvador."
+        ]
       ],
       "estrofas": [
         [
@@ -16434,10 +17070,12 @@
       "nota": "La mayor (A)",
       "compas": "3 tiempos",
       "coro": [
-        "Ya todo dejé por andar en la luz,",
-        "No moro en tinieblas ya más,",
-        "Encuentro la paz en seguir a Jesús",
-        "Y vivo en la luz de su faz."
+        [
+          "Ya todo dejé por andar en la luz,",
+          "No moro en tinieblas ya más,",
+          "Encuentro la paz en seguir a Jesús",
+          "Y vivo en la luz de su faz."
+        ]
       ],
       "estrofas": [
         [
@@ -16473,11 +17111,13 @@
       "nota": "Do mayor (C)",
       "compas": "3 tiempos",
       "coro": [
-        "Suenen hoy, suenen hoy",
-        "Las campanas de navidad,",
-        "Anunciad, anunciad, con dulce voz",
-        "Vino ya, vino ya, el deseado Redentor.",
-        "Al Señor, al Señor, Gloria cantad."
+        [
+          "Suenen hoy, suenen hoy",
+          "Las campanas de navidad,",
+          "Anunciad, anunciad, con dulce voz",
+          "Vino ya, vino ya, el deseado Redentor.",
+          "Al Señor, al Señor, Gloria cantad."
+        ]
       ],
       "estrofas": [
         [
@@ -16506,14 +17146,16 @@
       "nota": "Sol mayor (G)",
       "compas": "2 tiempos",
       "coro": [
-        "Gloria, me salvé",
-        "Y cuánto gozo hay en mí,",
-        "Nunca volveré",
-        "Al vicio vil a quien serví,",
-        "Guerra al alcohol",
-        "Toda mi vida yo le haré",
-        "Y por la fe encontré",
-        "Al Salvador, a quien amé."
+        [
+          "Gloria, me salvé",
+          "Y cuánto gozo hay en mí,",
+          "Nunca volveré",
+          "Al vicio vil a quien serví,",
+          "Guerra al alcohol",
+          "Toda mi vida yo le haré",
+          "Y por la fe encontré",
+          "Al Salvador, a quien amé."
+        ]
       ],
       "estrofas": [
         [
@@ -16555,14 +17197,16 @@
       "nota": "Sol mayor (G)",
       "compas": "4 tiempos",
       "coro": [
-        "Pregonad al mundo",
-        "Esta buena nueva:",
-        "Hay perdón y Salvación",
-        "De Dios la Gracia plena.",
-        "No temáis ningún peligro,",
-        "No huyáis del enemigo",
-        "Dios es nuestro fiel amigo,",
-        "Con valor luchad."
+        [
+          "Pregonad al mundo",
+          "Esta buena nueva:",
+          "Hay perdón y Salvación",
+          "De Dios la Gracia plena.",
+          "No temáis ningún peligro,",
+          "No huyáis del enemigo",
+          "Dios es nuestro fiel amigo,",
+          "Con valor luchad."
+        ]
       ],
       "estrofas": [
         [
@@ -16700,11 +17344,13 @@
       "nota": "La mayor (A)",
       "compas": "2 tiempos",
       "coro": [
-        "Oh yo quiero ir a esa ciudad",
-        "Donde morarán los hijos de Dios",
-        "Yo quiero vivir junto con los santos",
-        "Mi anhelo es estar para siempre allí",
-        "Con mi Salvador."
+        [
+          "Oh yo quiero ir a esa ciudad",
+          "Donde morarán los hijos de Dios",
+          "Yo quiero vivir junto con los santos",
+          "Mi anhelo es estar para siempre allí",
+          "Con mi Salvador."
+        ]
       ],
       "estrofas": [
         [
@@ -16734,10 +17380,12 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Dame tu mano; toma la mía, Dios amado.",
-        "Cuando soy débil me hace más fuerte tu Poder,",
-        "Tu compañía y tu calor, divina mano,",
-        "Me lleva al cielo donde un día te veré."
+        [
+          "Dame tu mano; toma la mía, Dios amado.",
+          "Cuando soy débil me hace más fuerte tu Poder,",
+          "Tu compañía y tu calor, divina mano,",
+          "Me lleva al cielo donde un día te veré."
+        ]
       ],
       "estrofas": [
         [
@@ -16769,14 +17417,16 @@
       "nota": "Re mayor (D)",
       "compas": "2 tiempos",
       "coro": [
-        "Oh Jehová, de mañana oirás mi oración",
-        "De mañana me presentaré ante ti,",
-        "Porque tú eres la razón de mi existir",
-        "Y yo sé, que no eres Dios que se",
-        "complace en la maldad,",
-        "Pues lo malo junto a ti no habitará,",
-        "Ni tus ojos mirarán la iniquidad.",
-        "Así eres tú, así eres tú."
+        [
+          "Oh Jehová, de mañana oirás mi oración",
+          "De mañana me presentaré ante ti,",
+          "Porque tú eres la razón de mi existir",
+          "Y yo sé, que no eres Dios que se",
+          "complace en la maldad,",
+          "Pues lo malo junto a ti no habitará,",
+          "Ni tus ojos mirarán la iniquidad.",
+          "Así eres tú, así eres tú."
+        ]
       ],
       "estrofas": [
         [
@@ -16808,10 +17458,12 @@
       "nota": "Mi menor (Em)",
       "compas": "2 tiempos",
       "coro": [
-        "La Vida eres tú mi Dios",
-        "La puerta eres tú mi Jesús",
-        "Aviva a tu Iglesia aquí",
-        "Que sintamos hoy tu poder."
+        [
+          "La Vida eres tú mi Dios",
+          "La puerta eres tú mi Jesús",
+          "Aviva a tu Iglesia aquí",
+          "Que sintamos hoy tu poder."
+        ]
       ],
       "estrofas": [
         [
@@ -16881,10 +17533,12 @@
       "nota": "Mi menor (Em)",
       "compas": "2 tiempos",
       "coro": [
-        "El rescate está pagado,",
-        "Ya eres libre, pecador.",
-        "El rescate está pagado,",
-        "¡Ya eres libre, pecador!"
+        [
+          "El rescate está pagado,",
+          "Ya eres libre, pecador.",
+          "El rescate está pagado,",
+          "¡Ya eres libre, pecador!"
+        ]
       ],
       "estrofas": [
         [
@@ -16920,10 +17574,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Sin vacilar marchad soldados de Jesús",
-        "Y por la Cruz luchad, armados de virtud",
-        "Sin descansar corred las almas a salvar",
-        "Los perdidos en maldad al Salvador llevad."
+        [
+          "Sin vacilar marchad soldados de Jesús",
+          "Y por la Cruz luchad, armados de virtud",
+          "Sin descansar corred las almas a salvar",
+          "Los perdidos en maldad al Salvador llevad."
+        ]
       ],
       "estrofas": [
         [
@@ -17782,11 +18438,13 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Sumérgeme en el río de tu Espíritu",
-        "Necesito refrescar",
-        "Este seco corazón",
-        "Sediento de ti",
-        "Sumérgeme."
+        [
+          "Sumérgeme en el río de tu Espíritu",
+          "Necesito refrescar",
+          "Este seco corazón",
+          "Sediento de ti",
+          "Sumérgeme."
+        ]
       ],
       "estrofas": [
         [
@@ -17810,9 +18468,11 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Poderoso, en Majestad y Reino; Poderoso",
-        "Poderoso en Potestad e Imperio",
-        "Poderoso."
+        [
+          "Poderoso, en Majestad y Reino; Poderoso",
+          "Poderoso en Potestad e Imperio",
+          "Poderoso."
+        ]
       ],
       "estrofas": [
         [
@@ -17843,14 +18503,16 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Tener quisiera tener,",
-        "Lo que tenía Jesús,",
-        "Sentir una misma cosa,",
-        "Tener una misma luz.",
-        "Poder agradar al Padre,",
-        "Cumpliendo su voluntad,",
-        "Entonces que dicha inmensa,",
-        "Gozar por la eternidad."
+        [
+          "Tener quisiera tener,",
+          "Lo que tenía Jesús,",
+          "Sentir una misma cosa,",
+          "Tener una misma luz.",
+          "Poder agradar al Padre,",
+          "Cumpliendo su voluntad,",
+          "Entonces que dicha inmensa,",
+          "Gozar por la eternidad."
+        ]
       ],
       "estrofas": [
         [
@@ -17888,10 +18550,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Quédate, Señor, que se hace tarde",
-        "Te ofrezco el corazón para posar.",
-        "Hazlo tu morada permanente,",
-        "Acéptalo, acéptalo mi Salvador."
+        [
+          "Quédate, Señor, que se hace tarde",
+          "Te ofrezco el corazón para posar.",
+          "Hazlo tu morada permanente,",
+          "Acéptalo, acéptalo mi Salvador."
+        ]
       ],
       "estrofas": [
         [
@@ -17923,9 +18587,26 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "¡Aquí estoy, aquí estoy!",
-        "¿Quién me quiere salvar?",
-        "¡Aquí estoy!"
+        [
+          "¡Aquí estoy, aquí estoy!",
+          "¿Quién me quiere salvar?",
+          "¡Aquí estoy!"
+        ],
+        [
+          "¡Aquí estoy, aquí estoy!",
+          "¿Quién me quiere salvar?",
+          "¡Aquí estoy!"
+        ],
+        [
+          "¡Gloria a Dios, gloria a Dios!",
+          "Mi alma puede cantar:",
+          "¡Gloria a Dios!"
+        ],
+        [
+          "¡Me salvó, me salvó!",
+          "Muy gozoso dirás:",
+          "¡Me salvó!"
+        ]
       ],
       "estrofas": [
         [
