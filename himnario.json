@@ -107,8 +107,8 @@
     {
       "numero": 4,
       "titulo": "Yo, por Cristo",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -235,8 +235,8 @@
     {
       "numero": 7,
       "titulo": "Venid, con cánticos",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -320,7 +320,7 @@
       "numero": 9,
       "titulo": "Creed, pecadores",
       "nota": "Re mayor (D)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -354,7 +354,7 @@
       "numero": 10,
       "titulo": "Venid pecadores",
       "nota": "Sol mayor (G)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "Sí, sí ¡Venid, oh, venid!",
         "Al cielo, nos llama,",
@@ -398,7 +398,7 @@
       "numero": 11,
       "titulo": "Oidlo, pobre pecador",
       "nota": "Do mayor (C)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "Ven a Cristo, ven a Cristo,",
         "Ven a Emmanuel;",
@@ -430,8 +430,8 @@
     {
       "numero": 12,
       "titulo": "Venid, pecadores a Cristo",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -577,8 +577,8 @@
     {
       "numero": 16,
       "titulo": "Roca abierta",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -612,7 +612,7 @@
       "numero": 17,
       "titulo": "¡Oh, Jesús, Señor, Divino!",
       "nota": "Re mayor (D)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "El Señor me ama a mí",
         "Y también te ama a ti,",
@@ -655,8 +655,8 @@
     {
       "numero": 18,
       "titulo": "Cordero Santo",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Llegará por la fe; la victoria y la gloria",
         "Gozaré en la patria celestial."
@@ -800,7 +800,7 @@
       "numero": 22,
       "titulo": "Confío yo en Cristo",
       "nota": "Mi mayor (E)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -840,7 +840,7 @@
       "numero": 23,
       "titulo": "De heladas cordilleras",
       "nota": "Re mayor (D)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -1036,7 +1036,7 @@
       "numero": 28,
       "titulo": "No hay otro mediador",
       "nota": "Re mayor (D)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -1182,7 +1182,7 @@
       "numero": 32,
       "titulo": "Un ancla",
       "nota": "Sol mayor (G)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -1209,8 +1209,8 @@
     {
       "numero": 33,
       "titulo": "Concédeme Jesús poder",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -1243,8 +1243,8 @@
     {
       "numero": 34,
       "titulo": "Siempre hablamos",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -1278,7 +1278,7 @@
       "numero": 35,
       "titulo": "Dios del cielo",
       "nota": "Mi mayor (E)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -1324,7 +1324,7 @@
       "numero": 36,
       "titulo": "Voy al cielo",
       "nota": "Re mayor (D)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "Voy al cielo -soy peregrino-",
         "A vivir eternamente con Jesús."
@@ -1354,8 +1354,8 @@
     {
       "numero": 37,
       "titulo": "Jerusalén",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -1500,8 +1500,8 @@
     {
       "numero": 41,
       "titulo": "El Salvador está aquí",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Nombre digno de honor,",
         "Nombre dulce de amor,",
@@ -1713,7 +1713,7 @@
       "numero": 46,
       "titulo": "¡Oh, Padre Eterno!",
       "nota": "Sol mayor (G)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "¡Oh, Padre Eterno!",
         "¡Oh, Padre Eterno!",
@@ -1817,8 +1817,8 @@
     {
       "numero": 48,
       "titulo": "Alma, cese tu dolor",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -1899,8 +1899,8 @@
     {
       "numero": 50,
       "titulo": "Un buen amigo",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -1950,7 +1950,7 @@
       "numero": 51,
       "titulo": "En el curso de este día",
       "nota": "Sol mayor (G)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -1983,8 +1983,8 @@
     {
       "numero": 52,
       "titulo": "En la ciudad de Dios",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -2021,8 +2021,8 @@
     {
       "numero": 53,
       "titulo": "Ni en la Tierra",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -2191,8 +2191,8 @@
     {
       "numero": 57,
       "titulo": "Venid, venid zagales",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -2231,8 +2231,8 @@
     {
       "numero": 58,
       "titulo": "Obediente a tu mandato",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -2416,8 +2416,8 @@
     {
       "numero": 62,
       "titulo": "Es Cristo mi Pastor fiel",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -2505,7 +2505,7 @@
       "numero": 64,
       "titulo": "De pie, de pie, soldados",
       "nota": "Sol mayor (G)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "De pie, soldados",
         "De Cristo y de su Cruz,",
@@ -2794,8 +2794,8 @@
     {
       "numero": 71,
       "titulo": "Dime la antigua historia",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -2964,8 +2964,8 @@
     {
       "numero": 75,
       "titulo": "¿Qué significa este rumor?",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -3187,8 +3187,8 @@
     {
       "numero": 81,
       "titulo": "Salvo en los tiernos brazos",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Salvo en los tiernos brazos",
         "De mi Jesús seré;",
@@ -3413,7 +3413,7 @@
       "numero": 86,
       "titulo": "Quisiera yo ser ángel",
       "nota": "Sol mayor (G)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -3452,8 +3452,8 @@
     {
       "numero": 87,
       "titulo": "El trono Santo",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Cantan \"¡Gloria, gloria",
         "Aleluya al Santo Dios!\""
@@ -3496,7 +3496,7 @@
       "numero": 88,
       "titulo": "En la célica morada",
       "nota": "Sol mayor (G)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "Sí, allí será gratísimo",
         "En el proceder pensar",
@@ -3729,7 +3729,7 @@
       "numero": 94,
       "titulo": "Dulces momentos",
       "nota": "Re mayor (D)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -3929,8 +3929,8 @@
     {
       "numero": 99,
       "titulo": "Para todo viajero",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -3980,7 +3980,7 @@
       "numero": 100,
       "titulo": "Salvador, mi bien Eterno",
       "nota": "Sol mayor (G)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -4017,7 +4017,7 @@
       "numero": 101,
       "titulo": "A Jesucristo",
       "nota": "Sol mayor (G)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "¡Ven, oh niño! Ven, con Él feliz serás:",
         "Nuevo corazón de Él recibirás.",
@@ -4238,7 +4238,7 @@
       "numero": 106,
       "titulo": "Sagrado es el amor",
       "nota": "Re mayor (D)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -4271,8 +4271,8 @@
     {
       "numero": 107,
       "titulo": "Siempre aquí reposaré",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -4344,8 +4344,8 @@
     {
       "numero": 109,
       "titulo": "Gloria a Dios",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -4390,8 +4390,8 @@
     {
       "numero": 110,
       "titulo": "Yo escucho, buen Jesús",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -4724,7 +4724,7 @@
       "numero": 118,
       "titulo": "Venid, niños",
       "nota": "Do mayor (C)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -4953,7 +4953,7 @@
       "numero": 124,
       "titulo": "Dios os guarde",
       "nota": "Do mayor (C)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "En fraterno amor nos veremos",
         "A los pies de nuestro Salvador,",
@@ -5035,8 +5035,8 @@
     {
       "numero": 126,
       "titulo": "Miré con ansia",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -5147,8 +5147,8 @@
     {
       "numero": 129,
       "titulo": "Allí, en la Cruz",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "¡Gloria en las alturas!",
         "¡Gloria en las alturas!",
@@ -5304,7 +5304,7 @@
       "numero": 133,
       "titulo": "Pecadores extraviados",
       "nota": "Sol mayor (G)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "¡Oh! La muerte viene, viene.",
         "Y el día final;",
@@ -5339,7 +5339,7 @@
       "numero": 134,
       "titulo": "¡A la batalla y a la victoria!",
       "nota": "Sol mayor (G)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "Ni es la carrera de los ligeros,",
         "Ni de los fuertes la paz;",
@@ -5462,8 +5462,8 @@
     {
       "numero": 137,
       "titulo": "Te alabamos, ¡oh Dios!",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "¡Aleluya, Gloria a Cristo!",
         "¡Te alabamos, Jesús!",
@@ -5590,7 +5590,7 @@
       "numero": 140,
       "titulo": "Cuando cesaren mi penas",
       "nota": "La mayor (A)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "Gloria será, sí, para mí,",
         "Sí, para mí, sí, para mí.",
@@ -5762,7 +5762,7 @@
       "numero": 144,
       "titulo": "Más de Jesús quiero aprender",
       "nota": "Sol mayor (G)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -5848,7 +5848,7 @@
       "numero": 146,
       "titulo": "Avívanos, Señor",
       "nota": "Do mayor (C)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -6043,8 +6043,8 @@
     {
       "numero": 151,
       "titulo": "Nada he traído",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Sólo por Gracia salvo soy,",
         "Sólo por Gracia salvo soy;",
@@ -6123,8 +6123,8 @@
     {
       "numero": 153,
       "titulo": "Cara a cara, ver espero",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Cara a cara será visto",
         "En su pronta aparición,",
@@ -6254,7 +6254,7 @@
       "numero": 156,
       "titulo": "La Cruz no será más pesada",
       "nota": "Re mayor (D)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "La Gracia de Dios me bastará;",
         "Su ayuda jamás me faltará;",
@@ -6340,8 +6340,8 @@
     {
       "numero": 158,
       "titulo": "Digno es el cordero",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "A Jesús loor -a Jesús loor,",
         "A Jesús loor porque Él es digno;",
@@ -6422,7 +6422,7 @@
       "numero": 160,
       "titulo": "Jerusalén de arriba",
       "nota": "Sol mayor (G)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -7056,8 +7056,8 @@
     {
       "numero": 175,
       "titulo": "Tu, en cuya presencia",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -7103,7 +7103,7 @@
       "numero": 176,
       "titulo": "Es Jesucristo la Vida",
       "nota": "Sol mayor (G)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "Él es Pastor, enviado,",
         "Y Divino Emmanuel,",
@@ -7175,7 +7175,7 @@
       "numero": 178,
       "titulo": "Oh ven a la Cruz",
       "nota": "Sol mayor (G)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "Hay salud en Cristo,",
         "Vida en Cristo; hay salud en Cristo.",
@@ -7342,7 +7342,7 @@
       "numero": 182,
       "titulo": "Pobre peregrino",
       "nota": "Mi mayor (E)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -7415,8 +7415,8 @@
     {
       "numero": 184,
       "titulo": "De Cristo yo soy",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Cristo Santo, heme aquí,",
         "Dame de la fuente carmesí:",
@@ -7851,7 +7851,7 @@
       "numero": 194,
       "titulo": "Ved al Cristo, Rey de gloria",
       "nota": "Sol mayor (G)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "Coronadle, santos todos,",
         "Coronad al Rey de reyes",
@@ -7930,7 +7930,7 @@
       "numero": 196,
       "titulo": "Vendrá el Señor",
       "nota": "La mayor (A)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -8257,7 +8257,7 @@
       "numero": 203,
       "titulo": "Muy cercano está el día",
       "nota": "Re mayor (D)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "Ven, Señor Jesús, ven pronto.",
         "Claman todos con ardor:",
@@ -8498,7 +8498,7 @@
       "numero": 209,
       "titulo": "Soldados santos del Señor",
       "nota": "Sol mayor (G)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "Después de la guerra seremos coronados:",
         "Seremos coronados, seremos coronados;",
@@ -8818,8 +8818,8 @@
     {
       "numero": 217,
       "titulo": "Hasta cuándo, Señor",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -8996,7 +8996,7 @@
       "numero": 221,
       "titulo": "Hay quien vele mis pisadas",
       "nota": "Mi mayor (E)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "Hay quien vele mis pisadas",
         "Y mi senda trazará",
@@ -9167,7 +9167,7 @@
       "numero": 225,
       "titulo": "Oíd, oíd lo que nos manda",
       "nota": "Do mayor (C)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "Id, id, por el mundo;",
         "Id, id y predicad el Evangelio.",
@@ -9209,8 +9209,8 @@
     {
       "numero": 226,
       "titulo": "Todo aquel que quiera",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "\"Todo aquel que quiera\" acuda a oír.",
         "Sí, las buenas nuevas venga a recibir;",
@@ -10613,7 +10613,7 @@
       "numero": 262,
       "titulo": "Quién esta de parte",
       "nota": "Re mayor (D)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "¿Quién de Cristo al lado quiere caminar?",
         "¿Quién contra el pecado quiere ya luchar?",
@@ -10936,8 +10936,8 @@
     {
       "numero": 270,
       "titulo": "Corazones inflamados",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Ellos alzan la bandera,",
         "Do la lucha arde ya;",
@@ -11532,7 +11532,7 @@
       "numero": 285,
       "titulo": "Muy triste en pecado",
       "nota": "Sol mayor (G)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "Yo voy con Jesús, Aleluya,",
         "Yo ando con Cristo el Rey;",
@@ -11565,7 +11565,7 @@
       "numero": 286,
       "titulo": "Habrá grandes lluvias",
       "nota": "Re mayor (D)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "Diezmos sí, de amor y servicio",
         "Y también de oro y plata;",
@@ -11766,8 +11766,8 @@
     {
       "numero": 291,
       "titulo": "Quisiera contarles",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Humildes como el Señor,",
         "Valientes como Sansón,",
@@ -12063,7 +12063,7 @@
       "numero": 298,
       "titulo": "Moro yo en las alturas",
       "nota": "Re mayor (D)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "Nos será el país de beulah,",
         "País feliz de luz y gozo",
@@ -12653,8 +12653,8 @@
     {
       "numero": 312,
       "titulo": "Gratitud a nuestro Dios",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Gratitud, gratitud",
         "Gratitud, a nuestro Dios",
@@ -12687,7 +12687,7 @@
       "numero": 313,
       "titulo": "Marcho siempre al frente",
       "nota": "Sol mayor (G)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "Soldado valiente de Cristo yo soy;",
         "Pues llevo en el alma celestial valor",
@@ -12919,7 +12919,7 @@
       "numero": 319,
       "titulo": "Viene otra vez nuestro Salvador",
       "nota": "Do mayor (C)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "¡Gloria, gloria! Gozo sin fin traerá,",
         "¡Gloria, gloria! Al coronarle Rey;",
@@ -13187,8 +13187,8 @@
     {
       "numero": 325,
       "titulo": "Quiero ver a Jesucristo",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Quiero ver aquella Tierra",
         "Donde sombras ya no habrá;",
@@ -13409,8 +13409,8 @@
     {
       "numero": 331,
       "titulo": "¿Quieres ofrecer a Cristo?",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Lo de más valor para el Salvador,",
         "Es llevar el mundo entero",
@@ -13456,8 +13456,8 @@
     {
       "numero": 332,
       "titulo": "Estrella de la mañana",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "De ti separada, vagando alejada",
         "Por valle de muerte, pecado y desgracia;",
@@ -14496,8 +14496,8 @@
     {
       "numero": 357,
       "titulo": "Dios al pródigo llama",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Llámate hoy a ti",
         "Cansado pródigo, ven",
@@ -14538,8 +14538,8 @@
     {
       "numero": 358,
       "titulo": "Vamos, hermanos",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Caminaremos y lucharemos",
         "Hasta llegar a la presencia del Señor.",
@@ -14569,8 +14569,8 @@
     {
       "numero": 359,
       "titulo": "Cantemos a Cristo",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Cantemos siempre, sí, al gran Señor.",
         "Nuestros labios propaguen",
@@ -14606,7 +14606,7 @@
       "numero": 360,
       "titulo": "Estad por Cristo firmes",
       "nota": "La mayor (A)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -14719,7 +14719,7 @@
       "numero": 363,
       "titulo": "Oíd como resuena",
       "nota": "La mayor (A)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "¡Sí, resuena; sí resuena!",
         "El Evangelio del buen Jesús",
@@ -14751,8 +14751,8 @@
     {
       "numero": 364,
       "titulo": "Venid a Cristo",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Oye la voz del Salvador",
         "Y no endurezcas tu corazón."
@@ -14788,8 +14788,8 @@
     {
       "numero": 365,
       "titulo": "Salutación",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Inspirados en amor cristiano",
         "Os venimos hoy a visitar",
@@ -14823,8 +14823,8 @@
     {
       "numero": 366,
       "titulo": "Mensaje de Dios",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Danzar hermanos, danzar al Señor",
         "Todos de rodillas, pidamos perdón",
@@ -14856,8 +14856,8 @@
     {
       "numero": 367,
       "titulo": "Con nosotros, venid",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Triunfarán, triunfarán,",
         "Las armas divinas la lid ganarán.",
@@ -14927,8 +14927,8 @@
     {
       "numero": 369,
       "titulo": "Ya sea en el valle",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Si Cristo conmigo va, yo iré y no temeré.",
         "Con gozo iré contigo.",
@@ -15199,8 +15199,8 @@
     {
       "numero": 376,
       "titulo": "Ved que avanzan las huestes",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Por un mundo de justicia;",
         "¡Adelante, ganaremos victoria!",
@@ -15333,8 +15333,8 @@
     {
       "numero": 379,
       "titulo": "Por las arpas y las voces",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Cristo, Cristo reina,",
         "Cristo, Cristo reina",
@@ -15376,8 +15376,8 @@
     {
       "numero": 380,
       "titulo": "Soy Hijo de Dios.",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -15416,7 +15416,7 @@
     {
       "numero": 381,
       "titulo": "Hay un lugar do quiero estar",
-      "nota": "Sin información",
+      "nota": "",
       "compas": "2 tiempos",
       "coro": [
         "Muy cerca de mi Redentor",
@@ -15485,8 +15485,8 @@
     {
       "numero": 383,
       "titulo": "En el principio era el Verbo",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "En el principio era el verbo",
         "Y el verbo estaba con Dios;",
@@ -15740,7 +15740,7 @@
       "numero": 389,
       "titulo": "Loor a ti.",
       "nota": "Sol mayor (G)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -15779,8 +15779,8 @@
     {
       "numero": 390,
       "titulo": "Los hijos del reino",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Vamos marchando, tengamos valor",
         "Armas no sobran, nos manda el Señor,",
@@ -15819,7 +15819,7 @@
       "numero": 391,
       "titulo": "Seguid al Maestro",
       "nota": "Do mayor (C)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [
         "Seguiré siempre adelante",
         "Escudado por mi Dios,",
@@ -15851,8 +15851,8 @@
     {
       "numero": 392,
       "titulo": "Somos soldados guerreros",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Viva la Gracia que el Señor me ha dado.",
         "Viva su reino para siempre jamás.",
@@ -16601,8 +16601,8 @@
     {
       "numero": 412,
       "titulo": "Hoy es día de reposo",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -16651,8 +16651,8 @@
     {
       "numero": 413,
       "titulo": "A nuestro Padre Dios",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -16917,8 +16917,8 @@
     {
       "numero": 420,
       "titulo": "Guerreros fieles somos",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Sin vacilar marchad soldados de Jesús",
         "Y por la Cruz luchad, armados de virtud",
@@ -17072,7 +17072,7 @@
       "numero": 427,
       "titulo": "Cristo Es Sin Igual",
       "nota": "La",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -17108,7 +17108,7 @@
       "numero": 429,
       "titulo": "Santidad Reclama Cristo",
       "nota": "Re mayor (D)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -17374,8 +17374,8 @@
     {
       "numero": 442,
       "titulo": "¡Oh, Chile una Patria Redimida!",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -17391,7 +17391,7 @@
       "numero": 443,
       "titulo": "Grande Amor",
       "nota": "La mayor (A)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -17416,7 +17416,7 @@
       "numero": 444,
       "titulo": "Porque Tú Eres Bueno",
       "nota": "Re mayor (D)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -17440,7 +17440,7 @@
       "numero": 445,
       "titulo": "Cristo el Nombre",
       "nota": "Sol mayor (G)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -17463,7 +17463,7 @@
       "numero": 446,
       "titulo": "Eres el Más Precioso",
       "nota": "Mi mayor (E)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -17485,7 +17485,7 @@
       "numero": 447,
       "titulo": "Cuán Bello Es el Señor",
       "nota": "Re mayor (D)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -17505,7 +17505,7 @@
       "numero": 448,
       "titulo": "Si Estoy Enfermo Jesús Me Sana",
       "nota": "Re mayor (D)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -17527,7 +17527,7 @@
       "numero": 449,
       "titulo": "Es Magnífico Jesucristo",
       "nota": "La mayor (A)",
-      "compas": "Sin información",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -17542,8 +17542,8 @@
     {
       "numero": 450,
       "titulo": "En Ti Se Regocijan",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -17559,8 +17559,8 @@
     {
       "numero": 451,
       "titulo": "Adonai",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -17576,8 +17576,8 @@
     {
       "numero": 452,
       "titulo": "Te Daré lo Mejor del Trigo",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -17594,8 +17594,8 @@
     {
       "numero": 453,
       "titulo": "Cantemos a Jesús",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -17614,8 +17614,8 @@
     {
       "numero": 454,
       "titulo": "Gloria y Honor",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -17631,8 +17631,8 @@
     {
       "numero": 455,
       "titulo": "Somos Pueblo",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -17651,8 +17651,8 @@
     {
       "numero": 456,
       "titulo": "Tú y Yo",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -17674,8 +17674,8 @@
     {
       "numero": 457,
       "titulo": "Has Ganado la Victoria",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -17695,8 +17695,8 @@
     {
       "numero": 458,
       "titulo": "Con Mi Dios Yo Asaltaré Los Muros",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -17718,8 +17718,8 @@
     {
       "numero": 459,
       "titulo": "Tú Habitas",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -17739,8 +17739,8 @@
     {
       "numero": 460,
       "titulo": "Has Cambiado Mi Lamento en Baile",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -17759,8 +17759,8 @@
     {
       "numero": 461,
       "titulo": "Dios No Nos Trajo Hasta Aquí",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -17779,8 +17779,8 @@
     {
       "numero": 462,
       "titulo": "Sumérgeme",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Sumérgeme en el río de tu Espíritu",
         "Necesito refrescar",
@@ -17807,8 +17807,8 @@
     {
       "numero": 463,
       "titulo": "Sentado en Su Trono",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Poderoso, en Majestad y Reino; Poderoso",
         "Poderoso en Potestad e Imperio",
@@ -17840,8 +17840,8 @@
     {
       "numero": 464,
       "titulo": "Tener, Quisiera Tener",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Tener quisiera tener,",
         "Lo que tenía Jesús,",
@@ -17885,8 +17885,8 @@
     {
       "numero": 465,
       "titulo": "Divino Compañero del Camino",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Quédate, Señor, que se hace tarde",
         "Te ofrezco el corazón para posar.",
@@ -17920,8 +17920,8 @@
     {
       "numero": 1,
       "titulo": "En las olas furiosas del mar",
-      "nota": "G",
-      "compas": "3 tiempos",
+      "nota": "",
+      "compas": "",
       "coro": [
         "¡Aquí estoy, aquí estoy!",
         "¿Quién me quiere salvar?",
@@ -17958,8 +17958,8 @@
     {
       "numero": 2,
       "titulo": "El alfarero",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Quiero una sonrisa",
         "Cuando todo va mal",
@@ -17993,8 +17993,8 @@
     {
       "numero": 3,
       "titulo": "Tiene poder mi Dios",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Tiene poder mi Dios",
         "Es sin igual Jesús",
@@ -18024,8 +18024,8 @@
     {
       "numero": 4,
       "titulo": "Te alabaré",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Porque tú eres el sol de la mañana",
         "Porque tú eres calor del medio día",
@@ -18051,8 +18051,8 @@
     {
       "numero": 5,
       "titulo": "Solo Dios lo pudo hacer",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Mira los cielos, mira las aguas",
         "Mira la Tierra que hermosa es",
@@ -18091,8 +18091,8 @@
     {
       "numero": 6,
       "titulo": "Las vestiduras",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Cristo ya dijo en su Escritura",
         "Su Libro Santo que es la verdad",
@@ -18124,8 +18124,8 @@
     {
       "numero": 7,
       "titulo": "Poder, maravilloso poder",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Poder, maravilloso Poder",
         "Que gozo siento yo en mi ser",
@@ -18163,8 +18163,8 @@
     {
       "numero": 8,
       "titulo": "Aleluya",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Aleluya, aleluya, aleluya, aleluya."
       ],
@@ -18188,8 +18188,8 @@
     {
       "numero": 9,
       "titulo": "Allá en Belén",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -18222,8 +18222,8 @@
     {
       "numero": 10,
       "titulo": "Soy Hijo del Rey de reyes",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Mi Padre es un Dios poderoso",
         "Siempre ha limpiado leprosos",
@@ -18254,8 +18254,8 @@
     {
       "numero": 11,
       "titulo": "En un pesebre humilde",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Una brillante estrella anuncia la venida",
         "Del niño que naciera allá en Belén",
@@ -18299,8 +18299,8 @@
     {
       "numero": 12,
       "titulo": "Han pasado los meses y los años",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Gloria al Señor",
         "Hoy puedo decir",
@@ -18326,8 +18326,8 @@
     {
       "numero": 13,
       "titulo": "Mi corazón",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Y hasta entonces seguiré cantando",
         "Y con valor caminaré con Dios,",
@@ -18354,8 +18354,8 @@
     {
       "numero": 14,
       "titulo": "Cien ovejas",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Las noventa y nueve",
         "Dejo en el aprisco",
@@ -18406,8 +18406,8 @@
     {
       "numero": 15,
       "titulo": "Muchas cuentas tengo",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Que te daré Señor, que te daré",
         "Porque todas mis cosas son tuyas,",
@@ -18441,8 +18441,8 @@
     {
       "numero": 16,
       "titulo": "Hoy día vi",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Yo le alabaré con todo el corazón",
         "Porque Jesús me dio Salvación",
@@ -18481,8 +18481,8 @@
     {
       "numero": 17,
       "titulo": "A Dios sea la gloria",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "A Dios se la gloria",
         "A Dios sea la gloria",
@@ -18520,8 +18520,8 @@
     {
       "numero": 18,
       "titulo": "Volaré, volaré",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Yo las nubes pasaré",
         "Las estrellas cruzaré",
@@ -18558,8 +18558,8 @@
     {
       "numero": 19,
       "titulo": "Al abrigo de Dios",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Oh yo quiero habitar",
         "Al abrigo de Dios",
@@ -18592,8 +18592,8 @@
     {
       "numero": 20,
       "titulo": "Ciudad Santa",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Jerusalén, Jerusalén álzate a cantar",
         "Oh, oh hosanna en las alturas",
@@ -18630,8 +18630,8 @@
     {
       "numero": 21,
       "titulo": "Cristo reinará",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Cristo reinará, Cristo reinará, Cristo reinará",
         "En mi vida reinará",
@@ -18670,8 +18670,8 @@
     {
       "numero": 22,
       "titulo": "Maravilloso Evento",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Hoy te veo venir con millares de ángeles",
         "Oh hermoso suena esa bella trompeta",
@@ -18710,8 +18710,8 @@
     {
       "numero": 23,
       "titulo": "El Leproso",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Quiero, quiero, quiero curar tus heridas",
         "Hoy quiero curar tus heridas, calmar tu dolor",
@@ -18752,8 +18752,8 @@
     {
       "numero": 24,
       "titulo": "Permíteme Señor",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Permíteme Señor, Señor, ser sólo para ti",
         "Y bajo tu manto de amor de amor",
@@ -18788,8 +18788,8 @@
     {
       "numero": 25,
       "titulo": "Jerusalén",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Jerusalén, Jerusalén, Jerusalén",
         "Ay de ti, Jerusalén."
@@ -18841,8 +18841,8 @@
     {
       "numero": 26,
       "titulo": "Hay un cielo nuevo",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Cantan los ángeles allí",
         "Canta los hombres a Jesús",
@@ -18869,8 +18869,8 @@
     {
       "numero": 27,
       "titulo": "El Rey está volviendo",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Sí, el Rey está volviendo",
         "El Rey está volviendo",
@@ -18917,8 +18917,8 @@
     {
       "numero": 28,
       "titulo": "Trigo Soy",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Trigo soy, trigo soy,",
         "Del granero, del granero",
@@ -18955,8 +18955,8 @@
     {
       "numero": 29,
       "titulo": "Miré a Jesús",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Él ya pagó la deuda que yo aún tenía",
         "Y el sufrimiento en una cruz por mis pecados",
@@ -18982,8 +18982,8 @@
     {
       "numero": 30,
       "titulo": "Parece",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "No es un parece, no lo es",
         "Es verdad, se siente al Señor",
@@ -19016,8 +19016,8 @@
     {
       "numero": 31,
       "titulo": "A la casa de Jairo",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Haz tu cual la mujer, que fue y tocó",
         "“el borde del vestido de Jesús”",
@@ -19049,8 +19049,8 @@
     {
       "numero": 32,
       "titulo": "El Amor de Cristo",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Y pensar que siempre le tuve a mi lado",
         "Y pensar que nunca, le quise escuchar",
@@ -19086,8 +19086,8 @@
     {
       "numero": 33,
       "titulo": "Alma querida",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "No tienes excusa, no tienes perdón",
         "No tienes francas las puertas de Sión,",
@@ -19119,8 +19119,8 @@
     {
       "numero": 34,
       "titulo": "Bautízame",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Bautízame, bautízame, bautízame,",
         "Con tu Espíritu Santo;",
@@ -19158,8 +19158,8 @@
     {
       "numero": 35,
       "titulo": "Como aquellos días tristes de Noé",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Ciento veinte años predicó Noé,",
         "Diciendo a los hombres que ya venía el fin,",
@@ -19203,8 +19203,8 @@
     {
       "numero": 36,
       "titulo": "Cuán felices fuimos",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -19244,8 +19244,8 @@
     {
       "numero": 37,
       "titulo": "Cuántas veces casi llorando",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Pero tu amor y tu calor",
         "Me levanta y me fuerza y vigor",
@@ -19277,8 +19277,8 @@
     {
       "numero": 38,
       "titulo": "¡Decídete, decídete!",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "¡Decídete, decídete!",
         "Las puertas se cerrarán.",
@@ -19316,8 +19316,8 @@
     {
       "numero": 39,
       "titulo": "Agradecimiento",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Agradecimiento hay en mi corazón;",
         "Canto de alegría elevo con mi voz.",
@@ -19352,8 +19352,8 @@
     {
       "numero": 40,
       "titulo": "El clamor de mi pueblo",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Hermano, tu que hablas de tu hermano,",
         "Hermano, tu que hablas del pastor",
@@ -19385,8 +19385,8 @@
     {
       "numero": 41,
       "titulo": "El comandante",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "El Comandante de nuestra escuadra",
         "Aquí a mi lado hablando está,",
@@ -19422,8 +19422,8 @@
     {
       "numero": 42,
       "titulo": "El día llegará",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Esperando estoy, yo se",
         "Que Cristo ha de venir por mí,",
@@ -19452,8 +19452,8 @@
     {
       "numero": 43,
       "titulo": "El fin del mundo",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Querido amigo, Cristo te llama",
         "No hagas duro tu corazón",
@@ -19485,8 +19485,8 @@
     {
       "numero": 44,
       "titulo": "El hombre que con Cristo",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Enséñame Señor a obedecerte",
         "Que quiero ser perfecto mi Señor,",
@@ -19524,8 +19524,8 @@
     {
       "numero": 45,
       "titulo": "El que oye se Palabra",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Tú serás responsable de tu alma,",
         "Si hasta hoy no le das tu corazón,",
@@ -19561,8 +19561,8 @@
     {
       "numero": 46,
       "titulo": "Esa duda",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Si Cristo vive en mi vida...cómo dudar,",
         "Si ha cambiado mi ser...cómo dudar",
@@ -19595,8 +19595,8 @@
     {
       "numero": 47,
       "titulo": "Firme estaré",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Nada, no nada me ha de mover,",
         "Nada, no nada me ha de mover,",
@@ -19627,8 +19627,8 @@
     {
       "numero": 48,
       "titulo": "Glorifícate en Chile",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Señor levanta obreros",
         "Fervientes en tu iglesia",
@@ -19669,8 +19669,8 @@
     {
       "numero": 49,
       "titulo": "Jesús Rey de los Cielos",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "\"Yo soy el camino",
         "La verdad y la Vida",
@@ -19714,8 +19714,8 @@
     {
       "numero": 50,
       "titulo": "Sufrió agonía el Señor",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "En mi sueño yo vi que te azotaban",
         "Y corrí Señor a defenderte",
@@ -19742,8 +19742,8 @@
     {
       "numero": 51,
       "titulo": "La iglesia avanza",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Un año más, un año más con Cristo estamos,",
         "Un año más, un año más hoy celebramos,",
@@ -19789,8 +19789,8 @@
     {
       "numero": 53,
       "titulo": "Adorándote",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Aquí están mis manos adorándote",
         "Aquí está mi voz agradeciéndote",
@@ -19823,8 +19823,8 @@
     {
       "numero": 54,
       "titulo": "El testimonio",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -19873,8 +19873,8 @@
     {
       "numero": 55,
       "titulo": "Merecedor de alabanza",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Él día en que no le alabo",
         "El alma se me entristece,",
@@ -19903,8 +19903,8 @@
     {
       "numero": 56,
       "titulo": "Necesito de tí",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Necesito de tí,",
         "Para caminar en este mundo",
@@ -19944,8 +19944,8 @@
     {
       "numero": 57,
       "titulo": "Nuestras alabanzas",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "A ti cantaremos canciones nuevas.",
         "A ti cantaremos canciones de amor.",
@@ -19971,8 +19971,8 @@
     {
       "numero": 58,
       "titulo": "Por una senda estrecha",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "\"Ven, trae tu cruz y sígueme\",",
         "Oí su tierna voz llamar",
@@ -20004,8 +20004,8 @@
     {
       "numero": 59,
       "titulo": "Por la mañana",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -20042,8 +20042,8 @@
     {
       "numero": 60,
       "titulo": "Que bella historia",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "¡oh, cuanto le amo! y fiel le adoro;",
         "Él es mi Vida mi Redentor;",
@@ -20075,8 +20075,8 @@
     {
       "numero": 61,
       "titulo": "Quién nos apartará",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Porque nadie ni nada lo logrará,",
         "Porque Cristo a mi lado estará",
@@ -20100,8 +20100,8 @@
     {
       "numero": 62,
       "titulo": "Regocíjate Sión",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -20130,8 +20130,8 @@
     {
       "numero": 63,
       "titulo": "Rey Salvador",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Quiero entender tu inmenso amor,",
         "Y tu agonía de dolor;",
@@ -20163,8 +20163,8 @@
     {
       "numero": 64,
       "titulo": "Señor de los mansos",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Escucha mi canto consuelo del triste",
         "Mi existencia entera queda a ti rendida",
@@ -20229,8 +20229,8 @@
     {
       "numero": 66,
       "titulo": "Si fui motivo de dolor",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Escucha oh Dios mi confesión humilde,",
         "Y líbrame de tentación sutil,",
@@ -20256,8 +20256,8 @@
     {
       "numero": 67,
       "titulo": "Siguiendo yo a Cristo",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Si yo amo al mundo, tendré que morir",
         "Porque yo sin Cristo, no puedo vivir."
@@ -20285,8 +20285,8 @@
     {
       "numero": 68,
       "titulo": "Somos embajadores",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [],
       "estrofas": [
         [
@@ -20316,8 +20316,8 @@
     {
       "numero": 69,
       "titulo": "Te alabo Señor",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Te alabo Señor, te alabo Señor",
         "Y te amo como tú a mí."
@@ -20347,8 +20347,8 @@
     {
       "numero": 70,
       "titulo": "Tierra de Palestina",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Eres la historia inolvidable",
         "Porque en su seno se derramó",
@@ -20386,8 +20386,8 @@
     {
       "numero": 71,
       "titulo": "Vendrá el Señor",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Mas a vosotros los que teméis mi nombre,",
         "En la alborada nacerá el Sol de Justicia",
@@ -20423,8 +20423,8 @@
     {
       "numero": 72,
       "titulo": "Vengo a suplicarte",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Me has dado tantas cosas",
         "Mi precioso Jesús,",
@@ -20454,8 +20454,8 @@
     {
       "numero": 73,
       "titulo": "Ven pecador que Jesús te llama",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Si tu supieras quien es el Señor",
         "Arrepentido vinieras a él,",
@@ -20487,8 +20487,8 @@
     {
       "numero": 74,
       "titulo": "Viene el Maestro",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "En el Calvario vertió la sangre",
         "De Jesucristo mi Salvador,",
@@ -20526,8 +20526,8 @@
     {
       "numero": 75,
       "titulo": "Ya vislumbra un día nuevo",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Cristo viene, ya viene con poder",
         "Ya arrebatara aquel que espera en él,",
@@ -20559,8 +20559,8 @@
     {
       "numero": 76,
       "titulo": "Con mi Dios soy feliz",
-      "nota": "Sin información",
-      "compas": "Sin información",
+      "nota": "",
+      "compas": "",
       "coro": [
         "Soy feliz, soy feliz",
         "Con mi Dios soy feliz",
