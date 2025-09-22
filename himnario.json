@@ -18644,14 +18644,16 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Quiero una sonrisa",
-        "Cuando todo va mal",
-        "Quiero una alabanza",
-        "En lugar de tu quejar",
-        "Quiero tu confianza",
-        "En la tempestad",
-        "Y quiero que aprendas",
-        "También a perdonar."
+        [
+          "Quiero una sonrisa",
+          "Cuando todo va mal",
+          "Quiero una alabanza",
+          "En lugar de tu quejar",
+          "Quiero tu confianza",
+          "En la tempestad",
+          "Y quiero que aprendas",
+          "También a perdonar."
+        ]
       ],
       "estrofas": [
         [
@@ -18679,14 +18681,16 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Tiene poder mi Dios",
-        "Es sin igual Jesús",
-        "Él de su amor me da",
-        "Su inmenso amor Cristo me da",
-        "Vive mi Dios (amén)",
-        "Vive el Señor (amén)",
-        "Él esta aquí (amén)",
-        "Tiene poder, esta aquí, esta en mí."
+        [
+          "Tiene poder mi Dios",
+          "Es sin igual Jesús",
+          "Él de su amor me da",
+          "Su inmenso amor Cristo me da",
+          "Vive mi Dios (amén)",
+          "Vive el Señor (amén)",
+          "Él esta aquí (amén)",
+          "Tiene poder, esta aquí, esta en mí."
+        ]
       ],
       "estrofas": [
         [
@@ -18710,10 +18714,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Porque tú eres el sol de la mañana",
-        "Porque tú eres calor del medio día",
-        "Porque tú eres el sol que ya se va",
-        "Tú eres mi Dios, Señor, tú eres mi amor."
+        [
+          "Porque tú eres el sol de la mañana",
+          "Porque tú eres calor del medio día",
+          "Porque tú eres el sol que ya se va",
+          "Tú eres mi Dios, Señor, tú eres mi amor."
+        ]
       ],
       "estrofas": [
         [
@@ -18737,11 +18743,13 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Mira los cielos, mira las aguas",
-        "Mira la Tierra que hermosa es",
-        "Sólo Dios lo pudo hacer",
-        "Sólo Dios con su Poder",
-        "Sólo Dios, sólo él, sólo él."
+        [
+          "Mira los cielos, mira las aguas",
+          "Mira la Tierra que hermosa es",
+          "Sólo Dios lo pudo hacer",
+          "Sólo Dios con su Poder",
+          "Sólo Dios, sólo él, sólo él."
+        ]
       ],
       "estrofas": [
         [
@@ -18777,10 +18785,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Cristo ya dijo en su Escritura",
-        "Su Libro Santo que es la verdad",
-        "Que una iglesia sin manchas ni arrugas",
-        "Pronto el Señor viene a buscar."
+        [
+          "Cristo ya dijo en su Escritura",
+          "Su Libro Santo que es la verdad",
+          "Que una iglesia sin manchas ni arrugas",
+          "Pronto el Señor viene a buscar."
+        ]
       ],
       "estrofas": [
         [
@@ -18810,11 +18820,13 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Poder, maravilloso Poder",
-        "Que gozo siento yo en mi ser",
-        "Hoy siento el Poder",
-        "Del día de Pentecostés",
-        "Poder, maravilloso Poder"
+        [
+          "Poder, maravilloso Poder",
+          "Que gozo siento yo en mi ser",
+          "Hoy siento el Poder",
+          "Del día de Pentecostés",
+          "Poder, maravilloso Poder"
+        ]
       ],
       "estrofas": [
         [
@@ -18849,7 +18861,9 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Aleluya, aleluya, aleluya, aleluya."
+        [
+          "Aleluya, aleluya, aleluya, aleluya."
+        ]
       ],
       "estrofas": [
         [
@@ -18908,12 +18922,14 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Mi Padre es un Dios poderoso",
-        "Siempre ha limpiado leprosos",
-        "Recuerdas tú a naamán",
-        "Recuerda su pueblo elegido",
-        "Cuarenta años perdidos",
-        "No les faltó agua ni pan."
+        [
+          "Mi Padre es un Dios poderoso",
+          "Siempre ha limpiado leprosos",
+          "Recuerdas tú a naamán",
+          "Recuerda su pueblo elegido",
+          "Cuarenta años perdidos",
+          "No les faltó agua ni pan."
+        ]
       ],
       "estrofas": [
         [
@@ -18940,10 +18956,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Una brillante estrella anuncia la venida",
-        "Del niño que naciera allá en Belén",
-        "Los reyes y pastores con toda su alegría",
-        "Le dan honra y gloria al Dios de Israel."
+        [
+          "Una brillante estrella anuncia la venida",
+          "Del niño que naciera allá en Belén",
+          "Los reyes y pastores con toda su alegría",
+          "Le dan honra y gloria al Dios de Israel."
+        ]
       ],
       "estrofas": [
         [
@@ -18985,10 +19003,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Gloria al Señor",
-        "Hoy puedo decir",
-        "Hasta aquí",
-        "Me ayudo Jehová"
+        [
+          "Gloria al Señor",
+          "Hoy puedo decir",
+          "Hasta aquí",
+          "Me ayudo Jehová"
+        ]
       ],
       "estrofas": [
         [
@@ -19012,11 +19032,13 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Y hasta entonces seguiré cantando",
-        "Y con valor caminaré con Dios,",
-        "Hasta que llegue el día...",
-        "En que contemple el Cielo",
-        "Y al dulce hogar me llame Dios."
+        [
+          "Y hasta entonces seguiré cantando",
+          "Y con valor caminaré con Dios,",
+          "Hasta que llegue el día...",
+          "En que contemple el Cielo",
+          "Y al dulce hogar me llame Dios."
+        ]
       ],
       "estrofas": [
         [
@@ -19040,15 +19062,17 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Las noventa y nueve",
-        "Dejo en el aprisco",
-        "Y por las montañas",
-        "A buscarlas fue,",
-        "La encontró gimiendo",
-        "Temblando de frío",
-        "Ungió sus heridas",
-        "La cargó en sus hombros",
-        "Y al redil volvió."
+        [
+          "Las noventa y nueve",
+          "Dejo en el aprisco",
+          "Y por las montañas",
+          "A buscarlas fue,",
+          "La encontró gimiendo",
+          "Temblando de frío",
+          "Ungió sus heridas",
+          "La cargó en sus hombros",
+          "Y al redil volvió."
+        ]
       ],
       "estrofas": [
         [
@@ -19092,12 +19116,14 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Que te daré Señor, que te daré",
-        "Porque todas mis cosas son tuyas,",
-        "Mi Vida también, mi Vida también,",
-        "Mi corazón, todo mi ser",
-        "Si lo aceptas oh Cristo amoroso",
-        "Ocúpalo pues, ocúpalo pues."
+        [
+          "Que te daré Señor, que te daré",
+          "Porque todas mis cosas son tuyas,",
+          "Mi Vida también, mi Vida también,",
+          "Mi corazón, todo mi ser",
+          "Si lo aceptas oh Cristo amoroso",
+          "Ocúpalo pues, ocúpalo pues."
+        ]
       ],
       "estrofas": [
         [
@@ -19127,14 +19153,16 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Yo le alabaré con todo el corazón",
-        "Porque Jesús me dio Salvación",
-        "La gloria es para Jesús",
-        "Aleluya al cordero de Dios",
-        "Está aquí, lo siento en mi corazón",
-        "Está aquí, el Dios de la Salvación",
-        "Está aquí, dentro de mí",
-        "Está aquí, está aquí está aquí."
+        [
+          "Yo le alabaré con todo el corazón",
+          "Porque Jesús me dio Salvación",
+          "La gloria es para Jesús",
+          "Aleluya al cordero de Dios",
+          "Está aquí, lo siento en mi corazón",
+          "Está aquí, el Dios de la Salvación",
+          "Está aquí, dentro de mí",
+          "Está aquí, está aquí está aquí."
+        ]
       ],
       "estrofas": [
         [
@@ -19167,14 +19195,16 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "A Dios se la gloria",
-        "A Dios sea la gloria",
-        "A Dios sea la gloria",
-        "Por lo que ha hecho en mí",
-        "Con su sangre me ha lavado",
-        "Su poder me ha transformado",
-        "A Dios le doy la gloria",
-        "Por lo que el ha hecho en mí."
+        [
+          "A Dios se la gloria",
+          "A Dios sea la gloria",
+          "A Dios sea la gloria",
+          "Por lo que ha hecho en mí",
+          "Con su sangre me ha lavado",
+          "Su poder me ha transformado",
+          "A Dios le doy la gloria",
+          "Por lo que el ha hecho en mí."
+        ]
       ],
       "estrofas": [
         [
@@ -19206,13 +19236,15 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Yo las nubes pasaré",
-        "Las estrellas cruzaré",
-        "Porque un día volaré",
-        "Y ese Sol he de cruzar",
-        "No en una nave espacial",
-        "Porque un día he de volar",
-        "Gloria a Dios voy a volar."
+        [
+          "Yo las nubes pasaré",
+          "Las estrellas cruzaré",
+          "Porque un día volaré",
+          "Y ese Sol he de cruzar",
+          "No en una nave espacial",
+          "Porque un día he de volar",
+          "Gloria a Dios voy a volar."
+        ]
       ],
       "estrofas": [
         [
@@ -19244,13 +19276,15 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Oh yo quiero habitar",
-        "Al abrigo de Dios",
-        "Solo allí encontraré Paz",
-        "Y profundo amor",
-        "Mi delicia con él.",
-        "Comunión disfrutar",
-        "Y por siempre su nombre alabar."
+        [
+          "Oh yo quiero habitar",
+          "Al abrigo de Dios",
+          "Solo allí encontraré Paz",
+          "Y profundo amor",
+          "Mi delicia con él.",
+          "Comunión disfrutar",
+          "Y por siempre su nombre alabar."
+        ]
       ],
       "estrofas": [
         [
@@ -19278,9 +19312,11 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Jerusalén, Jerusalén álzate a cantar",
-        "Oh, oh hosanna en las alturas",
-        "Oh, oh hosanna a tu Rey."
+        [
+          "Jerusalén, Jerusalén álzate a cantar",
+          "Oh, oh hosanna en las alturas",
+          "Oh, oh hosanna a tu Rey."
+        ]
       ],
       "estrofas": [
         [
@@ -19316,10 +19352,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Cristo reinará, Cristo reinará, Cristo reinará",
-        "En mi vida reinará",
-        "Cristo reinará, Cristo reinará, Cristo reinará",
-        "Reinará."
+        [
+          "Cristo reinará, Cristo reinará, Cristo reinará",
+          "En mi vida reinará",
+          "Cristo reinará, Cristo reinará, Cristo reinará",
+          "Reinará."
+        ]
       ],
       "estrofas": [
         [
@@ -19356,13 +19394,15 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Hoy te veo venir con millares de ángeles",
-        "Oh hermoso suena esa bella trompeta",
-        "Que brilla allí",
-        "Como resucitan como se levantan",
-        "Yo también me iré,",
-        "Yo también me iré",
-        "Porque esa es mi fe."
+        [
+          "Hoy te veo venir con millares de ángeles",
+          "Oh hermoso suena esa bella trompeta",
+          "Que brilla allí",
+          "Como resucitan como se levantan",
+          "Yo también me iré,",
+          "Yo también me iré",
+          "Porque esa es mi fe."
+        ]
       ],
       "estrofas": [
         [
@@ -19396,10 +19436,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Quiero, quiero, quiero curar tus heridas",
-        "Hoy quiero curar tus heridas, calmar tu dolor",
-        "Quiero, quiero, quiero que tú tengas vida",
-        "Quiero limpiar el pecado de la humanidad."
+        [
+          "Quiero, quiero, quiero curar tus heridas",
+          "Hoy quiero curar tus heridas, calmar tu dolor",
+          "Quiero, quiero, quiero que tú tengas vida",
+          "Quiero limpiar el pecado de la humanidad."
+        ]
       ],
       "estrofas": [
         [
@@ -19438,11 +19480,13 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Permíteme Señor, Señor, ser sólo para ti",
-        "Y bajo tu manto de amor de amor",
-        "Permíteme vivir.",
-        "Permíteme, un día Señor volar hacia ti;",
-        "Y tú bienvenida Señor, permíteme oír."
+        [
+          "Permíteme Señor, Señor, ser sólo para ti",
+          "Y bajo tu manto de amor de amor",
+          "Permíteme vivir.",
+          "Permíteme, un día Señor volar hacia ti;",
+          "Y tú bienvenida Señor, permíteme oír."
+        ]
       ],
       "estrofas": [
         [
@@ -19474,8 +19518,10 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Jerusalén, Jerusalén, Jerusalén",
-        "Ay de ti, Jerusalén."
+        [
+          "Jerusalén, Jerusalén, Jerusalén",
+          "Ay de ti, Jerusalén."
+        ]
       ],
       "estrofas": [
         [
@@ -19527,10 +19573,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Cantan los ángeles allí",
-        "Canta los hombres a Jesús",
-        "Canta la vida que allí está",
-        "Cantarán los siglos en el Señor."
+        [
+          "Cantan los ángeles allí",
+          "Canta los hombres a Jesús",
+          "Canta la vida que allí está",
+          "Cantarán los siglos en el Señor."
+        ]
       ],
       "estrofas": [
         [
@@ -19555,13 +19603,15 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Sí, el Rey está volviendo",
-        "El Rey está volviendo",
-        "La trompeta está sonando",
-        "Y mi nombre va a llamar",
-        "Sí, hoy el Rey está volviendo,",
-        "El Rey está volviendo",
-        "¡Aleluya! Él nos viene a buscar"
+        [
+          "Sí, el Rey está volviendo",
+          "El Rey está volviendo",
+          "La trompeta está sonando",
+          "Y mi nombre va a llamar",
+          "Sí, hoy el Rey está volviendo,",
+          "El Rey está volviendo",
+          "¡Aleluya! Él nos viene a buscar"
+        ]
       ],
       "estrofas": [
         [
@@ -19603,12 +19653,14 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Trigo soy, trigo soy,",
-        "Del granero, del granero",
-        "Del Señor, del Señor",
-        "Por la sangre de mi Cristo,",
-        "Y el poder de Jesucristo,",
-        "A su granero yo voy."
+        [
+          "Trigo soy, trigo soy,",
+          "Del granero, del granero",
+          "Del Señor, del Señor",
+          "Por la sangre de mi Cristo,",
+          "Y el poder de Jesucristo,",
+          "A su granero yo voy."
+        ]
       ],
       "estrofas": [
         [
@@ -19641,10 +19693,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Él ya pagó la deuda que yo aún tenía",
-        "Y el sufrimiento en una cruz por mis pecados",
-        "A mí me resta serle fiel, también amarle",
-        "Al Rey de gloria serviré hasta la muerte."
+        [
+          "Él ya pagó la deuda que yo aún tenía",
+          "Y el sufrimiento en una cruz por mis pecados",
+          "A mí me resta serle fiel, también amarle",
+          "Al Rey de gloria serviré hasta la muerte."
+        ]
       ],
       "estrofas": [
         [
@@ -19668,9 +19722,11 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "No es un parece, no lo es",
-        "Es verdad, se siente al Señor",
-        "Es verdad, se siente el Señor."
+        [
+          "No es un parece, no lo es",
+          "Es verdad, se siente al Señor",
+          "Es verdad, se siente el Señor."
+        ]
       ],
       "estrofas": [
         [
@@ -19702,10 +19758,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Haz tu cual la mujer, que fue y tocó",
-        "“el borde del vestido de Jesús”",
-        "Virtud salió de Él y... la sanó.",
-        "“y... sí le tocas, tú sanas también”."
+        [
+          "Haz tu cual la mujer, que fue y tocó",
+          "“el borde del vestido de Jesús”",
+          "Virtud salió de Él y... la sanó.",
+          "“y... sí le tocas, tú sanas también”."
+        ]
       ],
       "estrofas": [
         [
@@ -19735,11 +19793,13 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Y pensar que siempre le tuve a mi lado",
-        "Y pensar que nunca, le quise escuchar",
-        "El humildemente, se acercó a mi lado",
-        "Y muy dulcemente, le dijo a mi alma",
-        "Te quiero salvar."
+        [
+          "Y pensar que siempre le tuve a mi lado",
+          "Y pensar que nunca, le quise escuchar",
+          "El humildemente, se acercó a mi lado",
+          "Y muy dulcemente, le dijo a mi alma",
+          "Te quiero salvar."
+        ]
       ],
       "estrofas": [
         [
@@ -19772,10 +19832,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "No tienes excusa, no tienes perdón",
-        "No tienes francas las puertas de Sión,",
-        "No tienes excusa, no tienes perdón",
-        "No tienes francas las puertas de Sión."
+        [
+          "No tienes excusa, no tienes perdón",
+          "No tienes francas las puertas de Sión,",
+          "No tienes excusa, no tienes perdón",
+          "No tienes francas las puertas de Sión."
+        ]
       ],
       "estrofas": [
         [
@@ -19805,14 +19867,16 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Bautízame, bautízame, bautízame,",
-        "Con tu Espíritu Santo;",
-        "Que quiero sentir tu presencia",
-        "Que desciendo de lo alto.",
-        "Bautízame, bautízame, bautízame,",
-        "Con tu Espíritu Santo;",
-        "Llena mi copa Señor,",
-        "Hasta que esté rebosando."
+        [
+          "Bautízame, bautízame, bautízame,",
+          "Con tu Espíritu Santo;",
+          "Que quiero sentir tu presencia",
+          "Que desciendo de lo alto.",
+          "Bautízame, bautízame, bautízame,",
+          "Con tu Espíritu Santo;",
+          "Llena mi copa Señor,",
+          "Hasta que esté rebosando."
+        ]
       ],
       "estrofas": [
         [
@@ -19844,10 +19908,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Ciento veinte años predicó Noé,",
-        "Diciendo a los hombres que ya venía el fin,",
-        "Cuando ya vino el día que no quedó nadie,",
-        "Que no quedó nadie y todo consumió."
+        [
+          "Ciento veinte años predicó Noé,",
+          "Diciendo a los hombres que ya venía el fin,",
+          "Cuando ya vino el día que no quedó nadie,",
+          "Que no quedó nadie y todo consumió."
+        ]
       ],
       "estrofas": [
         [
@@ -19930,10 +19996,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Pero tu amor y tu calor",
-        "Me levanta y me fuerza y vigor",
-        "Pero lucharé y seguiré, con tu ayuda",
-        "Mi Señor, yo venceré."
+        [
+          "Pero tu amor y tu calor",
+          "Me levanta y me fuerza y vigor",
+          "Pero lucharé y seguiré, con tu ayuda",
+          "Mi Señor, yo venceré."
+        ]
       ],
       "estrofas": [
         [
@@ -19963,10 +20031,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "¡Decídete, decídete!",
-        "Las puertas se cerrarán.",
-        "¡Decídete, decídete!",
-        "Aún abiertas están."
+        [
+          "¡Decídete, decídete!",
+          "Las puertas se cerrarán.",
+          "¡Decídete, decídete!",
+          "Aún abiertas están."
+        ]
       ],
       "estrofas": [
         [
@@ -20002,10 +20072,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Quédate, Señor, que se hace tarde",
-        "Te ofrezco el corazón para posar.",
-        "Hazlo tu morada permanente,",
-        "Acéptalo, acéptalo mi Salvador."
+        [
+          "Quédate, Señor, que se hace tarde",
+          "Te ofrezco el corazón para posar.",
+          "Hazlo tu morada permanente,",
+          "Acéptalo, acéptalo mi Salvador."
+        ]
       ],
       "estrofas": [
         [
@@ -20035,10 +20107,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Hermano, tu que hablas de tu hermano,",
-        "Hermano, tu que hablas del pastor",
-        "Así quieres llegar hasta los Cielos",
-        "Sin paz, sin bondad y sin amor."
+        [
+          "Hermano, tu que hablas de tu hermano,",
+          "Hermano, tu que hablas del pastor",
+          "Así quieres llegar hasta los Cielos",
+          "Sin paz, sin bondad y sin amor."
+        ]
       ],
       "estrofas": [
         [
@@ -20068,10 +20142,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "El Comandante de nuestra escuadra",
-        "Aquí a mi lado hablando está,",
-        "Que libertemos a nuestro Chile",
-        "De las cadenas de Satanás."
+        [
+          "El Comandante de nuestra escuadra",
+          "Aquí a mi lado hablando está,",
+          "Que libertemos a nuestro Chile",
+          "De las cadenas de Satanás."
+        ]
       ],
       "estrofas": [
         [
@@ -20105,11 +20181,13 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Esperando estoy, yo se",
-        "Que Cristo ha de venir por mí,",
-        "No te canses jamás y también lo hará por ti,",
-        "Oh que dicha será ver a mi Salvador",
-        "Por una eternidad, con él tendré felicidad."
+        [
+          "Esperando estoy, yo se",
+          "Que Cristo ha de venir por mí,",
+          "No te canses jamás y también lo hará por ti,",
+          "Oh que dicha será ver a mi Salvador",
+          "Por una eternidad, con él tendré felicidad."
+        ]
       ],
       "estrofas": [
         [
@@ -20135,10 +20213,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Querido amigo, Cristo te llama",
-        "No hagas duro tu corazón",
-        "Ríndete a Cristo, él quiere a tu alma",
-        "Y tendrás parte en la resurrección."
+        [
+          "Querido amigo, Cristo te llama",
+          "No hagas duro tu corazón",
+          "Ríndete a Cristo, él quiere a tu alma",
+          "Y tendrás parte en la resurrección."
+        ]
       ],
       "estrofas": [
         [
@@ -20168,10 +20248,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Enséñame Señor a obedecerte",
-        "Que quiero ser perfecto mi Señor,",
-        "No dejes que mi carne me traicione,",
-        "No me dejes caer en tentación."
+        [
+          "Enséñame Señor a obedecerte",
+          "Que quiero ser perfecto mi Señor,",
+          "No dejes que mi carne me traicione,",
+          "No me dejes caer en tentación."
+        ]
       ],
       "estrofas": [
         [
@@ -20207,10 +20289,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Tú serás responsable de tu alma,",
-        "Si hasta hoy no le das tu corazón,",
-        "Sólo aquel que se entrega a Jesucristo",
-        "Gozará de eterna salvación."
+        [
+          "Tú serás responsable de tu alma,",
+          "Si hasta hoy no le das tu corazón,",
+          "Sólo aquel que se entrega a Jesucristo",
+          "Gozará de eterna salvación."
+        ]
       ],
       "estrofas": [
         [
@@ -20244,10 +20328,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Si Cristo vive en mi vida...cómo dudar,",
-        "Si ha cambiado mi ser...cómo dudar",
-        "En el dolor me ha respondido,",
-        "Cómo es posible dudar."
+        [
+          "Si Cristo vive en mi vida...cómo dudar,",
+          "Si ha cambiado mi ser...cómo dudar",
+          "En el dolor me ha respondido,",
+          "Cómo es posible dudar."
+        ]
       ],
       "estrofas": [
         [
@@ -20278,10 +20364,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Nada, no nada me ha de mover,",
-        "Nada, no nada me ha de mover,",
-        "Pues cual la roca eterna de los siglos",
-        "Firme estaré."
+        [
+          "Nada, no nada me ha de mover,",
+          "Nada, no nada me ha de mover,",
+          "Pues cual la roca eterna de los siglos",
+          "Firme estaré."
+        ]
       ],
       "estrofas": [
         [
@@ -20310,13 +20398,15 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Señor levanta obreros",
-        "Fervientes en tu iglesia",
-        "Hermanos consagrados de todo corazón",
-        "Que corran por las calles",
-        "Llevando el gran Mensaje",
-        "Porque ya Cristo viene",
-        "A buscar lo que Él ganó."
+        [
+          "Señor levanta obreros",
+          "Fervientes en tu iglesia",
+          "Hermanos consagrados de todo corazón",
+          "Que corran por las calles",
+          "Llevando el gran Mensaje",
+          "Porque ya Cristo viene",
+          "A buscar lo que Él ganó."
+        ]
       ],
       "estrofas": [
         [
@@ -20352,20 +20442,22 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "\"Yo soy el camino",
-        "La verdad y la Vida",
-        "Y nadie va a al Padre",
-        "Si no es por mí.\"",
-        "Así dice un texto.",
-        "Que sale en la Biblia,",
-        "Donde dice Cristo,",
-        "\"Venid a mí\"",
-        "Por eso amigos",
-        "Aquí les traemos",
-        "Las gratas nuevas",
-        "De Salvación,",
-        "Que vengan al Evangelio",
-        "Y gozarán de su amor."
+        [
+          "\"Yo soy el camino",
+          "La verdad y la Vida",
+          "Y nadie va a al Padre",
+          "Si no es por mí.\"",
+          "Así dice un texto.",
+          "Que sale en la Biblia,",
+          "Donde dice Cristo,",
+          "\"Venid a mí\"",
+          "Por eso amigos",
+          "Aquí les traemos",
+          "Las gratas nuevas",
+          "De Salvación,",
+          "Que vengan al Evangelio",
+          "Y gozarán de su amor."
+        ]
       ],
       "estrofas": [
         [
@@ -20397,10 +20489,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "En mi sueño yo vi que te azotaban",
-        "Y corrí Señor a defenderte",
-        "Y el verdugo que yo pensaba era otro,",
-        "Al ver su cara, Señor, yo vi mi rostro."
+        [
+          "En mi sueño yo vi que te azotaban",
+          "Y corrí Señor a defenderte",
+          "Y el verdugo que yo pensaba era otro,",
+          "Al ver su cara, Señor, yo vi mi rostro."
+        ]
       ],
       "estrofas": [
         [
@@ -20425,10 +20519,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Un año más, un año más con Cristo estamos,",
-        "Un año más, un año más hoy celebramos,",
-        "Un año más con nuestra voz a Dios, cantamos;",
-        "Para decir \"Eben-ezer, Eben-ezer\"."
+        [
+          "Un año más, un año más con Cristo estamos,",
+          "Un año más, un año más hoy celebramos,",
+          "Un año más con nuestra voz a Dios, cantamos;",
+          "Para decir \"Eben-ezer, Eben-ezer\"."
+        ]
       ],
       "estrofas": [
         [
@@ -20463,9 +20559,11 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Jerusalén, Jerusalén álzate a cantar",
-        "Oh, oh hosanna en las alturas",
-        "Oh, oh hosanna a tu Rey."
+        [
+          "Jerusalén, Jerusalén álzate a cantar",
+          "Oh, oh hosanna en las alturas",
+          "Oh, oh hosanna a tu Rey."
+        ]
       ],
       "estrofas": [
         [
@@ -20501,11 +20599,13 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Aquí están mis manos adorándote",
-        "Aquí está mi voz agradeciéndote",
-        "Diciendo: aleluya, gloria a Dios.",
-        "Aleluya, aleluya, aleluya,",
-        "Gloria a Dios."
+        [
+          "Aquí están mis manos adorándote",
+          "Aquí está mi voz agradeciéndote",
+          "Diciendo: aleluya, gloria a Dios.",
+          "Aleluya, aleluya, aleluya,",
+          "Gloria a Dios."
+        ]
       ],
       "estrofas": [
         [
@@ -20585,15 +20685,17 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Él día en que no le alabo",
-        "El alma se me entristece,",
-        "Pues donde no hay alabanza",
-        "Él no puede estar presente.",
-        "Un sacrificio tan grande",
-        "No le puedes pasar por alto,",
-        "Tres veces le digo Santo",
-        "Aunque digan que yo estoy loco",
-        "Santo, santo, santo, santo."
+        [
+          "Él día en que no le alabo",
+          "El alma se me entristece,",
+          "Pues donde no hay alabanza",
+          "Él no puede estar presente.",
+          "Un sacrificio tan grande",
+          "No le puedes pasar por alto,",
+          "Tres veces le digo Santo",
+          "Aunque digan que yo estoy loco",
+          "Santo, santo, santo, santo."
+        ]
       ],
       "estrofas": [
         [
@@ -20615,14 +20717,16 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Necesito de tí,",
-        "Para caminar en este mundo",
-        "En este mundo de maldad.",
-        "Necesito de tí,",
-        "Para vencer toda obra de Satanás.",
-        "Necesito de tí;",
-        "Terminar mi carrera, porque al final",
-        "Nos espera la corona para tí y para mí."
+        [
+          "Necesito de tí,",
+          "Para caminar en este mundo",
+          "En este mundo de maldad.",
+          "Necesito de tí,",
+          "Para vencer toda obra de Satanás.",
+          "Necesito de tí;",
+          "Terminar mi carrera, porque al final",
+          "Nos espera la corona para tí y para mí."
+        ]
       ],
       "estrofas": [
         [
@@ -20656,10 +20760,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "A ti cantaremos canciones nuevas.",
-        "A ti cantaremos canciones de amor.",
-        "Esperando tu santa presencia,",
-        "En nuestros corazones, aleluya, amén."
+        [
+          "A ti cantaremos canciones nuevas.",
+          "A ti cantaremos canciones de amor.",
+          "Esperando tu santa presencia,",
+          "En nuestros corazones, aleluya, amén."
+        ]
       ],
       "estrofas": [
         [
@@ -20683,10 +20789,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "\"Ven, trae tu cruz y sígueme\",",
-        "Oí su tierna voz llamar",
-        "Negarle nunca puedo a quien por mí,",
-        "Su Vida quiso dar."
+        [
+          "\"Ven, trae tu cruz y sígueme\",",
+          "Oí su tierna voz llamar",
+          "Negarle nunca puedo a quien por mí,",
+          "Su Vida quiso dar."
+        ]
       ],
       "estrofas": [
         [
@@ -20754,10 +20862,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "¡oh, cuanto le amo! y fiel le adoro;",
-        "Él es mi Vida mi Redentor;",
-        "El Rey de gloria, vino a salvarme,",
-        "Y a revelarme al Dios de amor."
+        [
+          "¡oh, cuanto le amo! y fiel le adoro;",
+          "Él es mi Vida mi Redentor;",
+          "El Rey de gloria, vino a salvarme,",
+          "Y a revelarme al Dios de amor."
+        ]
       ],
       "estrofas": [
         [
@@ -20787,14 +20897,16 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Porque nadie ni nada lo logrará,",
-        "Porque Cristo a mi lado estará",
-        "Es la fuente de Vida eterna,",
-        "Es la roca de la eternidad.",
-        "Cristo sacia mi alma del bien",
-        "Cristo guarda mi Vida del mal",
-        "Y no puedo dejar de amarle",
-        "Porque solo él me pudo salvar."
+        [
+          "Porque nadie ni nada lo logrará,",
+          "Porque Cristo a mi lado estará",
+          "Es la fuente de Vida eterna,",
+          "Es la roca de la eternidad.",
+          "Cristo sacia mi alma del bien",
+          "Cristo guarda mi Vida del mal",
+          "Y no puedo dejar de amarle",
+          "Porque solo él me pudo salvar."
+        ]
       ],
       "estrofas": [
         [
@@ -20842,10 +20954,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Quiero entender tu inmenso amor,",
-        "Y tu agonía de dolor;",
-        "Donde tu moriste quiero yo estar,",
-        "Lléveme al gólgota."
+        [
+          "Quiero entender tu inmenso amor,",
+          "Y tu agonía de dolor;",
+          "Donde tu moriste quiero yo estar,",
+          "Lléveme al gólgota."
+        ]
       ],
       "estrofas": [
         [
@@ -20875,10 +20989,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Escucha mi canto consuelo del triste",
-        "Mi existencia entera queda a ti rendida",
-        "Dirige mis pasos tu que un día dijiste",
-        "Yo soy el camino la verdad y la vida. (bis)."
+        [
+          "Escucha mi canto consuelo del triste",
+          "Mi existencia entera queda a ti rendida",
+          "Dirige mis pasos tu que un día dijiste",
+          "Yo soy el camino la verdad y la vida. (bis)."
+        ]
       ],
       "estrofas": [
         [
@@ -20908,10 +21024,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "¿Ni aún así creerías en Él,",
-        "Ingrato pecador?",
-        "Él está aquí, si quieres creer:",
-        "Ven a tu Salvador."
+        [
+          "¿Ni aún así creerías en Él,",
+          "Ingrato pecador?",
+          "Él está aquí, si quieres creer:",
+          "Ven a tu Salvador."
+        ]
       ],
       "estrofas": [
         [
@@ -20941,10 +21059,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Escucha oh Dios mi confesión humilde,",
-        "Y líbrame de tentación sutil,",
-        "Preserva siempre, en tu rebaño mi alma,",
-        "Perdón te ruego, mi Señor y Dios."
+        [
+          "Escucha oh Dios mi confesión humilde,",
+          "Y líbrame de tentación sutil,",
+          "Preserva siempre, en tu rebaño mi alma,",
+          "Perdón te ruego, mi Señor y Dios."
+        ]
       ],
       "estrofas": [
         [
@@ -20968,8 +21088,10 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Si yo amo al mundo, tendré que morir",
-        "Porque yo sin Cristo, no puedo vivir."
+        [
+          "Si yo amo al mundo, tendré que morir",
+          "Porque yo sin Cristo, no puedo vivir."
+        ]
       ],
       "estrofas": [
         [
@@ -21028,8 +21150,10 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Te alabo Señor, te alabo Señor",
-        "Y te amo como tú a mí."
+        [
+          "Te alabo Señor, te alabo Señor",
+          "Y te amo como tú a mí."
+        ]
       ],
       "estrofas": [
         [
@@ -21059,10 +21183,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Eres la historia inolvidable",
-        "Porque en su seno se derramó",
-        "La sangre preciosa sangre",
-        "Del unigénito Hijo de Dios."
+        [
+          "Eres la historia inolvidable",
+          "Porque en su seno se derramó",
+          "La sangre preciosa sangre",
+          "Del unigénito Hijo de Dios."
+        ]
       ],
       "estrofas": [
         [
@@ -21098,10 +21224,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Mas a vosotros los que teméis mi nombre,",
-        "En la alborada nacerá el Sol de Justicia",
-        "Y saltaréis como becerro en la manada,",
-        "Por la potencia del Espíritu de Dios."
+        [
+          "Mas a vosotros los que teméis mi nombre,",
+          "En la alborada nacerá el Sol de Justicia",
+          "Y saltaréis como becerro en la manada,",
+          "Por la potencia del Espíritu de Dios."
+        ]
       ],
       "estrofas": [
         [
@@ -21135,14 +21263,16 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Me has dado tantas cosas",
-        "Mi precioso Jesús,",
-        "Me ha dado fe, me ha dado Paz",
-        "Me ha dado amor,",
-        "Me ha dado gozo Eterno en plenitud",
-        "Me ha dado tantas cosas",
-        "Mi precioso Jesús,",
-        "Que yo sería ingrato si negará su amor."
+        [
+          "Me has dado tantas cosas",
+          "Mi precioso Jesús,",
+          "Me ha dado fe, me ha dado Paz",
+          "Me ha dado amor,",
+          "Me ha dado gozo Eterno en plenitud",
+          "Me ha dado tantas cosas",
+          "Mi precioso Jesús,",
+          "Que yo sería ingrato si negará su amor."
+        ]
       ],
       "estrofas": [
         [
@@ -21166,10 +21296,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Si tu supieras quien es el Señor",
-        "Arrepentido vinieras a él,",
-        "Su santa Sangre la dio en Redención",
-        "Para salvar al más vil pecador."
+        [
+          "Si tu supieras quien es el Señor",
+          "Arrepentido vinieras a él,",
+          "Su santa Sangre la dio en Redención",
+          "Para salvar al más vil pecador."
+        ]
       ],
       "estrofas": [
         [
@@ -21199,10 +21331,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "En el Calvario vertió la sangre",
-        "De Jesucristo mi Salvador,",
-        "Ven a lavarte querido hermano,",
-        "Si has manchado tu corazón."
+        [
+          "En el Calvario vertió la sangre",
+          "De Jesucristo mi Salvador,",
+          "Ven a lavarte querido hermano,",
+          "Si has manchado tu corazón."
+        ]
       ],
       "estrofas": [
         [
@@ -21238,10 +21372,12 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Cristo viene, ya viene con poder",
-        "Ya arrebatara aquel que espera en él,",
-        "Si lo llevara al Cielo más allá;",
-        "Donde gozo siempre habrá."
+        [
+          "Cristo viene, ya viene con poder",
+          "Ya arrebatara aquel que espera en él,",
+          "Si lo llevara al Cielo más allá;",
+          "Donde gozo siempre habrá."
+        ]
       ],
       "estrofas": [
         [
@@ -21271,14 +21407,16 @@
       "nota": "",
       "compas": "",
       "coro": [
-        "Soy feliz, soy feliz",
-        "Con mi Dios soy feliz",
-        "Antes nunca tuve",
-        "Tantas ganas de vivir...",
-        "Soy feliz, soy feliz",
-        "Con mi Dios es feliz",
-        "Antes nunca tuve",
-        "Tantas ganas como hoy de vivir."
+        [
+          "Soy feliz, soy feliz",
+          "Con mi Dios soy feliz",
+          "Antes nunca tuve",
+          "Tantas ganas de vivir...",
+          "Soy feliz, soy feliz",
+          "Con mi Dios es feliz",
+          "Antes nunca tuve",
+          "Tantas ganas como hoy de vivir."
+        ]
       ],
       "estrofas": [
         [
